@@ -9,6 +9,20 @@ Get-ChildItem -Recurse -Include *.html,*.htm | ForEach-Object {
     # Replace absolute domain prefixes
     $new = $new -replace 'http://www\.levyhaim\.co\.il/','./'
     $new = $new -replace 'http://www\.levyhaim\.co\.il','.'
+    # Replace root-relative attributes (href/src/action) that begin with a leading slash
+    # e.g. href='/210785/...'  -> href='/test/210785/...'
+    $new = $new -replace "='/","='/test/"
+    $new = $new -replace '="/','="/test/'
+    $new = $new -replace " href='/"," href='/test/"
+    $new = $new -replace ' href="/',' href="/test/'
+    $new = $new -replace " src='/"," src='/test/"
+    $new = $new -replace ' src="/',' src="/test/'
+    $new = $new -replace " action='/"," action='/test/"
+    $new = $new -replace ' action="/',' action="/test/'
+    # Replace common CSS/JS root-relative usages like url(/...) and location redirects
+    $new = $new -replace 'url\(/','url(/test/'
+    $new = $new -replace "document\.location\.href\s*=\s*'/'","document.location.href='/test/'"
+    $new = $new -replace 'document\.location\.href\s*=\s*"/"','document.location.href="/test/"'
     if ($new -ne $content) {
         Set-Content -Encoding UTF8 -Value $new -LiteralPath $p
         Write-Output "Updated: $p"
