@@ -1,0 +1,3248 @@
+[
+  {
+    "id": "MBHItem3143616",
+    "className": "menu_h_active",
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>דברי הקדמה</div>",
+    "url": ".",
+    "children": [
+      {
+        "id": "SMBHItem3143613",
+        "className": null,
+        "aClass": null,
+        "title": "צור קשר",
+        "url": "/test/site/form/showForm.asp?form_id=245997",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3148622",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>צורת הלימוד</div>",
+    "url": "/test/210785/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93",
+    "children": [
+      {
+        "id": "SMBHItem6762670",
+        "className": null,
+        "aClass": null,
+        "title": "תרגום האתר מעברית לכל שפה אחרת",
+        "url": "/test/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%2D%D7%94%D7%90%D7%AA%D7%A8%2D%D7%9E%D7%A2%D7%91%D7%A8%D7%99%D7%AA%2D%D7%9C%D7%9B%D7%9C%2D%D7%A9%D7%A4%D7%94%2D%D7%90%D7%97%D7%A8%D7%AA.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3149224",
+        "className": null,
+        "aClass": null,
+        "title": "לומדים מוזיקה",
+        "url": "/test/210785/%D7%9C%D7%95%D7%9E%D7%93%D7%99%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3149229",
+        "className": null,
+        "aClass": null,
+        "title": "עולם המוזיקה",
+        "url": "/test/210785/%D7%A2%D7%95%D7%9C%D7%9D%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3149239",
+        "className": null,
+        "aClass": null,
+        "title": "מהי מוזיקה",
+        "url": "/test/210785/%D7%9E%D7%94%D7%99%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3149241",
+        "className": null,
+        "aClass": null,
+        "title": "העוגה המוזיקלית",
+        "url": "/test/210785/%D7%94%D7%A2%D7%95%D7%92%D7%94%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3149243",
+        "className": null,
+        "aClass": null,
+        "title": "אוזן שומעת",
+        "url": "/test/210785/%D7%90%D7%95%D7%96%D7%9F%2D%D7%A9%D7%9F%D7%9E%D7%A2%D7%AA",
+        "children": []
+      },
+      {
+        "id": "Menu_1773484179101",
+        "className": null,
+        "aClass": null,
+        "title": "צורת הלימוד בדיקה",
+        "url": "pages/1773484178225_צורת הלימוד בדיקה.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3149256",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>תיאוריה מוזיקלית</div>",
+    "url": "/test/210785/%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%99%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA",
+    "children": [
+      {
+        "id": "SMBHItem3149260",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מחמושת",
+        "url": "/test/210785/%D7%94%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA/",
+        "children": [
+          {
+            "id": "SMBHItem6743445",
+            "className": null,
+            "aClass": null,
+            "title": "מחמושת - הגדרה",
+            "url": "/test/%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA%2D%D7%94%D7%92%D7%93%D7%A8%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743452",
+            "className": null,
+            "aClass": null,
+            "title": "צורת המחמושת",
+            "url": "/test/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%94%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743447",
+            "className": null,
+            "aClass": null,
+            "title": "קוי עזר במחמושת",
+            "url": "/test/%D7%A7%D7%95%D7%99%2D%D7%A2%D7%96%D7%A8%2D%D7%91%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743448",
+            "className": null,
+            "aClass": null,
+            "title": "גובה הקו במחמושת",
+            "url": "/test/%D7%92%D7%95%D7%91%D7%94%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%2D%D7%91%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem3149262",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מפתח מוזיקלי",
+        "url": "/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99",
+        "children": [
+          {
+            "id": "SMBHItem6743461",
+            "className": null,
+            "aClass": null,
+            "title": "סוגי מפתחות",
+            "url": "/test/%D7%A1%D7%95%D7%92%D7%99%2D%D7%9E%D7%A4%D7%AA%D7%97%D7%95%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149264",
+            "className": null,
+            "aClass": null,
+            "title": "מפתח סול",
+            "url": "/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%A1%D7%95%D7%9C",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149265",
+            "className": null,
+            "aClass": null,
+            "title": "מפתח פה",
+            "url": "/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%A4%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149267",
+            "className": null,
+            "aClass": null,
+            "title": "מפתח דו",
+            "url": "/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%93%D7%95",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743540",
+            "className": null,
+            "aClass": null,
+            "title": "מפתח הקשה",
+            "url": "/test/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%9C%D7%94%D7%A7%D7%A9%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743463",
+            "className": null,
+            "aClass": null,
+            "title": "צורת המפתחות",
+            "url": "/test/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%94%D7%9E%D7%A4%D7%AA%D7%97%D7%95%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6750421",
+            "className": null,
+            "aClass": null,
+            "title": "זהה את שם הצליל",
+            "url": "/test/%D7%96%D7%94%D7%94%2D%D7%90%D7%AA%2D%D7%A9%D7%9D%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%2D1%2D1.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem3149269",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "צלילי המוזיקה",
+        "url": "/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+        "children": [
+          {
+            "id": "SMBHItem6743464",
+            "className": null,
+            "aClass": null,
+            "title": "צלילי המוזיקה-הגדרה",
+            "url": "/test/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D%D7%94%D7%92%D7%93%D7%A8%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149271",
+            "className": null,
+            "aClass": null,
+            "title": "תכונות הצליל",
+            "url": "/test/210785/%D7%AA%D7%9B%D7%95%D7%A0%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743471",
+            "className": null,
+            "aClass": null,
+            "title": "תכונת הגובה",
+            "url": "/test/%D7%AA%D7%9B%D7%95%D7%A0%D7%AA%2D%D7%94%D7%92%D7%95%D7%91%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743472",
+            "className": null,
+            "aClass": null,
+            "title": "תכונת העוצמה",
+            "url": "/test/%D7%AA%D7%9B%D7%95%D7%A0%D7%AA%2D%D7%94%D7%A2%D7%95%D7%A6%D7%9E%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743473",
+            "className": null,
+            "aClass": null,
+            "title": "תכונת המשך",
+            "url": "/test/%D7%AA%D7%9B%D7%95%D7%A0%D7%AA%2D%D7%94%D7%9E%D7%A9%D7%9A.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743474",
+            "className": null,
+            "aClass": null,
+            "title": "תכונת הגוון",
+            "url": "/test/%D7%AA%D7%9B%D7%95%D7%A0%D7%AA%2D%D7%94%D7%92%D7%95%D7%95%D7%9F.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150584",
+            "className": null,
+            "aClass": null,
+            "title": "שמות הצלילים",
+            "url": "/test/210785/%D7%A9%D7%9E%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743466",
+            "className": null,
+            "aClass": null,
+            "title": "גבהי הצלילים",
+            "url": "/test/%D7%92%D7%91%D7%94%D7%99%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149283",
+            "className": null,
+            "aClass": null,
+            "title": "12 הצלילים",
+            "url": "/test/210785/12%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839041",
+            "className": null,
+            "aClass": null,
+            "title": "7 צלילי יסוד",
+            "url": "/test/7%2D%D7%A6%D7%9C%D7%99%D7%9C%2D%D7%99%D7%A1%D7%95%D7%93.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149285",
+            "className": null,
+            "aClass": null,
+            "title": "5 סימני היתק",
+            "url": "/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%99%D7%AA%D7%A7",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743467",
+            "className": null,
+            "aClass": null,
+            "title": "שמות סימני ההיתק",
+            "url": "/test/%D7%A9%D7%9E%D7%95%D7%AA%2D%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%94%D7%99%D7%AA%D7%A7.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743468",
+            "className": null,
+            "aClass": null,
+            "title": "סימני היתק - דיאזים",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%99%D7%AA%D7%A7%2D%D7%91%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%93%D7%99%D7%90%D7%96%D7%99%D7%9D.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743469",
+            "className": null,
+            "aClass": null,
+            "title": "סימני היתק - במולים",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%99%D7%AA%D7%A7%2D%D7%91%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%91%D7%9E%D7%95%D7%9C%D7%99%D7%9D.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem6747131",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "משקל במוזיקה",
+        "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1%2D1%2D1%2D1%2D1.html",
+        "children": [
+          {
+            "id": "SMBHItem6747132",
+            "className": null,
+            "aClass": null,
+            "title": "משקל זוגי",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747133",
+            "className": null,
+            "aClass": null,
+            "title": "משקל משולש",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%9E%D7%A9%D7%95%D7%9C%D7%A9.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747134",
+            "className": null,
+            "aClass": null,
+            "title": "משקל מעורב",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747136",
+            "className": null,
+            "aClass": null,
+            "title": "משקל זוגי - שינוי במכנה",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%96%D7%95%D7%92%D7%99%2D%D7%A9%D7%99%D7%A0%D7%95%D7%99%2D%D7%91%D7%9E%D7%9B%D7%A0%D7%94%2D1%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747137",
+            "className": null,
+            "aClass": null,
+            "title": "משקל משולש - שינוי במכנה",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%9E%D7%A9%D7%95%D7%9C%D7%A9%2D%D7%A9%D7%99%D7%A0%D7%95%D7%99%2D%D7%91%D7%9E%D7%9B%D7%A0%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747139",
+            "className": null,
+            "aClass": null,
+            "title": "משקל מעורב- שינוי במכנה",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%9E%D7%A2%D7%95%D7%A8%D7%91%2D%D7%A9%D7%99%D7%A0%D7%95%D7%99%2D%D7%91%D7%9E%D7%9B%D7%A0%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747140",
+            "className": null,
+            "aClass": null,
+            "title": "משקל מתחלף",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%9E%D7%AA%D7%97%D7%9C%D7%A3.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747141",
+            "className": null,
+            "aClass": null,
+            "title": "משקלות בעלי אותו ערך מתמטי",
+            "url": "/test/%D7%9E%D7%A9%D7%A7%D7%9C%D7%95%D7%AA%2D%D7%91%D7%A2%D7%9C%D7%99%2D%D7%90%D7%95%D7%AA%D7%95%2D%D7%A2%D7%A8%D7%9A%2D%D7%9E%D7%AA%D7%9E%D7%98%D7%99.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747142",
+            "className": null,
+            "aClass": null,
+            "title": "טבלה- סוגי משקלות",
+            "url": "/test/%D7%98%D7%91%D7%9C%D7%94%2D%D7%A1%D7%95%D7%92%D7%99%2D%D7%9E%D7%A9%D7%A7%D7%9C%D7%95%D7%AA.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem6743735",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תוים במוזיקה",
+        "url": "/test/%D7%AA%D7%95%D7%99%D7%9D%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1%2D1%2D1%2D1.html",
+        "children": [
+          {
+            "id": "SMBHItem3149321",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "תיבה במוזיקה",
+            "url": "/test/210785/%D7%AA%D7%99%D7%91%D7%94%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+            "children": [
+              {
+                "id": "SMBHItem6743561",
+                "className": null,
+                "aClass": null,
+                "title": "שמות התוים",
+                "url": "/test/%D7%A9%D7%9E%D7%95%D7%AA%2D%D7%94%D7%AA%D7%95%D7%99%D7%9D.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743508",
+                "className": null,
+                "aClass": null,
+                "title": "קו תיבה וירטואלי",
+                "url": "/test/%D7%A7%D7%95%2D%D7%AA%D7%99%D7%91%D7%94%2D%D7%95%D7%99%D7%A8%D7%98%D7%95%D7%90%D7%9C%D7%99.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743513",
+                "className": null,
+                "aClass": null,
+                "title": "תיבה",
+                "url": "/test/%D7%AA%D7%99%D7%91%D7%94.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743512",
+                "className": null,
+                "aClass": null,
+                "title": "קורית",
+                "url": "/test/%D7%A7%D7%95%D7%A8%D7%99%D7%AA.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743510",
+                "className": null,
+                "aClass": null,
+                "title": "תיבת הקדמה",
+                "url": "/test/%D7%AA%D7%99%D7%91%D7%AA%2D%D7%94%D7%A7%D7%93%D7%9E%D7%94.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743511",
+                "className": null,
+                "aClass": null,
+                "title": "הביט בתיבה",
+                "url": "/test/%D7%94%D7%91%D7%99%D7%98%2D%D7%91%D7%AA%D7%99%D7%91%D7%94.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743494",
+                "className": null,
+                "aClass": null,
+                "title": "מספור התיבות",
+                "url": "/test/%D7%9E%D7%A1%D7%A4%D7%95%D7%A8%2D%D7%94%D7%AA%D7%99%D7%91%D7%95%D7%AA.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743498",
+                "className": null,
+                "aClass": null,
+                "title": "קשתות",
+                "url": "/test/%D7%A7%D7%A9%D7%AA%D7%95%D7%AA.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743509",
+                "className": null,
+                "aClass": null,
+                "title": "סימני נשימה בתיווי",
+                "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%A0%D7%A9%D7%99%D7%9E%D7%94%2D%D7%91%D7%AA%D7%99%D7%95%D7%95%D7%99.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "SMBHItem6743506",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "קו תיבה עם סימון (נקודותיים)-חזרה שמאלי",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%95%D7%9F%2D%D7%AA%D7%99%D7%91%D7%94%2D%D7%91%D7%A9%D7%AA%D7%99%2D%D7%A0%D7%A7%D7%95%D7%93%D7%95%D7%AA%2D%D7%A6%D7%93%2D%D7%A9%D7%9E%D7%90%D7%9C.html",
+            "children": [
+              {
+                "id": "SMBHItem6743505",
+                "className": null,
+                "aClass": null,
+                "title": "קו תיבה עם סימון (נקודותיים)-חזרה ימני",
+                "url": "/test/%D7%A1%D7%99%D7%9E%D7%95%D7%9F%2D%D7%AA%D7%99%D7%91%D7%94%2D%D7%91%D7%A9%D7%AA%D7%99%2D%D7%A0%D7%A7%D7%95%D7%93%D7%95%D7%AA%2D%D7%91%D7%A6%D7%93%2D%D7%99%D7%9E%D7%99%D7%9F.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743518",
+                "className": null,
+                "aClass": null,
+                "title": "קו תיבה עם סימן כפול",
+                "url": "/test/%D7%A7%D7%95%2D%D7%AA%D7%99%D7%91%D7%94%2D%D7%A2%D7%9D%2D%D7%A1%D7%99%D7%9E%D7%9F%2D%D7%9B%D7%A4%D7%95%D7%9C.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743523",
+                "className": null,
+                "aClass": null,
+                "title": "קו תיבה עם סימן סיום",
+                "url": "/test/%D7%A7%D7%95%2D%D7%AA%D7%99%D7%91%D7%94%2D%D7%A2%D7%9D%2D%D7%A1%D7%99%D7%9E%D7%9F%2D%D7%A1%D7%99%D7%95%D7%9D.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "SMBHItem6743507",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "המשקל בתיבה",
+            "url": "/test/%D7%94%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%91%D7%AA%D7%99%D7%91%D7%94.html",
+            "children": [
+              {
+                "id": "SMBHItem6743504",
+                "className": null,
+                "aClass": null,
+                "title": "החלפת משקל בתיבה/תיבות",
+                "url": "/test/%D7%94%D7%97%D7%9C%D7%A4%D7%AA%2D%D7%9E%D7%A9%D7%A7%D7%9C%2D%D7%91%D7%AA%D7%99%D7%91%D7%94%2D%D7%AA%D7%99%D7%91%D7%95%D7%AA%2D1.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743500",
+                "className": null,
+                "aClass": null,
+                "title": "החלפת סולם בתיבה/תיבות",
+                "url": "/test/%D7%94%D7%97%D7%9C%D7%A4%D7%AA%2D%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%91%D7%AA%D7%99%D7%91%D7%94%2D%D7%AA%D7%99%D7%91%D7%95%D7%AA%2D%D7%A4%D7%A8%D7%A7%2D%D7%91%D7%99%D7%A6%D7%99%D7%A8%D7%94.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "SMBHItem3150016",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "ססטמה",
+            "url": "/test/210785/%D7%A1%D7%A1%D7%98%D7%9E%D7%94",
+            "children": [
+              {
+                "id": "SMBHItem6743526",
+                "className": null,
+                "aClass": null,
+                "title": "ססטמה סולו בליווי פסנתר",
+                "url": "/test/%D7%A1%D7%A1%D7%98%D7%9E%D7%94%2D%D7%A1%D7%95%D7%9C%D7%95%2D%D7%91%D7%9C%D7%99%D7%95%D7%95%D7%99%2D%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6743527",
+                "className": null,
+                "aClass": null,
+                "title": "ססטמה רב קולית",
+                "url": "/test/%D7%A1%D7%A1%D7%98%D7%9E%D7%94%2D%D7%A8%D7%91%2D%D7%A7%D7%95%D7%9C%D7%99%D7%AA.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6747232",
+                "className": null,
+                "aClass": null,
+                "title": "צורת כתיבת המלל בתוים - בעברית",
+                "url": "/test/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%9B%D7%AA%D7%99%D7%91%D7%AA%2D%D7%94%D7%9E%D7%9C%D7%9C%2D%D7%91%D7%AA%D7%95%D7%99%D7%9D%2D%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem6747233",
+                "className": null,
+                "aClass": null,
+                "title": "צורת כתיבת המלל באנגלית",
+                "url": "/test/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%9B%D7%AA%D7%99%D7%91%D7%AA%2D%D7%94%D7%9E%D7%9C%D7%9C%2D%D7%91%D7%90%D7%9E%D7%92%D7%9C%D7%99%D7%AA.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem3149313",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סימנים במוזיקה",
+        "url": "/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%91%D7%A2%D7%94",
+        "children": [
+          {
+            "id": "SMBHItem6743497",
+            "className": null,
+            "aClass": null,
+            "title": "סימני הגברה/החלשה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%92%D7%91%D7%A8%D7%94%2D%D7%94%D7%97%D7%9C%D7%A9%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747231",
+            "className": null,
+            "aClass": null,
+            "title": "וולטה ראשונה/שניה",
+            "url": "/test/%D7%95%D7%95%D7%9C%D7%98%D7%94%2D%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94%2D%D7%A9%D7%A0%D7%99%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5812241",
+            "className": null,
+            "aClass": null,
+            "title": "סימני האוירה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%90%D7%95%D7%99%D7%A8%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5812237",
+            "className": null,
+            "aClass": null,
+            "title": "סימני הדינמיקה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7%D7%94%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149292",
+            "className": null,
+            "aClass": null,
+            "title": "סימני הקצב",
+            "url": "/test/210785/%D7%A7%D7%A6%D7%91",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743565",
+            "className": null,
+            "aClass": null,
+            "title": "סימני האטה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%90%D7%98%D7%94%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743558",
+            "className": null,
+            "aClass": null,
+            "title": "סימני הארטיקולציה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%90%D7%A8%D7%98%D7%99%D7%A7%D7%95%D7%9C%D7%A6%D7%99%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743499",
+            "className": null,
+            "aClass": null,
+            "title": "סימני האטה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%90%D7%98%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743502",
+            "className": null,
+            "aClass": null,
+            "title": "סימני חזרה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%97%D7%96%D7%A8%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743496",
+            "className": null,
+            "aClass": null,
+            "title": "סימני הדינמיקה",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743495",
+            "className": null,
+            "aClass": null,
+            "title": "סימני התוים והדמימות",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%AA%D7%95%D7%99%D7%9D%2D%D7%95%D7%94%D7%93%D7%9E%D7%99%D7%9E%D7%95%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3149308",
+            "className": null,
+            "aClass": null,
+            "title": "סימני הטמפו",
+            "url": "/test/210785/%D7%98%D7%9E%D7%A4%D7%95",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem3150058",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סולם מוזיקלי",
+        "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99",
+        "children": [
+          {
+            "id": "SMBHItem3150061",
+            "className": null,
+            "aClass": null,
+            "title": "סוגי סולמות",
+            "url": "/test/210785/%D7%A1%D7%95%D7%92%D7%99%2D%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150065",
+            "className": null,
+            "aClass": null,
+            "title": "סימני הסולמות",
+            "url": "/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150090",
+            "className": null,
+            "aClass": null,
+            "title": "תבנית הסולם",
+            "url": "/test/210785/%D7%AA%D7%91%D7%A0%D7%99%D7%AA%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9D",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150095",
+            "className": null,
+            "aClass": null,
+            "title": "סימני ההיתק בסולם",
+            "url": "/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%94%D7%99%D7%AA%D7%A7%2D%D7%91%D7%A1%D7%95%D7%9C%D7%9D",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150102",
+            "className": null,
+            "aClass": null,
+            "title": "סולם מז'ור",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%96%2D%D7%95%D7%A8",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150106",
+            "className": null,
+            "aClass": null,
+            "title": "סולם מינור טבעי",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%99%D7%A0%D7%95%D7%A8%2D%D7%98%D7%91%D7%A2%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150121",
+            "className": null,
+            "aClass": null,
+            "title": "סולם מינור הרמוני",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%99%D7%A0%D7%95%D7%A8%2D%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150124",
+            "className": null,
+            "aClass": null,
+            "title": "סולם מינור מלודי",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%99%D7%A0%D7%95%D7%A8%2D%D7%9E%D7%9C%D7%95%D7%93%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150127",
+            "className": null,
+            "aClass": null,
+            "title": "סולם כרומטי",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9B%D7%A8%D7%95%D7%9E%D7%98%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150128",
+            "className": null,
+            "aClass": null,
+            "title": "סולם פנטטוני",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%A4%D7%A0%D7%98%D7%98%D7%95%D7%A0%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150132",
+            "className": null,
+            "aClass": null,
+            "title": "סולם טונלי א-טונלי ומיקרו-טונלי",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%98%D7%95%D7%A0%D7%9C%D7%99%2D%D7%95%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%98%D7%95%D7%A0%D7%9C%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150139",
+            "className": null,
+            "aClass": null,
+            "title": "סולמות מקבילים",
+            "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA%2D%D7%9E%D7%A7%D7%91%D7%99%D7%9C%D7%99%D7%9D",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150045",
+            "className": null,
+            "aClass": null,
+            "title": "מעגל הקווינטות",
+            "url": "/test/210785/%D7%9E%D7%A2%D7%92%D7%9C%2D%D7%94%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%98%D7%95%D7%AA",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150190",
+            "className": null,
+            "aClass": null,
+            "title": "דרגות הסולם",
+            "url": "/test/210785/%D7%93%D7%A8%D7%92%D7%95%D7%AA%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9D",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155642",
+            "className": null,
+            "aClass": null,
+            "title": "מנעד מוזיקלי",
+            "url": "/test/210785/%D7%9E%D7%A0%D7%A2%D7%93%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6752021",
+            "className": null,
+            "aClass": null,
+            "title": "החלפת סולמות",
+            "url": "/test/%D7%94%D7%97%D7%9C%D7%A4%D7%AA%2D%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3174904",
+            "className": null,
+            "aClass": null,
+            "title": "צירופי סולמות",
+            "url": "/test/210785/%D7%A6%D7%99%D7%A8%D7%95%D7%A4%D7%99%2D%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150197",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "מודוסים",
+            "url": "/test/210785/%D7%9E%D7%93%D7%95%D7%A1%D7%99%D7%9D",
+            "children": [
+              {
+                "id": "SMBHItem5839058",
+                "className": null,
+                "aClass": null,
+                "title": "מודוס יוני",
+                "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%2D%D7%99%D7%95%D7%A0%D7%99.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem5839059",
+                "className": null,
+                "aClass": null,
+                "title": "מודוס דורי",
+                "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%2D%D7%93%D7%95%D7%A8%D7%99.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem5839060",
+                "className": null,
+                "aClass": null,
+                "title": "מודוס פריגי",
+                "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%2D%D7%A4%D7%A8%D7%99%D7%92%D7%99.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem5839066",
+                "className": null,
+                "aClass": null,
+                "title": "מודוס איאולי",
+                "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%2D%D7%90%D7%99%D7%90%D7%95%D7%9C%D7%99%2D1.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem5839061",
+                "className": null,
+                "aClass": null,
+                "title": "מודוס לידי",
+                "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%2D%D7%9C%D7%99%D7%93%D7%99.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem5839063",
+                "className": null,
+                "aClass": null,
+                "title": "מודוס מיקסולידי",
+                "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%2D%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%99%D7%93%D7%99.html",
+                "children": []
+              },
+              {
+                "id": "SMBHItem5839067",
+                "className": null,
+                "aClass": null,
+                "title": "מודוס לוקרי",
+                "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%2D%D7%9C%D7%95%D7%A7%D7%A8%D7%99.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "SMBHItem4450798",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "דרגות הסולם",
+            "url": "/test/%D7%93%D7%A8%D7%92%D7%95%D7%AA%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9D%2D1.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem3150150",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תדר מוזיקלי",
+        "url": "/test/210785/%D7%AA%D7%93%D7%A8%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99",
+        "children": [
+          {
+            "id": "SMBHItem3150153",
+            "className": null,
+            "aClass": null,
+            "title": "טון מוזיקלי",
+            "url": "/test/210785/%D7%98%D7%95%D7%9F%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150159",
+            "className": null,
+            "aClass": null,
+            "title": "אופן החישוב",
+            "url": "/test/210785/%D7%90%D7%95%D7%A4%D7%9F%2D%D7%94%D7%97%D7%99%D7%A9%D7%95%D7%91%2D%D7%A9%D7%9A%2D%D7%AA%D7%93%D7%A8%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6743477",
+            "className": null,
+            "aClass": null,
+            "title": "גבהי הצלילים",
+            "url": "/test/%D7%92%D7%91%D7%94%D7%99%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D%2D1%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155666",
+            "className": null,
+            "aClass": null,
+            "title": "טרנספוזיציה",
+            "url": "/test/210785/%D7%98%D7%A8%D7%A0%D7%A1%D7%A4%D7%95%D7%96%D7%99%D7%A6%D7%99%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155668",
+            "className": null,
+            "aClass": null,
+            "title": "מודולציה",
+            "url": "/test/210785/%D7%9E%D7%95%D7%93%D7%95%D7%9C%D7%A6%D7%99%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150195",
+            "className": null,
+            "aClass": null,
+            "title": "מלודיה",
+            "url": "/test/210785/%D7%9E%D7%9C%D7%95%D7%93%D7%99%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150193",
+            "className": null,
+            "aClass": null,
+            "title": "הרמוניה",
+            "url": "/test/210785/%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155677",
+            "className": null,
+            "aClass": null,
+            "title": "סקוונצה",
+            "url": "/test/210785/%D7%A1%D7%A7%D7%95%D7%95%D7%A0%D7%A6%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155678",
+            "className": null,
+            "aClass": null,
+            "title": "סיומות מוזיקליים",
+            "url": "/test/210785/%D7%A1%D7%99%D7%95%D7%9E%D7%95%D7%AA%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155682",
+            "className": null,
+            "aClass": null,
+            "title": "הראי המוזיקלי",
+            "url": "/test/210785/%D7%94%D7%A8%D7%90%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3174905",
+            "className": null,
+            "aClass": null,
+            "title": "היפוך ומרווח השלמה",
+            "url": "/test/210785/%D7%94%D7%99%D7%A4%D7%95%D7%9A%2D%D7%95%D7%9E%D7%A8%D7%95%D7%95%D7%97%2D%D7%94%D7%A9%D7%9C%D7%9E%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155648",
+            "className": null,
+            "aClass": null,
+            "title": "הפסנתר",
+            "url": "/test/210785/%D7%94%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155637",
+            "className": null,
+            "aClass": null,
+            "title": "קונסוננס ודיסוננס",
+            "url": "/test/210785/%D7%A7%D7%95%D7%A0%D7%A1%D7%95%D7%A0%D7%A0%D7%A1%2D%D7%95%D7%93%D7%99%D7%A1%D7%95%D7%A0%D7%A0%D7%A1",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6750540",
+            "className": null,
+            "aClass": null,
+            "title": "הכוונון המושווה",
+            "url": "/test/%D7%94%D7%9B%D7%99%D7%95%D7%95%D7%A0%D7%95%D7%9F%2D%D7%94%D7%9E%D7%95%D7%A9%D7%95%D7%95%D7%94%2D1.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem3150171",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מרווח במוזיקה",
+        "url": "/test/210785/%D7%9E%D7%A8%D7%95%D7%95%D7%97%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+        "children": [
+          {
+            "id": "SMBHItem5839217",
+            "className": null,
+            "aClass": null,
+            "title": "פרימה זכה",
+            "url": "/test/%D7%A4%D7%A8%D7%99%D7%9E%D7%94%2D%D7%96%D7%9B%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839228",
+            "className": null,
+            "aClass": null,
+            "title": "סקונדה קטנה",
+            "url": "/test/%D7%A1%D7%A7%D7%95%D7%A0%D7%93%D7%94%2D%D7%A7%D7%98%D7%A0%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839239",
+            "className": null,
+            "aClass": null,
+            "title": "סקונדה גדולה",
+            "url": "/test/%D7%A1%D7%A7%D7%95%D7%A0%D7%93%D7%94%2D%D7%92%D7%93%D7%95%D7%9C%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839240",
+            "className": null,
+            "aClass": null,
+            "title": "טרצה קטנה",
+            "url": "/test/%D7%98%D7%A8%D7%A6%D7%94%2D%D7%A7%D7%98%D7%A0%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839241",
+            "className": null,
+            "aClass": null,
+            "title": "טרצה גדולה",
+            "url": "/test/%D7%98%D7%A8%D7%A6%D7%94%2D%D7%92%D7%93%D7%95%D7%9C%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839242",
+            "className": null,
+            "aClass": null,
+            "title": "קוורטה זכה",
+            "url": "/test/%D7%A7%D7%95%D7%95%D7%A8%D7%98%D7%94%2D%D7%96%D7%9B%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839243",
+            "className": null,
+            "aClass": null,
+            "title": "טריטון",
+            "url": "/test/%D7%98%D7%A8%D7%99%D7%98%D7%95%D7%9F.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839244",
+            "className": null,
+            "aClass": null,
+            "title": "קוינטה זכה",
+            "url": "/test/%D7%A7%D7%95%D7%99%D7%A0%D7%98%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839245",
+            "className": null,
+            "aClass": null,
+            "title": "סקסטה קטנה",
+            "url": "/test/%D7%A1%D7%A7%D7%A1%D7%98%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839246",
+            "className": null,
+            "aClass": null,
+            "title": "סקסטה גדולה",
+            "url": "/test/%D7%A1%D7%A7%D7%A1%D7%98%D7%94%2D%D7%92%D7%93%D7%95%D7%9C%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839247",
+            "className": null,
+            "aClass": null,
+            "title": "ספטימה קטנה",
+            "url": "/test/%D7%A1%D7%A4%D7%98%D7%99%D7%9E%D7%94%2D%D7%A7%D7%98%D7%A0%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839252",
+            "className": null,
+            "aClass": null,
+            "title": "ספטימה גדולה",
+            "url": "/test/%D7%A1%D7%A4%D7%98%D7%99%D7%9E%D7%94%2D%D7%92%D7%93%D7%95%D7%9C%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem5839257",
+            "className": null,
+            "aClass": null,
+            "title": "אוקטבה זכה",
+            "url": "/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%96%D7%9B%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155655",
+            "className": null,
+            "aClass": null,
+            "title": "האוקטבה",
+            "url": "/test/210785/%D7%94%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747092",
+            "className": null,
+            "aClass": null,
+            "title": "נונה",
+            "url": "/test/%D7%A0%D7%95%D7%A0%D7%94%2D1%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747102",
+            "className": null,
+            "aClass": null,
+            "title": "דצימה",
+            "url": "/test/%D7%93%D7%A6%D7%99%D7%9E%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747108",
+            "className": null,
+            "aClass": null,
+            "title": "און-דצימה",
+            "url": "/test/%D7%90%D7%95%D7%9F%2D%D7%93%D7%A6%D7%99%D7%9E%D7%94%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747113",
+            "className": null,
+            "aClass": null,
+            "title": "דו דצימה",
+            "url": "/test/%D7%93%D7%95%2D%D7%93%D7%A6%D7%99%D7%9E%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747117",
+            "className": null,
+            "aClass": null,
+            "title": "טר-דצימה מוקטנת",
+            "url": "/test/%D7%98%D7%A8%2D%D7%93%D7%A6%D7%99%D7%9E%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747118",
+            "className": null,
+            "aClass": null,
+            "title": "טר-דצימה מוגדלת",
+            "url": "/test/%D7%98%D7%A8%2D%D7%93%D7%A6%D7%99%D7%9E%D7%94%2D%D7%9E%D7%95%D7%92%D7%93%D7%9C%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747120",
+            "className": null,
+            "aClass": null,
+            "title": "אוקטבה כפולה",
+            "url": "/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%9B%D7%A4%D7%95%D7%9C%D7%94.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem3150202",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "אקורד",
+        "url": "/test/210785/%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+        "children": [
+          {
+            "id": "SMBHItem3150210",
+            "className": null,
+            "aClass": null,
+            "title": "סקסט אקורד",
+            "url": "/test/210785/%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150219",
+            "className": null,
+            "aClass": null,
+            "title": "קוורט סקסט אקורד",
+            "url": "/test/210785/%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150228",
+            "className": null,
+            "aClass": null,
+            "title": "ספט אקורד",
+            "url": "/test/210785/%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150230",
+            "className": null,
+            "aClass": null,
+            "title": "דומיננט ספט אקורד",
+            "url": "/test/210785/%D7%93%D7%95%D7%9E%D7%99%D7%A0%D7%A0%D7%98%2D%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3150244",
+            "className": null,
+            "aClass": null,
+            "title": "קווינט סקסט - ספט אקורד",
+            "url": "/test/210785/%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%98%2D%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155659",
+            "className": null,
+            "aClass": null,
+            "title": "טרצ קוורט -ספט אקורד",
+            "url": "/test/210785/%D7%98%D7%A8%D7%A6%2D%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+            "children": []
+          },
+          {
+            "id": "SMBHItem3155664",
+            "className": null,
+            "aClass": null,
+            "title": "סקנד קוורט - ספט אקורד",
+            "url": "/test/210785/%D7%A1%D7%A7%D7%A0%D7%93%2D%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747327",
+            "className": null,
+            "aClass": null,
+            "title": "תוכנה לחיפוש מבנה אקורדים",
+            "url": "/test/%D7%AA%D7%95%D7%9B%D7%A0%D7%94%2D%D7%9C%D7%97%D7%99%D7%A4%D7%95%D7%A9%2D%D7%9E%D7%91%D7%A0%D7%94%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747418",
+            "className": null,
+            "aClass": null,
+            "title": "טבלאות- כל סוגי האקורדים המשולשים",
+            "url": "/test/%D7%98%D7%91%D7%9C%D7%90%D7%95%D7%AA%2D%D7%9B%D7%9C%2D%D7%A1%D7%95%D7%92%D7%99%2D%D7%94%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D%2D%D7%94%D7%9E%D7%A9%D7%95%D7%9C%D7%A9%D7%99%D7%9D.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6747421",
+            "className": null,
+            "aClass": null,
+            "title": "סימני האקורדים",
+            "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3150646",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>תולדות המוזיקה</div>",
+    "url": "/test/210785/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+    "children": [
+      {
+        "id": "SMBHItem3155691",
+        "className": null,
+        "aClass": null,
+        "title": "תקופות במוזיקה",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%95%D7%AA%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150256",
+        "className": null,
+        "aClass": null,
+        "title": "תקופת ימי הביניים",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%AA%2D%D7%99%D7%9E%D7%99%2D%D7%94%D7%91%D7%99%D7%A0%D7%99%D7%99%D7%9D",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150259",
+        "className": null,
+        "aClass": null,
+        "title": "תקופת הרנסנס",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%AA%2D%D7%94%D7%A8%D7%A0%D7%A1%D7%A0%D7%A1",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150277",
+        "className": null,
+        "aClass": null,
+        "title": "תקופת הבארוק",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%AA%2D%D7%94%D7%91%D7%90%D7%A8%D7%95%D7%A7",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150302",
+        "className": null,
+        "aClass": null,
+        "title": "תקופת האופרה",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%AA%2D%D7%94%D7%90%D7%95%D7%A4%D7%A8%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150326",
+        "className": null,
+        "aClass": null,
+        "title": "תקופת האורטוריה",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%AA%2D%D7%94%D7%90%D7%95%D7%A8%D7%98%D7%95%D7%A8%D7%99%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150331",
+        "className": null,
+        "aClass": null,
+        "title": "תקופת הרוקוקו",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%AA%2D%D7%94%D7%A8%D7%95%D7%A7%D7%95%D7%A7%D7%95",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3151428",
+        "className": null,
+        "aClass": null,
+        "title": "התקופה הקלאסית",
+        "url": "/test/210785/%D7%94%D7%AA%D7%A7%D7%95%D7%A4%D7%94%2D%D7%94%D7%A7%D7%9C%D7%90%D7%A1%D7%99%D7%AA",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3151478",
+        "className": null,
+        "aClass": null,
+        "title": "התקופה הרומנטית",
+        "url": "/test/210785/%D7%94%D7%AA%D7%A7%D7%95%D7%A4%D7%94%2D%D7%94%D7%A8%D7%95%D7%9E%D7%A0%D7%98%D7%99%D7%AA%2D1",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3155701",
+        "className": null,
+        "aClass": null,
+        "title": "תקופת המאה ה-20",
+        "url": "/test/210785/%D7%AA%D7%A7%D7%95%D7%A4%D7%AA%2D%D7%94%D7%9E%D7%90%D7%94%2D%D7%94%2D20",
+        "children": []
+      },
+      {
+        "id": "Menu_1783758710662",
+        "className": null,
+        "aClass": null,
+        "title": "ctl",
+        "url": "pages/1783758709432_ctl.html",
+        "children": []
+      },
+      {
+        "id": "Menu_1783759165791",
+        "className": null,
+        "aClass": null,
+        "title": "Bach",
+        "url": "pages/1783759164674_bach.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3153300",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>מלחינים בולטים</div>",
+    "url": "/test/210785/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%90%D7%A9%D7%A8%2D%D7%94%D7%A9%D7%A4%D7%99%D7%A2%D7%95%2D%D7%A2%D7%9C%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+    "children": [
+      {
+        "id": "SMBHItem3154773",
+        "className": null,
+        "aClass": null,
+        "title": "השפיעו על המוזיקה",
+        "url": "/test/210785/%D7%90%D7%A0%D7%A9%D7%99%D7%9D%2D%D7%90%D7%A9%D7%A8%2D%D7%94%D7%A9%D7%A4%D7%99%D7%A2%D7%95%2D%D7%A2%D7%9C%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3155719",
+        "className": null,
+        "aClass": null,
+        "title": "מוצרט",
+        "url": "/test/210785/%D7%9E%D7%95%D7%A6%D7%A8%D7%98",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3156325",
+        "className": null,
+        "aClass": null,
+        "title": "בטהובן",
+        "url": "/test/210785/%D7%91%D7%98%D7%94%D7%95%D7%91%D7%9F",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3566831",
+        "className": null,
+        "aClass": null,
+        "title": "היידן",
+        "url": "/test/210785/%D7%92%2D%D7%95%D7%A1%D7%A3%2D%D7%94%D7%99%D7%99%D7%93%D7%9F",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3157036",
+        "className": null,
+        "aClass": null,
+        "title": "באך",
+        "url": "/test/210785/%D7%99%D7%95%D7%94%D7%9F%2D%D7%A1%D7%91%D7%A1%D7%98%D7%99%D7%90%D7%9F%2D%D7%91%D7%90%D7%9A",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3157057",
+        "className": null,
+        "aClass": null,
+        "title": "מנדלסון",
+        "url": "/test/210785/%D7%9E%D7%A0%D7%93%D7%9C%D7%A1%D7%95%D7%9F",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3157094",
+        "className": null,
+        "aClass": null,
+        "title": "פרסל",
+        "url": "/test/210785/%D7%94%D7%A0%D7%A8%D7%99%2D%D7%A4%D7%A8%D7%A1%D7%9C",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3168470",
+        "className": null,
+        "aClass": null,
+        "title": "פוצ'יני",
+        "url": "/test/210785/%D7%92%D7%99%D7%90%D7%A7%D7%95%D7%9E%D7%95%2D%D7%A4%D7%95%D7%A6%2D%D7%99%D7%A0%D7%99",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3171720",
+        "className": null,
+        "aClass": null,
+        "title": "ברהמס",
+        "url": "/test/210785/%D7%91%D7%A8%D7%94%D7%9E%D7%A1",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3171708",
+        "className": null,
+        "aClass": null,
+        "title": "שוברט",
+        "url": "/test/210785/%D7%A9%D7%95%D7%91%D7%A8%D7%98",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3174093",
+        "className": null,
+        "aClass": null,
+        "title": "ורדי",
+        "url": "/test/210785/%D7%92%2D%D7%95%D7%96%D7%A4%D7%94%2D%D7%95%D7%A8%D7%93%D7%99",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3174199",
+        "className": null,
+        "aClass": null,
+        "title": "ויואלדי",
+        "url": "/test/210785/%D7%95%D7%99%D7%95%D7%90%D7%9C%D7%93%D7%99",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3176638",
+        "className": null,
+        "aClass": null,
+        "title": "ביזה",
+        "url": "/test/210785/%D7%96%2D%D7%95%D7%A8%D7%96%2D%D7%91%D7%99%D7%96%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3176624",
+        "className": null,
+        "aClass": null,
+        "title": "ברנשטיין",
+        "url": "/test/210785/%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%A8%D7%93%2D%D7%91%D7%A8%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3855113",
+        "className": null,
+        "aClass": null,
+        "title": "יחזקאל בראון",
+        "url": "/test/%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%2D%D7%91%D7%A8%D7%90%D7%95%D7%9F.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6385003",
+        "className": null,
+        "aClass": null,
+        "title": "הנדל",
+        "url": "/test/%D7%94%D7%A0%D7%93%D7%9C.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3156515",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>תרגום יצירות</div>",
+    "url": "/test/210785/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%2D%D7%99%D7%A6%D7%99%D7%A8%D7%95%D7%AA",
+    "children": []
+  },
+  {
+    "id": "MBHItem3155220",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>נספחים</div>",
+    "url": "/test/210785/%D7%A0%D7%A1%D7%A4%D7%97%D7%99%D7%9D",
+    "children": [
+      {
+        "id": "SMBHItem3219093",
+        "className": null,
+        "aClass": null,
+        "title": "אופרות",
+        "url": "/test/210785/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%2D%D7%90%D7%95%D7%A4%D7%A8%D7%95%D7%AA",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3191941",
+        "className": null,
+        "aClass": null,
+        "title": "חוברת הדרכה",
+        "url": "/test/210785/%D7%97%D7%95%D7%91%D7%A8%D7%AA%2D%D7%94%D7%93%D7%A8%D7%9B%D7%94%2D%D7%9C%D7%96%D7%9E%D7%A8%2D%D7%A0%D7%A7%D7%94%D7%9C%D7%94",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3155192",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>דיקציה</div>",
+    "url": "/test/210785/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94%2D1",
+    "children": [
+      {
+        "id": "SMBHItem3150669",
+        "className": null,
+        "aClass": null,
+        "title": "בשפה הלטינית",
+        "url": "/test/210785/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94%2D%D7%91%D7%A9%D7%A4%D7%94%2D%D7%94%D7%9C%D7%98%D7%99%D7%A0%D7%99%D7%AA",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150707",
+        "className": null,
+        "aClass": null,
+        "title": "בשפה האיטלקית",
+        "url": "/test/210785/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94%2D%D7%91%D7%A9%D7%A4%D7%94%2D%D7%94%D7%90%D7%99%D7%98%D7%9C%D7%A7%D7%99%D7%AA",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3150735",
+        "className": null,
+        "aClass": null,
+        "title": "בשפה הגרמנית",
+        "url": "/test/210785/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94%2D%D7%91%D7%A9%D7%A4%D7%94%2D%D7%94%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%AA",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3544298",
+        "className": null,
+        "aClass": null,
+        "title": "סימני דינאמיקה",
+        "url": "/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%93%D7%99%D7%A0%D7%90%D7%9E%D7%99%D7%A7%D7%94",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3155211",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>רפרטואר</div>",
+    "url": "/test/210785/%D7%A8%D7%A4%D7%A8%D7%98%D7%95%D7%90%D7%A8",
+    "children": [
+      {
+        "id": "SMBHItem3155734",
+        "className": null,
+        "aClass": null,
+        "title": "סולפג'",
+        "url": "/test/210785/%D7%A1%D7%95%D7%9C%D7%A4%D7%92",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3155729",
+        "className": null,
+        "aClass": null,
+        "title": "אנסמבל",
+        "url": "/test/210785/%D7%90%D7%A0%D7%A1%D7%9E%D7%91%D7%9C",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3156203",
+        "className": null,
+        "aClass": null,
+        "title": "פיתוח קול",
+        "url": "/test/210785/%D7%A4%D7%99%D7%AA%D7%95%D7%97%2D%D7%A7%D7%95%D7%9C",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3171620",
+        "className": null,
+        "aClass": null,
+        "title": "תוכנת Encore",
+        "url": "/test/210785/%D7%AA%D7%95%D7%9B%D7%A0%D7%AA%2DEncore",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3156179",
+        "className": null,
+        "aClass": null,
+        "title": "סוגי מקהלות",
+        "url": "/test/210785/%D7%A1%D7%95%D7%92%D7%99%2D%D7%9E%D7%A7%D7%94%D7%9C%D7%95%D7%AA",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3171252",
+        "className": null,
+        "aClass": null,
+        "title": "שירה",
+        "url": "/test/210785/%D7%A9%D7%99%D7%A8%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3156235",
+        "className": null,
+        "aClass": null,
+        "title": "שירה במסגרת מקהלה",
+        "url": "/test/210785/%D7%A9%D7%99%D7%A8%D7%AA%2D%D7%9E%D7%A7%D7%94%D7%9C%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3220228",
+        "className": null,
+        "aClass": null,
+        "title": "שבתות שירה",
+        "url": "/test/210785/%D7%A9%D7%91%D7%AA%D7%95%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3310743",
+        "className": null,
+        "aClass": null,
+        "title": "ניצוח",
+        "url": "/test/210785/%D7%A0%D7%99%D7%A6%D7%95%D7%97",
+        "children": []
+      },
+      {
+        "id": "SMBHItem5980773",
+        "className": null,
+        "aClass": null,
+        "title": "מערכת ההפקה הקולית",
+        "url": "/test/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA%2D%D7%94%D7%94%D7%A4%D7%A7%D7%94%2D%D7%94%D7%A7%D7%95%D7%9C%D7%99%D7%AA%2D%D7%A9%D7%9C%2D%D7%94%D7%90%D7%93%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem5980776",
+        "className": null,
+        "aClass": null,
+        "title": "קול האדם",
+        "url": "/test/%D7%A7%D7%95%D7%9C%2D%D7%94%D7%90%D7%93%D7%9D.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem3163672",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>מונחים מוזיקליים</div>",
+    "url": "/test/210785/%D7%9E%D7%95%D7%A0%D7%97%D7%99%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D%2D1%2D1",
+    "children": [
+      {
+        "id": "SMBHItem3151500",
+        "className": null,
+        "aClass": null,
+        "title": "מונחים  - תיאוריה",
+        "url": "/test/210785/%D7%9E%D7%95%D7%A0%D7%97%D7%99%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D%2D%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%94",
+        "children": []
+      },
+      {
+        "id": "SMBHItem3151490",
+        "className": null,
+        "aClass": null,
+        "title": "מונחים - רפרטואר",
+        "url": "/test/210785/%D7%9E%D7%95%D7%A0%D7%97%D7%99%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D%2D1",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem4618570",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>לחן ועיבוד מוזיקלי</div>",
+    "url": "/test/%D7%9C%D7%97%D7%9F%2D%D7%95%D7%A2%D7%99%D7%91%D7%95%D7%93%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%2D1.html",
+    "children": [
+      {
+        "id": "SMBHItem5517057",
+        "className": null,
+        "aClass": null,
+        "title": "לחן",
+        "url": "/test/%D7%9C%D7%97%D7%9F.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem5517059",
+        "className": null,
+        "aClass": null,
+        "title": "תמליל",
+        "url": "/test/%D7%AA%D7%9E%D7%9C%D7%99%D7%9C.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem5517060",
+        "className": null,
+        "aClass": null,
+        "title": "עיבוד",
+        "url": "/test/%D7%A2%D7%99%D7%91%D7%95%D7%93%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem5517061",
+        "className": null,
+        "aClass": null,
+        "title": "ביצוע",
+        "url": "/test/%D7%9E%D7%91%D7%A6%D7%A2.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem5517066",
+        "className": null,
+        "aClass": null,
+        "title": "תיווי מוזיקלי",
+        "url": "/test/%D7%AA%D7%99%D7%95%D7%95%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470440",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "חוברות לימוד- אקדמי",
+        "url": "/test/%D7%97%D7%95%D7%91%D7%A8%D7%95%D7%AA%2D%D7%9E%D7%95%D7%9B%D7%A0%D7%95%D7%AA.html",
+        "children": [
+          {
+            "id": "SMBHItem6470441",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "תיאוריה מוזיקלית",
+            "url": "/test/%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6470511",
+            "className": null,
+            "aClass": null,
+            "title": "פיתוח שמיעה",
+            "url": "/test/%D7%A4%D7%99%D7%AA%D7%95%D7%97%2D%D7%A9%D7%9E%D7%99%D7%A2%D7%94.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6470521",
+            "className": null,
+            "aClass": null,
+            "title": "תולדות המוזיקה",
+            "url": "/test/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1%2D1%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6470529",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "מוזיקת ג'אז",
+            "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%AA%2D%D7%94%D7%92%2D%D7%90%D7%96.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6470531",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "תולדות הפופ",
+            "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%AA%2D%D7%A4%D7%95%D7%A4.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6470532",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "כתיבת שירים",
+            "url": "/test/%D7%9B%D7%AA%D7%99%D7%91%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%99%D7%9D.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6470533",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "פיתוח קול",
+            "url": "/test/%D7%A4%D7%99%D7%AA%D7%95%D7%97%2D%D7%A7%D7%95%D7%9C%2D1%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6470534",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "הופעה מול קהל",
+            "url": "/test/%D7%94%D7%95%D7%A4%D7%A2%D7%94%2D%D7%9E%D7%95%D7%9C%2D%D7%A7%D7%94%D7%9C.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6597018",
+            "className": null,
+            "aClass": null,
+            "title": "מוזיקה קלאסית",
+            "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D%D7%A7%D7%9C%D7%90%D7%A1%D7%99%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6597019",
+            "className": null,
+            "aClass": null,
+            "title": "הפקה מוזיקלית",
+            "url": "/test/%D7%94%D7%A4%D7%A7%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6597023",
+            "className": null,
+            "aClass": null,
+            "title": "מוזיקת ג'אז-עיבודים",
+            "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%AA%2D%D7%92%2D%D7%90%D7%96%2D%D7%A2%D7%99%D7%91%D7%95%D7%93%D7%99%D7%9D.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6597025",
+            "className": null,
+            "aClass": null,
+            "title": "תולדות הג'אז",
+            "url": "/test/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA%2D%D7%94%D7%92%2D%D7%90%D7%96.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6617249",
+            "className": null,
+            "aClass": null,
+            "title": "תיאורית הג'אז",
+            "url": "/test/%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%AA%2D%D7%94%D7%92%2D%D7%90%D7%96.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6617250",
+            "className": null,
+            "aClass": null,
+            "title": "עיבודים ג'אז",
+            "url": "/test/%D7%A2%D7%99%D7%91%D7%95%D7%93%D7%99%D7%9D%2D%D7%92%2D%D7%90%D7%96.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6617251",
+            "className": null,
+            "aClass": null,
+            "title": "סאונד",
+            "url": "/test/%D7%90%D7%95%D7%9C%D7%A4%D7%9F%2D%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6617400",
+            "className": null,
+            "aClass": null,
+            "title": "תוכנת סיבליוס",
+            "url": "/test/%D7%AA%D7%95%D7%9B%D7%A0%D7%AA%2D%D7%A1%D7%99%D7%91%D7%9C%D7%99%D7%95%D7%A1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6619147",
+            "className": null,
+            "aClass": null,
+            "title": "קונטרפונקט",
+            "url": "/test/%D7%A7%D7%95%D7%A0%D7%98%D7%A8%D7%A4%D7%95%D7%A0%D7%A7%D7%98.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6634174",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "ניתוח יצירות קלאסיות",
+            "url": "/test/%D7%A0%D7%99%D7%AA%D7%95%D7%97%2D%D7%99%D7%A6%D7%99%D7%A8%D7%95%D7%AA%2D%D7%A7%D7%9C%D7%90%D7%A1%D7%99%D7%95%D7%AA.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6750662",
+            "className": null,
+            "aClass": "MenuBarItemSubmenu",
+            "title": "חוברות לימוד - אקדמי",
+            "url": "/test/%D7%97%D7%95%D7%91%D7%A8%D7%95%D7%AA%2D%D7%9C%D7%99%D7%9E%D7%95%D7%93%2D%D7%90%D7%A7%D7%93%D7%9E%D7%99.html",
+            "children": [
+              {
+                "id": "SMBHItem6750663",
+                "className": null,
+                "aClass": "MenuBarItemSubmenu",
+                "title": "שחר",
+                "url": "/test/%D7%A9%D7%97%D7%A8.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6141146",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>מאגר יצירות</div>",
+    "url": "/test/%D7%A7%D7%91%D7%A6%D7%99%2Dmidi.html",
+    "children": [
+      {
+        "id": "SMBHItem6154527",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מלחינים מחו\"ל",
+        "url": "/test/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%9E%D7%97%D7%95%2D%D7%9C.html",
+        "children": [
+          {
+            "id": "SMBHItem6170333",
+            "className": null,
+            "aClass": null,
+            "title": "Wolfgang Amadeus Mozart",
+            "url": "/test/W%2DA%2DMozart.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170334",
+            "className": null,
+            "aClass": null,
+            "title": "Johan Sebastian Bach",
+            "url": "/test/Y%2DS%2DBach.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170345",
+            "className": null,
+            "aClass": null,
+            "title": "Ludwig van Beethoven",
+            "url": "/test/L%2DV%2DBeethoven.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170396",
+            "className": null,
+            "aClass": null,
+            "title": "Johannes Brahms",
+            "url": "/test/J%2DBrahms.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170346",
+            "className": null,
+            "aClass": null,
+            "title": "Felix Mendelssohn",
+            "url": "/test/F%2DB%2DMendelssohn.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170349",
+            "className": null,
+            "aClass": null,
+            "title": "George Handel",
+            "url": "/test/G%2DF%2DHandel.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170350",
+            "className": null,
+            "aClass": null,
+            "title": "joseph Haydn",
+            "url": "/test/F%2DJ%2DHaydn.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170356",
+            "className": null,
+            "aClass": null,
+            "title": "Franz Schubert",
+            "url": "/test/F%2DP%2DSchubert.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170365",
+            "className": null,
+            "aClass": null,
+            "title": "Gabriel Faure",
+            "url": "/test/G%2DU%2DFaure.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170383",
+            "className": null,
+            "aClass": null,
+            "title": "Giacomo Puccini",
+            "url": "/test/G%2DA%2DPuccini.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170421",
+            "className": null,
+            "aClass": null,
+            "title": "Giuseppe Verdi",
+            "url": "/test/G%2DF%2DVerdi.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170398",
+            "className": null,
+            "aClass": null,
+            "title": "John rutter",
+            "url": "/test/J%2Drutter.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170389",
+            "className": null,
+            "aClass": null,
+            "title": "Henry Purcell",
+            "url": "/test/H%2DPurcell.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170422",
+            "className": null,
+            "aClass": null,
+            "title": "L. Bernstein",
+            "url": "/test/L%2DBernstein.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170580",
+            "className": null,
+            "aClass": null,
+            "title": "Ariel Ramirez",
+            "url": "/test/Ariel%2DRamirez.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170583",
+            "className": null,
+            "aClass": null,
+            "title": "Francis Poulenc",
+            "url": "/test/Francis%2DPoulenc.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170585",
+            "className": null,
+            "aClass": null,
+            "title": "Maurice Durufle",
+            "url": "/test/Maurice%2DDurufle.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170826",
+            "className": null,
+            "aClass": null,
+            "title": "Ernest  Bloch",
+            "url": "/test/Ernest%2DBloch.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170864",
+            "className": null,
+            "aClass": null,
+            "title": "Salomone Rossi",
+            "url": "/test/Salomone%2DRossiS.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170897",
+            "className": null,
+            "aClass": null,
+            "title": "Tomas Morly",
+            "url": "/test/Tomas%2DMorly.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170902",
+            "className": null,
+            "aClass": null,
+            "title": "Erik Whitacre",
+            "url": "/test/Erik%2DWhitacre.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170810",
+            "className": null,
+            "aClass": null,
+            "title": "Castelnuvo Tedesco",
+            "url": "/test/Castelnuvo%2DTedesco.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "SMBHItem6154528",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מלחינים מהארץ",
+        "url": "/test/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%9E%D7%94%D7%90%D7%A8%D7%A5.html",
+        "children": [
+          {
+            "id": "SMBHItem6170338",
+            "className": null,
+            "aClass": null,
+            "title": "אהרון חרל\"פ",
+            "url": "/test/%D7%90%D7%94%D7%A8%D7%95%D7%9F%2D%D7%97%D7%A8%D7%9C%2D%D7%A4.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170337",
+            "className": null,
+            "aClass": null,
+            "title": "גיל אלדמע",
+            "url": "/test/%D7%92%D7%99%D7%9C%2D%D7%90%D7%9C%D7%93%D7%9E%D7%A2.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170336",
+            "className": null,
+            "aClass": null,
+            "title": "יחזקאל בראון",
+            "url": "/test/%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%2D%D7%91%D7%A8%D7%90%D7%95%D7%9F%2D1.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6170939",
+            "className": null,
+            "aClass": null,
+            "title": "אריה לבנון",
+            "url": "/test/%D7%90%D7%A8%D7%99%D7%94%2D%D7%9C%D7%91%D7%A0%D7%95%D7%9F.html",
+            "children": []
+          },
+          {
+            "id": "SMBHItem6767071",
+            "className": null,
+            "aClass": null,
+            "title": "זיו סבג",
+            "url": "/test/%D7%96%D7%99%D7%95%2D%D7%A1%D7%91%D7%92.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6470556",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>חוברות מוזיקליות</div>",
+    "url": "/test/%D7%97%D7%95%D7%91%D7%A8%D7%95%D7%AA%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%95%D7%AA.html",
+    "children": [
+      {
+        "id": "SMBHItem6470558",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מחמושת",
+        "url": "/test/%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470559",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מפתח מוזיקלי",
+        "url": "/test/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470560",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מנעד מוזיקלי",
+        "url": "/test/%D7%9E%D7%A0%D7%A2%D7%93%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%2D1%2D1%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470561",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סולם מוזיקלי",
+        "url": "/test/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470562",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מעגל הקוינטות",
+        "url": "/test/%D7%9E%D7%A2%D7%92%D7%9C%2D%D7%94%D7%A7%D7%95%D7%99%D7%A0%D7%98%D7%95%D7%AA%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470563",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "קצב",
+        "url": "/test/%D7%A7%D7%A6%D7%91%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470564",
+        "className": null,
+        "aClass": null,
+        "title": "טמפו",
+        "url": "/test/%D7%98%D7%9E%D7%A4%D7%95%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470565",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מקצב",
+        "url": "/test/%D7%9E%D7%A7%D7%A6%D7%91.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470568",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תוים",
+        "url": "/test/%D7%AA%D7%95%D7%99%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470569",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "ססטמה",
+        "url": "/test/%D7%A1%D7%A1%D7%98%D7%9E%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470570",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "צליל מוזיקלי",
+        "url": "/test/%D7%A6%D7%9C%D7%99%D7%9C%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470571",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סימני היתק",
+        "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%99%D7%AA%D7%A7%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470572",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מרווח מוזיקלי",
+        "url": "/test/%D7%9E%D7%A8%D7%95%D7%95%D7%97%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470573",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "הפסנתר",
+        "url": "/test/%D7%94%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470574",
+        "className": null,
+        "aClass": null,
+        "title": "האוקטבה",
+        "url": "/test/%D7%94%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470575",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "אקורד משולש",
+        "url": "/test/%D7%90%D7%A7%D7%95%D7%A8%D7%93%2D%D7%9E%D7%A9%D7%95%D7%9C%D7%A9.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470576",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סקסט אקורד",
+        "url": "/test/%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470577",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "קוורט סקסט אקורד",
+        "url": "/test/%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470578",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "ספט אקורד",
+        "url": "/test/%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470579",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "דומיננט ספט אקורד",
+        "url": "/test/%D7%93%D7%95%D7%9E%D7%99%D7%A0%D7%A0%D7%98%2D%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470580",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "קוינט ספט אקורד",
+        "url": "/test/%D7%A7%D7%95%D7%99%D7%A0%D7%98%2D%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470586",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "טרצ ספט אקורד",
+        "url": "/test/%D7%98%D7%A8%D7%A6%2D%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470587",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סקנד ספט אקורד",
+        "url": "/test/%D7%A1%D7%A7%D7%A0%D7%93%2D%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470589",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תנודות הצליל",
+        "url": "/test/%D7%AA%D7%A0%D7%95%D7%93%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470592",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "טרנספוזיציה",
+        "url": "/test/%D7%98%D7%A8%D7%A0%D7%A1%D7%A4%D7%95%D7%96%D7%99%D7%A6%D7%99%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470593",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "דרגות הסולם",
+        "url": "/test/%D7%93%D7%A8%D7%92%D7%95%D7%AA%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9D%2D1%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470601",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מודוסים",
+        "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%A1%D7%99%D7%9D%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470602",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סקוונצה",
+        "url": "/test/%D7%A1%D7%A7%D7%95%D7%95%D7%A0%D7%A6%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470604",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סיומות מוזיקליים",
+        "url": "/test/%D7%A1%D7%99%D7%95%D7%9E%D7%95%D7%AA%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470605",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מודולציה",
+        "url": "/test/%D7%9E%D7%95%D7%93%D7%95%D7%9C%D7%A6%D7%99%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470606",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "הראי המוזיקלי",
+        "url": "/test/%D7%94%D7%A8%D7%90%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470607",
+        "className": null,
+        "aClass": null,
+        "title": "מהי מוזיקה?",
+        "url": "/test/%D7%9E%D7%94%D7%99%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470608",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מלודיה",
+        "url": "/test/%D7%9E%D7%9C%D7%95%D7%93%D7%99%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470609",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "הרמוניה",
+        "url": "/test/%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470610",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "דיקציה",
+        "url": "/test/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470611",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "רפרטואר",
+        "url": "/test/%D7%A8%D7%A4%D7%A8%D7%98%D7%95%D7%90%D7%A8%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470612",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "אנסמבל",
+        "url": "/test/%D7%90%D7%A0%D7%A1%D7%9E%D7%91%D7%9C%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470613",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תקופות במוזיקה",
+        "url": "/test/%D7%AA%D7%A7%D7%95%D7%A4%D7%95%D7%AA%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470614",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תולדות המוזיקה",
+        "url": "/test/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1%2D1%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470615",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "מלחינים בולטים",
+        "url": "/test/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%91%D7%95%D7%9C%D7%98%D7%99%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470616",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תזמור ושירה",
+        "url": "/test/%D7%AA%D7%96%D7%9E%D7%95%D7%A8%2D%D7%95%D7%A9%D7%99%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470617",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "סולפג'",
+        "url": "/test/%D7%A1%D7%95%D7%9C%D7%A4%D7%92%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470618",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "פיתוח קול",
+        "url": "/test/%D7%A4%D7%99%D7%AA%D7%95%D7%97%2D%D7%A7%D7%95%D7%9C%2D1%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470619",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "שירה במסגרת מקהלה",
+        "url": "/test/%D7%A9%D7%99%D7%A8%D7%94%2D%D7%91%D7%9E%D7%A1%D7%92%D7%A8%D7%AA%2D%D7%9E%D7%A7%D7%94%D7%9C%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470620",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "לחן ועיבוד מוזיקלי",
+        "url": "/test/%D7%9C%D7%97%D7%9F%2D%D7%95%D7%A2%D7%99%D7%91%D7%95%D7%93%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470621",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "תוכנות וקבצי מוזיקה",
+        "url": "/test/%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA%2D%D7%95%D7%A7%D7%91%D7%A6%D7%99%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470622",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "התרופה המוזיקלית",
+        "url": "/test/%D7%94%D7%AA%D7%A8%D7%95%D7%A4%D7%94%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470623",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "לומדים לנגן על גיטרה",
+        "url": "/test/%D7%9C%D7%95%D7%9E%D7%93%D7%99%D7%9D%2D%D7%9C%D7%A0%D7%92%D7%9F%2D%D7%A2%D7%9C%2D%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470624",
+        "className": null,
+        "aClass": "MenuBarItemSubmenu",
+        "title": "נספחים",
+        "url": "/test/%D7%A0%D7%A1%D7%A4%D7%97%D7%99%D7%9D%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470903",
+        "className": null,
+        "aClass": null,
+        "title": "סימני הבעה ודינאמיקה",
+        "url": "/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%91%D7%A2%D7%94%2D%D7%95%D7%93%D7%99%D7%A0%D7%90%D7%9E%D7%99%D7%A7%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470904",
+        "className": null,
+        "aClass": null,
+        "title": "תיבה במוזיקה",
+        "url": "/test/%D7%AA%D7%99%D7%91%D7%94%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6470968",
+        "className": null,
+        "aClass": null,
+        "title": "חוברת תיאוריה מוזיקלית",
+        "url": "/test/%D7%97%D7%95%D7%91%D7%A8%D7%AA%2D%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA%2D%D7%9E%D7%9C%D7%90%D7%94.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6702128",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>חיפוש אקורדים</div>",
+    "url": "/test/%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D%2D1.html",
+    "children": []
+  },
+  {
+    "id": "MBHItem6721343",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>המקאם הערבי</div>",
+    "url": "/test/%D7%94%D7%9E%D7%A7%D7%90%D7%9D%2D%D7%94%D7%A2%D7%A8%D7%91%D7%99.html",
+    "children": [
+      {
+        "id": "SMBHItem6721357",
+        "className": null,
+        "aClass": null,
+        "title": "המקאם הערבי- מונחים",
+        "url": "/test/%D7%9E%D7%A0%D7%97%D7%99%D7%9D%2D%D7%91%D7%A0%D7%95%D7%A9%D7%90%2D%D7%94%D7%9E%D7%A7%D7%90%D7%9D%2D%D7%94%D7%A2%D7%A8%D7%91%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6721475",
+        "className": null,
+        "aClass": null,
+        "title": "מקאמים נפוצים",
+        "url": "/test/%D7%9E%D7%A7%D7%90%D7%9E%D7%99%D7%9D%2D%D7%A0%D7%A4%D7%95%D7%A6%D7%99%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6721349",
+        "className": null,
+        "aClass": null,
+        "title": "המקאם הערבי- תיאוריה",
+        "url": "/test/%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%94%2D%D7%94%D7%9E%D7%A7%D7%90%D7%9D%2D%D7%94%D7%A2%D7%A8%D7%91%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742012",
+        "className": null,
+        "aClass": null,
+        "title": "שמות המקאמים",
+        "url": "/test/%D7%94%D7%9E%D7%A7%D7%90%D7%9D%2D%D7%94%D7%A2%D7%A8%D7%91%D7%99%2D%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742095",
+        "className": null,
+        "aClass": null,
+        "title": "חוברת המקאם הערבי",
+        "url": "/test/%D7%97%D7%95%D7%91%D7%A8%D7%AA%2D%D7%94%D7%9E%D7%A7%D7%90%D7%9D%2D%D7%94%D7%A2%D7%A8%D7%91%D7%99.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6742018",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>רסיטל</div>",
+    "url": "/test/%D7%A8%D7%A1%D7%99%D7%98%D7%9C.html",
+    "children": [
+      {
+        "id": "SMBHItem6742023",
+        "className": null,
+        "aClass": null,
+        "title": "זמר נוגה",
+        "url": "/test/%D7%96%D7%9E%D7%A8%2D%D7%A0%D7%95%D7%92%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742024",
+        "className": null,
+        "aClass": null,
+        "title": "Schubert- Ständchen",
+        "url": "/test/Schubert%2DSt%C3%A4ndchen.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742025",
+        "className": null,
+        "aClass": null,
+        "title": "ציפור שניה",
+        "url": "/test/%D7%A6%D7%99%D7%A4%D7%A8%2D%D7%A9%D7%A0%D7%99%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742026",
+        "className": null,
+        "aClass": null,
+        "title": "As Time Goes By",
+        "url": "/test/As%2DTime%2DGoes%2DBy.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742027",
+        "className": null,
+        "aClass": null,
+        "title": "ניגונים",
+        "url": "/test/%D7%A0%D7%99%D7%92%D7%95%D7%A0%D7%99%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742028",
+        "className": null,
+        "aClass": null,
+        "title": "Hallelujah",
+        "url": "/test/Hallelujah.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742029",
+        "className": null,
+        "aClass": null,
+        "title": "And I love you so",
+        "url": "/test/And%2DI%2Dlove%2Dyou%2Dso.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742030",
+        "className": null,
+        "aClass": null,
+        "title": "Pie Yesu",
+        "url": "/test/Pie%2DYesu.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742031",
+        "className": null,
+        "aClass": null,
+        "title": "צרות טובות",
+        "url": "/test/%D7%A6%D7%A8%D7%95%D7%AA%2D%D7%98%D7%95%D7%91%D7%95%D7%AA.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742032",
+        "className": null,
+        "aClass": null,
+        "title": "נחמה",
+        "url": "/test/%D7%A0%D7%97%D7%9E%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742033",
+        "className": null,
+        "aClass": null,
+        "title": "Bring him home",
+        "url": "/test/Bring%2Dhim%2Dhome.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742034",
+        "className": null,
+        "aClass": null,
+        "title": "שאני במחול",
+        "url": "/test/%D7%A9%D7%90%D7%A0%D7%99%2D%D7%91%D7%9E%D7%97%D7%95%D7%9C.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742035",
+        "className": null,
+        "aClass": null,
+        "title": "שיר ערש",
+        "url": "/test/%D7%A9%D7%99%D7%A8%2D%D7%A2%D7%A8%D7%A9.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742036",
+        "className": null,
+        "aClass": null,
+        "title": "Yesterday",
+        "url": "/test/Yesterday.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742037",
+        "className": null,
+        "aClass": null,
+        "title": "The First Time Ever I Saw Your Face",
+        "url": "/test/The%2Dfirst%2Dtime%2Dever%2Di%2Dso%2Dyour%2Dfaice.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6742038",
+        "className": null,
+        "aClass": null,
+        "title": "The sound of silence",
+        "url": "/test/The%2Dsound%2Dof%2Dsilence.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6743206",
+        "className": null,
+        "aClass": null,
+        "title": "שירים נוספים",
+        "url": "/test/%D7%A9%D7%99%D7%A8%D7%99%D7%9D%2D%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6750263",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>מוזיקת הג'אז</div>",
+    "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%AA%2D%D7%92%2D%D7%90%D7%96.html",
+    "children": [
+      {
+        "id": "SMBHItem6750264",
+        "className": null,
+        "aClass": null,
+        "title": "מוזיקת הבלוז",
+        "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%AA%2D%D7%94%D7%91%D7%9C%D7%95%D7%96.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6750409",
+        "className": null,
+        "aClass": null,
+        "title": "מהי מוזיקת הג'אז",
+        "url": "/test/%D7%9E%D7%94%D7%99%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%AA%2D%D7%94%D7%92%2D%D7%90%D7%96.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6754535",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>לנגן על גיטרה</div>",
+    "url": "/test/%D7%A0%D7%99%D7%92%D7%95%D7%9F%2D%D7%A2%D7%9C%2D%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+    "children": [
+      {
+        "id": "SMBHItem6754537",
+        "className": null,
+        "aClass": null,
+        "title": "סוגי גיטרות",
+        "url": "/test/%D7%A1%D7%95%D7%92%D7%99%2D%D7%92%D7%99%D7%98%D7%A8%D7%95%D7%AA.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754538",
+        "className": null,
+        "aClass": null,
+        "title": "מבנה הגיטרה",
+        "url": "/test/%D7%9E%D7%91%D7%A0%D7%94%2D%D7%94%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754549",
+        "className": null,
+        "aClass": null,
+        "title": "מונחי יסוד בגיטרה",
+        "url": "/test/%D7%9E%D7%95%D7%A0%D7%97%D7%99%2D%D7%99%D7%A1%D7%95%D7%93%2D%D7%91%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754539",
+        "className": null,
+        "aClass": null,
+        "title": "נא להכיר-גיטרה",
+        "url": "/test/%D7%A0%D7%90%2D%D7%9C%D7%94%D7%9B%D7%99%D7%A8%2D%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754540",
+        "className": null,
+        "aClass": null,
+        "title": "הצליל המוגדר בכל מיתר",
+        "url": "/test/%D7%94%D7%A6%D7%9C%D7%99%D7%9C%2D%D7%94%D7%91%D7%95%D7%A7%D7%A2%2D%D7%9E%D7%9B%D7%9C%2D%D7%9E%D7%99%D7%AA%D7%A8.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754541",
+        "className": null,
+        "aClass": null,
+        "title": "כיצד מכוונים את מיתרי הגיטרה",
+        "url": "/test/%D7%9B%D7%99%D7%A6%D7%93%2D%D7%9E%D7%9B%D7%95%D7%95%D7%A0%D7%99%D7%9D%2D%D7%90%D7%AA%2D%D7%9E%D7%99%D7%AA%D7%A8%D7%99%2D%D7%94%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754542",
+        "className": null,
+        "aClass": null,
+        "title": "אקורד בגיטרה",
+        "url": "/test/%D7%90%D7%A7%D7%95%D7%A8%D7%93%2D%D7%91%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754543",
+        "className": null,
+        "aClass": null,
+        "title": "אופן הפריטה על הגיטרה",
+        "url": "/test/%D7%90%D7%95%D7%A4%D7%9F%2D%D7%94%D7%A4%D7%A8%D7%99%D7%98%D7%94%2D%D7%A2%D7%9C%2D%D7%94%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754544",
+        "className": null,
+        "aClass": null,
+        "title": "צורות ואופן הנגינה",
+        "url": "/test/%D7%A6%D7%95%D7%A8%D7%95%D7%AA%2D%D7%A0%D7%92%D7%99%D7%A0%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754545",
+        "className": null,
+        "aClass": null,
+        "title": "כמות הצלילים בגיטרה",
+        "url": "/test/%D7%9B%D7%9E%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D%2D%D7%91%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754546",
+        "className": null,
+        "aClass": null,
+        "title": "הפסנתר לעומת הגיטרה",
+        "url": "/test/%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8%2D%D7%9C%D7%A2%D7%95%D7%9E%D7%AA%2D%D7%94%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754547",
+        "className": null,
+        "aClass": null,
+        "title": "כיצד לנגן על הגיטרה",
+        "url": "/test/%D7%9B%D7%99%D7%A6%D7%93%2D%D7%9C%D7%A0%D7%92%D7%9F%2D%D7%A2%D7%9C%2D%D7%94%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754548",
+        "className": null,
+        "aClass": null,
+        "title": "כיצד לנגן על הגיטרה",
+        "url": "/test/%D7%9B%D7%99%D7%A6%D7%93%2D%D7%9C%D7%A0%D7%92%D7%9F%2D%D7%A2%D7%9C%2D%D7%94%D7%92%D7%99%D7%98%D7%A8%D7%94%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754555",
+        "className": null,
+        "aClass": null,
+        "title": "טבלה- 114 השריגים",
+        "url": "/test/%D7%98%D7%91%D7%9C%D7%94%2D114%2D%D7%94%D7%A9%D7%A8%D7%99%D7%92%D7%99%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754558",
+        "className": null,
+        "aClass": null,
+        "title": "תווים לנגינה על גיטרה",
+        "url": "/test/%D7%AA%D7%95%D7%95%D7%99%D7%9D%2D%D7%9C%D7%A0%D7%92%D7%99%D7%A0%D7%94%2D%D7%A2%D7%9C%2D%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754560",
+        "className": null,
+        "aClass": null,
+        "title": "תוים לנגינה על גיטרה",
+        "url": "/test/%D7%AA%D7%95%D7%99%D7%9D%2D%D7%9C%D7%A0%D7%92%D7%99%D7%A0%D7%94%2D%D7%A2%D7%9C%2D%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6754571",
+        "className": null,
+        "aClass": null,
+        "title": "אקורדים",
+        "url": "/test/%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D%2D%D7%91%D7%9E%D7%96%2D%D7%95%D7%A8.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6758179",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>power point</div>",
+    "url": "/test/power%2Dpoint.html",
+    "children": []
+  },
+  {
+    "id": "MBHItem3155710",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>התרופה המוזיקלית</div>",
+    "url": "/test/210785/%D7%94%D7%AA%D7%A8%D7%95%D7%A4%D7%94%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA",
+    "children": []
+  },
+  {
+    "id": "MBHItem6760518",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>הפקה מוזיקלית</div>",
+    "url": "/test/%D7%94%D7%A4%D7%A7%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA%2D1.html",
+    "children": [
+      {
+        "id": "SMBHItem6760519",
+        "className": null,
+        "aClass": null,
+        "title": "מפיק מוזיקלי",
+        "url": "/test/%D7%9E%D7%A4%D7%99%D7%A7%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760520",
+        "className": null,
+        "aClass": null,
+        "title": "מעבד מוזיקלי",
+        "url": "/test/%D7%9E%D7%A2%D7%91%D7%93%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760521",
+        "className": null,
+        "aClass": null,
+        "title": "הקונספט",
+        "url": "/test/%D7%94%D7%A7%D7%95%D7%A0%D7%A1%D7%A4%D7%98.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760522",
+        "className": null,
+        "aClass": null,
+        "title": "הפקת אלבום",
+        "url": "/test/%D7%94%D7%A4%D7%A7%D7%AA%2D%D7%90%D7%9C%D7%91%D7%95%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760523",
+        "className": null,
+        "aClass": null,
+        "title": "תהליך ההפקה",
+        "url": "/test/%D7%AA%D7%94%D7%9C%D7%99%D7%9A%2D%D7%94%D7%94%D7%A4%D7%A7%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760524",
+        "className": null,
+        "aClass": null,
+        "title": "תהליך הכרות ראשוני",
+        "url": "/test/%D7%AA%D7%94%D7%9C%D7%99%D7%9A%2D%D7%94%D7%9B%D7%A8%D7%95%D7%AA%2D%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760525",
+        "className": null,
+        "aClass": null,
+        "title": "פגישת הכרות כוללת",
+        "url": "/test/%D7%A4%D7%92%D7%99%D7%A9%D7%AA%2D%D7%94%D7%9B%D7%A8%D7%95%D7%AA%2D%D7%9B%D7%95%D7%9C%D7%9C%D7%AA.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760526",
+        "className": null,
+        "aClass": null,
+        "title": "Pre Production I",
+        "url": "/test/Pre%2DProduction%2DI.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760527",
+        "className": null,
+        "aClass": null,
+        "title": "סקיצה- Demo",
+        "url": "/test/%D7%A1%D7%A7%D7%99%D7%A6%D7%94%2DDemo.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760528",
+        "className": null,
+        "aClass": null,
+        "title": "עידן המחשוב",
+        "url": "/test/%D7%A2%D7%99%D7%93%D7%9F%2D%D7%94%D7%9E%D7%97%D7%A9%D7%95%D7%91.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760530",
+        "className": null,
+        "aClass": null,
+        "title": "Pre Production II",
+        "url": "/test/Pre%2DProduction%2DII.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760531",
+        "className": null,
+        "aClass": null,
+        "title": "Pre Production -השלב הסופי",
+        "url": "/test/Pre%2DProduction%2D%D7%94%D7%A9%D7%9C%D7%91%2D%D7%94%D7%A1%D7%95%D7%A4%D7%99.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760532",
+        "className": null,
+        "aClass": null,
+        "title": "מכשירים וירטואלים",
+        "url": "/test/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D%2D%D7%95%D7%99%D7%A8%D7%98%D7%95%D7%90%D7%9C%D7%99%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760533",
+        "className": null,
+        "aClass": null,
+        "title": "המצגת",
+        "url": "/test/%D7%94%D7%9E%D7%A6%D7%92%D7%AA.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760534",
+        "className": null,
+        "aClass": null,
+        "title": "אולפן הקלטות",
+        "url": "/test/%D7%90%D7%95%D7%9C%D7%A4%D7%9F%2D%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760535",
+        "className": null,
+        "aClass": null,
+        "title": "הסיגנל",
+        "url": "/test/%D7%94%D7%A1%D7%99%D7%92%D7%A0%D7%9C.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760536",
+        "className": null,
+        "aClass": null,
+        "title": "סדר השירים",
+        "url": "/test/%D7%A1%D7%93%D7%A8%2D%D7%94%D7%A9%D7%99%D7%A8%D7%99%D7%9D.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760537",
+        "className": null,
+        "aClass": null,
+        "title": "הופעה חיה",
+        "url": "/test/%D7%94%D7%95%D7%A4%D7%A2%D7%94%2D%D7%97%D7%99%D7%94.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6760538",
+        "className": null,
+        "aClass": null,
+        "title": "ניהול כספים",
+        "url": "/test/%D7%A0%D7%99%D7%94%D7%95%D7%9C%2D%D7%9B%D7%A1%D7%A4%D7%99%D7%9D.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6759711",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>קבצי MIDI</div>",
+    "url": "/test/%D7%A7%D7%91%D7%A6%D7%99%2DMidi%2D1%2D1.html",
+    "children": []
+  },
+  {
+    "id": "MBHItem6762799",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>מוזיקה לסרטים</div>",
+    "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D%D7%9C%D7%A1%D7%A8%D7%98%D7%99%D7%9D.html",
+    "children": [
+      {
+        "id": "SMBHItem6762802",
+        "className": null,
+        "aClass": null,
+        "title": "הסרט- רשימת שינדלר",
+        "url": "/test/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA%2D%D7%A9%D7%99%D7%A0%D7%93%D7%9C%D7%A8.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6762803",
+        "className": null,
+        "aClass": null,
+        "title": "הסרט - מוצרט",
+        "url": "/test/%D7%94%D7%A1%D7%A8%D7%98%2D%D7%9E%D7%95%D7%A6%D7%A8%D7%98.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6763123",
+        "className": null,
+        "aClass": null,
+        "title": "הסרט - צלילי המוזיקה",
+        "url": "/test/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D1%2D1.html",
+        "children": []
+      },
+      {
+        "id": "SMBHItem6763124",
+        "className": null,
+        "aClass": null,
+        "title": "תולדות הקולנוע",
+        "url": "/test/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA%2D%D7%94%D7%A7%D7%95%D7%A0%D7%95%D7%A2.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6764099",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>הופעה מול קהל</div>",
+    "url": "/test/%D7%94%D7%95%D7%A4%D7%A2%D7%94%2D%D7%9E%D7%95%D7%9C%2D%D7%A7%D7%94%D7%9C%2D1.html",
+    "children": [
+      {
+        "id": "Menu_1783760284988",
+        "className": null,
+        "aClass": null,
+        "title": " שירת סולפג'",
+        "url": "pages/1783760283841_שירת סולפג",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MBHItem6764100",
+    "className": null,
+    "aClass": "MenuBarItemSubmenu",
+    "title": "<div>כתיבת שירים</div>",
+    "url": "/test/%D7%9B%D7%AA%D7%99%D7%91%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%99%D7%9D%2D1%2D1%2D1%2D1%2D1%2D1%2D1%2D1%2D1.html",
+    "children": []
+  }
+]
