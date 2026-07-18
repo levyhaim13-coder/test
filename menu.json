@@ -3,7 +3,7 @@
     "id": "MBHItem3143616",
     "className": "menu_h_active",
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>דברי הקדמה</div>",
+    "title": "דברי הקדמה",
     "url": ".",
     "children": [
       {
@@ -20,7 +20,7 @@
     "id": "MBHItem3148622",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>צורת הלימוד</div>",
+    "title": "צורת הלימוד",
     "url": "/test/210785/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93",
     "children": [
       {
@@ -85,7 +85,7 @@
     "id": "MBHItem3149256",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>תיאוריה מוזיקלית</div>",
+    "title": "תיאוריה מוזיקלית",
     "url": "/test/210785/%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%99%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA",
     "children": [
       {
@@ -1301,7 +1301,7 @@
     "id": "MBHItem3150646",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>תולדות המוזיקה</div>",
+    "title": "תולדות המוזיקה",
     "url": "/test/210785/%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
     "children": [
       {
@@ -1406,7 +1406,7 @@
     "id": "MBHItem3153300",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>מלחינים בולטים</div>",
+    "title": "מלחינים בולטים",
     "url": "/test/210785/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%90%D7%A9%D7%A8%2D%D7%94%D7%A9%D7%A4%D7%99%D7%A2%D7%95%2D%D7%A2%D7%9C%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94",
     "children": [
       {
@@ -1543,7 +1543,7 @@
     "id": "MBHItem3156515",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>תרגום יצירות</div>",
+    "title": "תרגום יצירות",
     "url": "/test/210785/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%2D%D7%99%D7%A6%D7%99%D7%A8%D7%95%D7%AA",
     "children": []
   },
@@ -1551,7 +1551,7 @@
     "id": "MBHItem3155220",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>נספחים</div>",
+    "title": "נספחים",
     "url": "/test/210785/%D7%A0%D7%A1%D7%A4%D7%97%D7%99%D7%9D",
     "children": [
       {
@@ -1576,7 +1576,7 @@
     "id": "MBHItem3155192",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>דיקציה</div>",
+    "title": "דיקציה",
     "url": "/test/210785/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94%2D1",
     "children": [
       {
@@ -1617,7 +1617,7 @@
     "id": "MBHItem3155211",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>רפרטואר</div>",
+    "title": "רפרטואר",
     "url": "/test/210785/%D7%A8%D7%A4%D7%A8%D7%98%D7%95%D7%90%D7%A8",
     "children": [
       {
@@ -1714,7 +1714,7 @@
     "id": "MBHItem3163672",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>מונחים מוזיקליים</div>",
+    "title": "מונחים מוזיקליים",
     "url": "/test/210785/%D7%9E%D7%95%D7%A0%D7%97%D7%99%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D%2D1%2D1",
     "children": [
       {
@@ -1739,7 +1739,7 @@
     "id": "MBHItem4618570",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>לחן ועיבוד מוזיקלי</div>",
+    "title": "לחן ועיבוד מוזיקלי",
     "url": "/test/%D7%9C%D7%97%D7%9F%2D%D7%95%D7%A2%D7%99%D7%91%D7%95%D7%93%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%2D1.html",
     "children": [
       {
@@ -1958,7 +1958,7 @@
     "id": "MBHItem6141146",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>מאגר יצירות</div>",
+    "title": "מאגר יצירות",
     "url": "/test/%D7%A7%D7%91%D7%A6%D7%99%2Dmidi.html",
     "children": [
       {
@@ -2201,7 +2201,7 @@
     "id": "MBHItem6470556",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>חוברות מוזיקליות</div>",
+    "title": "חוברות מוזיקליות",
     "url": "/test/%D7%97%D7%95%D7%91%D7%A8%D7%95%D7%AA%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%95%D7%AA.html",
     "children": [
       {
@@ -2626,7 +2626,7 @@
     "id": "MBHItem6702128",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>חיפוש אקורדים</div>",
+    "title": "חיפוש אקורדים",
     "url": "/test/%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D%2D1.html",
     "children": []
   },
@@ -2634,7 +2634,7 @@
     "id": "MBHItem6721343",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>המקאם הערבי</div>",
+    "title": "המקאם הערבי",
     "url": "/test/%D7%94%D7%9E%D7%A7%D7%90%D7%9D%2D%D7%94%D7%A2%D7%A8%D7%91%D7%99.html",
     "children": [
       {
@@ -2683,7 +2683,7 @@
     "id": "MBHItem6742018",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>רסיטל</div>",
+    "title": "רסיטל",
     "url": "/test/%D7%A8%D7%A1%D7%99%D7%98%D7%9C.html",
     "children": [
       {
@@ -2828,7 +2828,7 @@
     "id": "MBHItem6750263",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>מוזיקת הג'אז</div>",
+    "title": "מוזיקת הג'אז",
     "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%AA%2D%D7%92%2D%D7%90%D7%96.html",
     "children": [
       {
@@ -2853,7 +2853,7 @@
     "id": "MBHItem6754535",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>לנגן על גיטרה</div>",
+    "title": "לנגן על גיטרה",
     "url": "/test/%D7%A0%D7%99%D7%92%D7%95%D7%9F%2D%D7%A2%D7%9C%2D%D7%92%D7%99%D7%98%D7%A8%D7%94.html",
     "children": [
       {
@@ -3006,7 +3006,7 @@
     "id": "MBHItem6758179",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>power point</div>",
+    "title": "power point",
     "url": "/test/power%2Dpoint.html",
     "children": []
   },
@@ -3014,7 +3014,7 @@
     "id": "MBHItem3155710",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>התרופה המוזיקלית</div>",
+    "title": "התרופה המוזיקלית",
     "url": "/test/210785/%D7%94%D7%AA%D7%A8%D7%95%D7%A4%D7%94%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA",
     "children": []
   },
@@ -3022,7 +3022,7 @@
     "id": "MBHItem6760518",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>הפקה מוזיקלית</div>",
+    "title": "הפקה מוזיקלית",
     "url": "/test/%D7%94%D7%A4%D7%A7%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA%2D1.html",
     "children": [
       {
@@ -3179,7 +3179,7 @@
       },
       {
         "id": "Menu_1783851946117",
-        "title": "שירת סולפג&#39;",
+        "title": "שירת סולפג'",
         "url": "pages/1783851944925_שירת סולפג'.html",
         "className": null,
         "aClass": null,
@@ -3191,7 +3191,7 @@
     "id": "MBHItem6759711",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>קבצי MIDI</div>",
+    "title": "קבצי MIDI",
     "url": "/test/%D7%A7%D7%91%D7%A6%D7%99%2DMidi%2D1%2D1.html",
     "children": []
   },
@@ -3199,7 +3199,7 @@
     "id": "MBHItem6762799",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>מוזיקה לסרטים</div>",
+    "title": "מוזיקה לסרטים",
     "url": "/test/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%2D%D7%9C%D7%A1%D7%A8%D7%98%D7%99%D7%9D.html",
     "children": [
       {
@@ -3240,33 +3240,9 @@
     "id": "MBHItem6764099",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>הופעה מול קהל</div>",
+    "title": "הופעה מול קהל",
     "url": "/test/%D7%94%D7%95%D7%A4%D7%A2%D7%94%2D%D7%9E%D7%95%D7%9C%2D%D7%A7%D7%94%D7%9C%2D1.html",
     "children": [
-      {
-        "id": "Menu_1783760284988",
-        "className": null,
-        "aClass": null,
-        "title": " שירת סולפג'",
-        "url": "pages/1783760283841_שירת סולפג",
-        "children": []
-      },
-      {
-        "id": "Menu_1783878249503",
-        "title": "שירה ונגינה מתוך תווים",
-        "url": "pages/1783878244771_שירה ונגינה מתוך תווים.html",
-        "className": null,
-        "aClass": null,
-        "children": []
-      },
-      {
-        "id": "Menu_1783934001514",
-        "title": "שירה מתווים",
-        "url": "pages/1783934000078_שירה מתווים.html",
-        "className": null,
-        "aClass": null,
-        "children": []
-      },
       {
         "id": "Menu_1784358260995",
         "title": "שירה מתוים",
@@ -3281,7 +3257,7 @@
     "id": "MBHItem6764100",
     "className": null,
     "aClass": "MenuBarItemSubmenu",
-    "title": "<div>כתיבת שירים</div>",
+    "title": "כתיבת שירים",
     "url": "/test/%D7%9B%D7%AA%D7%99%D7%91%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%99%D7%9D%2D1%2D1%2D1%2D1%2D1%2D1%2D1%2D1%2D1.html",
     "children": []
   }
