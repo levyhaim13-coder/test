@@ -2,6 +2,10 @@
   const basePath = '/test/';
   const menuUrl = new URL(basePath + 'menu.json', window.location.origin).toString();
 
+  const revealMenu = () => {
+    document.getElementById('shared-menu-loading-style')?.remove();
+  };
+
   const ensureMenuLayoutStyles = () => {
     const styleId = 'shared-menu-layout-styles';
     if (document.getElementById(styleId)) return;
@@ -56,5 +60,6 @@
     })
     .catch((error) => {
       console.warn('Could not load shared menu:', error);
-    });
+    })
+    .finally(revealMenu);
 })();
