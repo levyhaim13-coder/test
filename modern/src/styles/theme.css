@@ -1,0 +1,154 @@
+html,
+body {
+	direction: rtl;
+}
+
+body {
+	margin: 0;
+	background: #fff;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+a {
+	color: #186096;
+}
+
+#WebsiteDesign-MainTable {
+	table-layout: fixed;
+}
+
+.legacy-header {
+	height: 200px;
+	overflow: hidden;
+	background: #fff url('https://sfilev2.f-static.com/image/users/210785/ftp/my_files/template/HeaderBgV2.jpg?id=9259082') no-repeat center top;
+}
+
+.legacy-header img {
+	display: block;
+	width: 928px;
+	height: 200px;
+	border: 0;
+}
+
+.SideMenuSetting_Right,
+.SideMenuSetting_Left {
+	width: 265px;
+	background-color: #fff;
+}
+
+#sideMenu_Right {
+	direction: rtl;
+}
+
+#centerWebsiteDiv {
+	width: 665px;
+}
+
+.legacy-tool-content {
+	text-align: center;
+	color: #000;
+}
+
+.legacy-link-button {
+	padding: 0;
+	border: 0;
+	background: transparent;
+	color: #000;
+	font: inherit;
+	cursor: pointer;
+}
+
+.legacy-counter {
+	min-height: 14px;
+}
+
+.legacy-title {
+	margin: 2px 0 0;
+	border-bottom: 1px solid #3ba358;
+}
+
+.legacy-title h1 {
+	margin: 0;
+	padding: 0 3px 3px 0;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#longMessageMEM {
+	font-size: 12px;
+}
+
+#MenuBar2 {
+	position: relative;
+	z-index: 50;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#MenuBar2,
+#MenuBar2 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#MenuBar2 > li {
+	position: relative;
+}
+
+#MenuBar2 li {
+	position: relative;
+}
+
+#MenuBar2 li ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	right: 0;
+	z-index: 100;
+	width: max-content !important;
+	min-width: 120px;
+	max-width: 280px;
+	box-sizing: border-box;
+}
+
+#MenuBar2 li ul li ul {
+	top: 0;
+	right: 100%;
+}
+
+#MenuBar2 li:hover > ul,
+#MenuBar2 li:focus-within > ul {
+	display: block;
+}
+
+#MenuBar2 a {
+	display: block;
+	white-space: nowrap;
+}
+
+#MenuBar2 li ul a {
+	width: auto !important;
+	min-width: 120px;
+	max-width: 280px;
+	padding: 0 12px !important;
+	box-sizing: border-box;
+	white-space: nowrap;
+	line-height: 35px;
+}
+
+#MenuBar2 li ul li {
+	width: auto !important;
+	min-width: 120px;
+	max-width: 280px;
+	box-sizing: border-box;
+	line-height: 35px;
+}
+
+@media (max-width: 950px) {
+	#WebsiteDesign-MainDiv {
+		overflow-x: auto;
+	}
+}

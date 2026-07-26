@@ -1,0 +1,121 @@
+---
+import Navigation from '../components/Navigation.astro';
+import '../styles/theme.css';
+
+interface Props {
+	title: string;
+	description?: string;
+	keywords?: string;
+	canonicalPath?: string;
+}
+
+const {
+	title,
+	description = 'תאוריה מוזיקלית',
+	keywords = '',
+	canonicalPath = '/test/',
+} = Astro.props;
+const canonicalUrl = new URL(canonicalPath, Astro.site);
+---
+
+<!doctype html>
+<html lang="he" dir="rtl">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content={description} />
+		{keywords && <meta name="keywords" content={keywords} />}
+		<link rel="canonical" href={canonicalUrl} />
+		<link rel="stylesheet" href="https://sfilev2.f-static.com/includeNew/css.css" />
+		<link rel="stylesheet" href="https://sfilev2.f-static.com/site/detail/include/websiteDefaultDesign.css?v=1007161732" />
+		<link rel="stylesheet" href="https://sfilev2.f-static.com/image/users/210785/css/csshe_9644.css" />
+		<title>{title}</title>
+	</head>
+	<body>
+		<div id="WebsiteDesign-MainDiv" style="margin-top: 60px;">
+			<table id="WebsiteDesign-MainTable" align="center" style="width:930px" border="0" cellspacing="0" cellpadding="0">
+				<tbody>
+					<tr id="WebsiteDesign-MainTableTR">
+						<td id="WebsiteDesign-MainTableBorder" valign="top" style="border-width:1px;border-color:#319120;border-style:solid;">
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+								<tbody>
+									<tr><td><Navigation /></td></tr>
+									<tr>
+										<td>
+											<div id="headerDetailHeaderMEM" style="position:relative;width:100%;">
+												<div class="legacy-header">
+													<img
+														alt="תאוריה מוזיקלית"
+														src="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/header_picture.jpg?id=29264921"
+														width="928"
+														height="200"
+													/>
+												</div>
+											</div>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<table width="100%" cellspacing="0" cellpadding="0" border="0" class="bgcolorTable">
+								<tbody>
+									<tr>
+										<td id="sideMenu_Right" class="SideMenuSetting_Right" valign="top">
+											<div class="winToolBoxRight">
+												<div class="backgroundToolRight">
+													<span class="changeLink14 winToolHeaderTextRight">חיפוש באתר</span>
+												</div>
+												<div class="winToolContentRight">
+													<form action="/test/search.html" method="get">
+														<div class="legacy-tool-content">
+															<input class="inputboxsearch" style="width:2cm" type="text" name="q" />
+															&nbsp;<button type="submit" class="legacy-link-button">חפש</button>
+														</div>
+													</form>
+												</div>
+											</div>
+											<br />
+											<div class="winToolBoxRight">
+												<div class="backgroundToolRight">
+													<span class="changeLink14 winToolHeaderTextRight">רשימת תפוצה</span>
+												</div>
+												<div class="winToolContentRight legacy-tool-content">
+													להצטרפות לרשימת התפוצה הכנס את כתובת הדואר האלקוני שלך:<br />
+													<input class="inputboxsearch" style="direction:ltr;width:2cm;font-size:10px" type="email" disabled />
+													&nbsp;<span style="font-size:12px">שלח</span><br />
+													<input type="radio" checked disabled /> הוסף<br />
+													<input type="radio" disabled /> הסר
+												</div>
+											</div>
+											<br />
+											<div class="winToolBoxRight">
+												<div class="backgroundToolRight">
+													<span class="changeLink14 winToolHeaderTextRight">מונה:</span>
+												</div>
+												<div class="winToolContentRight legacy-counter">&nbsp;</div>
+											</div>
+											<br />
+										</td>
+										<td id="centerWebsiteDiv" class="CenterTable" style="width:665px" valign="top">
+											<table width="100%" cellspacing="0" cellpadding="0" border="0">
+												<tbody><tr><td><slot /></td></tr></tbody>
+											</table>
+										</td>
+										<td id="sideMenu_Left" class="SideMenuSetting_Left" valign="top" style="display:none;"></td>
+									</tr>
+								</tbody>
+							</table>
+							<div id="footerDetailHeaderMEM">
+								<div style="background-color:#fff">
+									<div style="height:45px;line-height:40px;margin:auto;width:98%;">
+										<img alt="" height="25" src="/test/image/users/210785/ftp/my_files/template/Top.gif" style="vertical-align:middle;margin:0 3px" width="31" />
+										<a href="#WebsiteDesign-MainDiv" style="color:#000;text-decoration:none">Top page</a>
+									</div>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</body>
+</html>
