@@ -11,12 +11,14 @@ const legacyDirectoryAliases = () => ({
 		'astro:build:done': ({ dir, logger }) => {
 			const legacyRoot = path.join(repositoryRoot, '210785');
 			const outputRoot = fileURLToPath(dir);
-			const uploadedImages = path.join(repositoryRoot, 'images');
 			const robotsFile = path.join(repositoryRoot, 'robots.txt');
 			let aliasCount = 0;
 
-			if (fs.existsSync(uploadedImages)) {
-				fs.cpSync(uploadedImages, path.join(outputRoot, 'images'), { recursive: true });
+			for (const assetRoot of ['images', 'audio', 'video', 'files']) {
+				const source = path.join(repositoryRoot, assetRoot);
+				if (fs.existsSync(source)) {
+					fs.cpSync(source, path.join(outputRoot, assetRoot), { recursive: true });
+				}
 			}
 
 			if (fs.existsSync(robotsFile)) {
