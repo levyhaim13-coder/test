@@ -1,0 +1,17 @@
+{
+  "name": "modern-musical-theory",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "migrate:content": "node --max-old-space-size=4096 ../extract.mjs",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.1.0"
+  }
+}
