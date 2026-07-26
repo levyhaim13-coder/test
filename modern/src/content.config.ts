@@ -13,7 +13,7 @@ const pages = defineCollection({
 		description: z.string().optional(),
 		keywords: z.string().optional(),
 		route: z.string(),
-		sourcePath: z.string(),
+		sourcePath: z.string().optional(),
 		legacyPath: z.string(),
 		isHome: z.boolean().default(false),
 	}),
