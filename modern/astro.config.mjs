@@ -51,5 +51,5 @@ export default defineConfig({
 	build: {
 		format: 'file',
 	},
-	trailingSlash: 'never',
+	trailingSlash: 'ignore',
 });
