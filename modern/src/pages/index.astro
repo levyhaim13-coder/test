@@ -1,0 +1,24 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const [entry] = await getCollection('pages', ({ data }) => data.isHome);
+
+if (!entry) {
+	throw new Error('The migrated homepage content was not found.');
+}
+
+const { Content } = await render(entry);
+---
+
+<BaseLayout
+	title={entry.data.title}
+	description={entry.data.description}
+	keywords={entry.data.keywords}
+	canonicalPath={entry.data.legacyPath}
+>
+	<table class="legacy-title" border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr><td><h1>{entry.data.title}</h1></td></tr></tbody>
+	</table>
+	<Content />
+</BaseLayout>

@@ -1,0 +1,92 @@
+---
+import menu from '../../../menu.json';
+
+interface MenuItem {
+	id: string;
+	title: string;
+	url: string;
+	children: MenuItem[];
+}
+
+const items = menu as MenuItem[];
+
+const normalizeUrl = (value: string) => {
+	if (!value || value === '.') return '/test/';
+	if (/^(https?:|mailto:|tel:|javascript:)/i.test(value)) return value;
+	if (value.startsWith('/test/')) return value;
+	if (value.startsWith('/')) return `/test${value}`;
+	return `/test/${value.replace(/^\.\//, '')}`;
+};
+---
+
+<table id="topMenuContainer" class="topMenuContainer" cellpadding="0" cellspacing="0" border="0">
+	<tbody>
+	<tr>
+	<td>
+	<ul id="MenuBar2" class="MenuBarHorizontal" aria-label="ניווט ראשי">
+		{items.map((item) => (
+			<li>
+				<a class:list={[{ MenuBarItemSubmenu: item.children?.length }]} href={normalizeUrl(item.url)}>
+					<div set:html={item.title}></div>
+				</a>
+				{item.children?.length > 0 && (
+					<ul>
+						{item.children.map((child) => (
+							<li>
+								<a
+									class:list={[{ MenuBarItemSubmenu: child.children?.length }]}
+									href={normalizeUrl(child.url)}
+									set:html={child.title}
+								></a>
+								{child.children?.length > 0 && (
+									<ul>
+										{child.children.map((grandchild) => (
+											<li>
+												<a href={normalizeUrl(grandchild.url)} set:html={grandchild.title}></a>
+											</li>
+										))}
+									</ul>
+								)}
+							</li>
+						))}
+					</ul>
+				)}
+			</li>
+		))}
+	</ul>
+	</td>
+	</tr>
+	</tbody>
+</table>
+
+<script>
+	const menu = document.querySelector<HTMLElement>('#MenuBar2');
+
+	if (menu) {
+		for (const item of menu.querySelectorAll<HTMLElement>('li')) {
+			const submenu = item.querySelector<HTMLElement>(':scope > ul');
+			if (!submenu) continue;
+
+			item.addEventListener('mouseenter', () => {
+				const menuBounds = menu.getBoundingClientRect();
+				const itemBounds = item.getBoundingClientRect();
+				const submenuWidth =
+					submenu.getBoundingClientRect().width ||
+					Number.parseFloat(getComputedStyle(submenu).width) ||
+					120;
+				const isTopLevel = item.parentElement === menu;
+
+				if (isTopLevel) {
+					const wouldOverflowLeft = itemBounds.right - submenuWidth < menuBounds.left;
+					submenu.style.right = wouldOverflowLeft ? 'auto' : '0';
+					submenu.style.left = wouldOverflowLeft ? '0' : 'auto';
+					return;
+				}
+
+				const wouldOverflowLeft = itemBounds.left - submenuWidth < menuBounds.left;
+				submenu.style.right = wouldOverflowLeft ? 'auto' : '100%';
+				submenu.style.left = wouldOverflowLeft ? '100%' : 'auto';
+			});
+		}
+	}
+</script>

@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levyhaim13-coder/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/levyhaim13-coder/test/issues"
+  },
+  "homepage": "https://github.com/levyhaim13-coder/test#readme",
+  "dependencies": {
+    "glob": "^13.0.6",
+    "he": "^1.2.0",
+    "jsdom": "^28.1.0",
+    "turndown": "^7.2.2"
+  }
+}

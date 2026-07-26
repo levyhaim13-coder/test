@@ -1,0 +1,75 @@
+---
+title: "משקל מעורב"
+description: ""
+keywords: ""
+route: "210785/משקל/"
+sourcePath: "210785/משקל/index.html"
+legacyPath: "/test/210785/משקל/"
+isHome: false
+---
+
+<div id="longMessageMEM">
+<div id="sortableLayoutDragDrop" class="sortableLayout" valign="top"><div style="padding-bottom:2px;padding-left:2px;padding-right:2px;padding-top:2px" id="dr4r3_text_1297101228959" class="tool_text"><div id="content_dr4r3_text_1297101228959"><table border="0" cellpadding="0" cellspacing="0" style="background-color: rgb(255, 255, 255);" width="100%">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td valign="top">
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td colspan="3" style="padding: 5px 0px; border-bottom: 1px dotted rgb(59, 163, 88);">
+									<div id="longMessageMEM">
+									<div class="sortableLayout" id="sortableLayoutDragDrop" valign="top">
+									<div class="tool_text" id="dr4r3_text_1297101228959" style="padding: 2px;">
+									<div id="content_dr4r3_text_1297101228959"><span style="font-size: 14px;"><strong>&nbsp; &nbsp;צופים יקרים!</strong></span><br>
+									&nbsp;
+									<p dir="rtl" style="line-height: 1.38; margin-left: 9pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><span id="docs-internal-guid-bc48af20-7fff-9251-1573-ac51cebb891a"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><span style="color: rgb(255, 0, 0);">משקל מעורב -</span>&nbsp; הספרה העליונה (המונה) ממספר אי זוגי ושאינו משולש .</span></span></span></span></strong></p>
+
+									<p dir="rtl" style="line-height: 1.38; margin-left: 9pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><span id="docs-internal-guid-bc48af20-7fff-9251-1573-ac51cebb891a"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;חלוקה יסודית של התיבה לפעמות בעלות משקל מעורב זהו מספר המתחלק אך</span></span></span></span></strong></p>
+
+									<p dir="rtl" style="line-height: 1.38; margin-left: 9pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><span id="docs-internal-guid-bc48af20-7fff-9251-1573-ac51cebb891a"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;ורק בעצמו.</span></span></span></span></strong></p>
+
+									<p dir="rtl" style="line-height: 1.38; margin-left: -9pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><span id="docs-internal-guid-bc48af20-7fff-9251-1573-ac51cebb891a"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;(מספר ראשוני) 1,3,5,7,11,13&nbsp;&nbsp;&nbsp;</span></span></span></span></strong></p>
+
+									<p dir="rtl" style="line-height: 1.38; margin-left: -9pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><span id="docs-internal-guid-bc48af20-7fff-9251-1573-ac51cebb891a"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;קיימים 20 סוגי משקלות מעורבים.</span></span></span></span></strong><br>
+									&nbsp;</p>
+
+									<p dir="rtl" style="line-height: 1.38; margin-left: 9pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><span id="docs-internal-guid-bc48af20-7fff-9251-1573-ac51cebb891a"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;לדוגמא – משקל מעורב של 5/4 חמש פעמות שערך כל אחת מהן רבע בכל תיבה.&nbsp;</span></span></span></span></strong></p>
+
+									<p dir="rtl" style="line-height: 1.38; margin-left: 9pt; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-bc48af20-7fff-9251-1573-ac51cebb891a"><span style="font-size: 18pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;<strong><span style="font-size: 14px;">הפעמה הראשונה השלישית והחמישית מודגשות לעומת יתר הפעמות.&nbsp;&nbsp;&nbsp;</span></strong></span></span><br>
+									<span id="docs-internal-guid-6ad1753f-7fff-cfb6-ea90-cc352d2a8750"><img height="70px;" src="https://lh5.googleusercontent.com/Jzl7YqklsdXYFB_Q1PIOEYjX5lyYbGivNT3Se0pEIsHk-Y8HYXimAPaoe8nZWXdTQf728ClH6Jzzxhk9ffinqDVKjNO2nw7y0uK4GY0ln601VX8dfjKIJoMcKjIHAw9n06tfTupDPUDcKcZ5PAnp" width="312px;"></span></p>
+
+									<div>&nbsp;</div>
+									&nbsp;
+
+									<p dir="rtl" style="line-height: 1.2; text-align: justify; margin-top: 0pt; margin-bottom: 0pt;"><br>
+									<br>
+									<span style="font-size: 14px;"><strong>המשך צפייה מהנה !&nbsp;</strong><br>
+									<br>
+									<br>
+									&nbsp;<br>
+									<a href="http://my.enter-system.com/%D7%9E%D7%A9%D7%A7%D7%9C-%D7%9E%D7%A9%D7%95%D7%9C%D7%A9-1.html">&nbsp;</a></span><a href="http://my.enter-system.com/%D7%9E%D7%A9%D7%A7%D7%9C-%D7%9E%D7%A9%D7%95%D7%9C%D7%A9-1.html"><span style="color:#0000FF;">&nbsp;<strong><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></span></strong></span></a><span style="font-size: 14px;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://my.enter-system.com/%D7%9E%D7%A9%D7%A7%D7%9C-%D7%96%D7%95%D7%92%D7%99-%D7%A9%D7%99%D7%A0%D7%95%D7%99-%D7%91%D7%9E%D7%9B%D7%A0%D7%94-1.html"><strong><span style="color:#0000FF;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">המשך בעמוד הבא &gt;&gt;&gt;</span></span></span></strong></a></p>
+									</div>
+									</div>
+									</div>
+									</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div></div></div>
+</div>
