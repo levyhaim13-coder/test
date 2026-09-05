@@ -76,6 +76,16 @@ a {
 	font-weight: bold;
 }
 
+.search-page {
+	padding: 8px;
+	font-size: 14px;
+}
+
+.search-page ul {
+	padding-right: 20px;
+}
+
+
 #longMessageMEM {
 	font-size: 12px;
 }
