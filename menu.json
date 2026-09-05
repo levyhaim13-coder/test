@@ -2619,6 +2619,14 @@
         "title": "חוברת תיאוריה מוזיקלית",
         "url": "/test/%D7%97%D7%95%D7%91%D7%A8%D7%AA%2D%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA%2D%D7%9E%D7%9C%D7%90%D7%94.html",
         "children": []
+      },
+      {
+        "id": "Menu_1787311587217",
+        "title": "קוטרפונקט",
+        "url": "/test/pages/1787311585780_קוטרפונקט.html",
+        "className": null,
+        "aClass": null,
+        "children": []
       }
     ]
   },
@@ -2996,6 +3004,14 @@
         "id": "Menu_1783839023998",
         "title": "בדיקה",
         "url": "pages/1783839022812_בדיקה.html",
+        "className": null,
+        "aClass": null,
+        "children": []
+      },
+      {
+        "id": "Menu_1786560101575",
+        "title": "לנגן על טרבוקה",
+        "url": "/test/pages/1786560100258_לנגן על טרבוקה.html",
         "className": null,
         "aClass": null,
         "children": []

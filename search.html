@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>חיפוש באתר</title>
+  <style>
+    body { margin: 2rem auto; max-width: 700px; padding: 0 1rem; font-family: Arial, sans-serif; }
+    a { color: #186096; }
+    ul { padding-right: 1.5rem; }
+  </style>
+</head>
+<body>
+  <h1>חיפוש באתר</h1>
+  <p id="status">טוען...</p>
+  <ul id="results"></ul>
+  <script>
+    const status = document.querySelector('#status');
+    const results = document.querySelector('#results');
+    const query = (new URLSearchParams(location.search).get('q') || new URLSearchParams(location.search).get('seaWord') || '').trim();
+    const normalize = (value) => value.toLocaleLowerCase('he');
+
+    function flatten(items, pages = []) {
+      for (const item of items) {
+        if (item.title && item.url && !item.url.includes('showForm.asp')) pages.push({ title: item.title, url: item.url });
+        if (item.children) flatten(item.children, pages);
+      }
+      return pages;
+    }
+
+    if (!query) {
+      status.textContent = 'הקלד/י מילת חיפוש כדי למצוא עמודים באתר.';
+    } else {
+      fetch('/test/menu.json')
+        .then((response) => response.json())
+        .then((menu) => {
+          const matches = flatten(menu).filter((page) => normalize(`${page.title} ${page.url}`).includes(normalize(query)));
+          status.textContent = `${matches.length} תוצאות עבור "${query}"`;
+          for (const page of matches) {
+            const item = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = page.url;
+            link.textContent = page.title;
+            item.append(link);
+            results.append(item);
+          }
+        })
+        .catch(() => { status.textContent = 'לא ניתן לטעון את תוצאות החיפוש.'; });
+    }
+  </script>
+</body>
+</html>
