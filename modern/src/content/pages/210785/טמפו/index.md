@@ -119,8 +119,7 @@ isHome: false
 	<br>
 	<br>
 	<br>
-	<a href="/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%AA%D7%95%D7%99%D7%9D%2D%D7%95%D7%94%D7%93%D7%9E%D7%99%D7%9E%D7%95%D7%AA.html"><br>
-	<span style="font-size:12px;"><strong><span style="color: rgb(0, 0, 255);">&nbsp;<span style="font-size:14px;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></span></strong></span></a><span style="font-size:12px;"><strong>&nbsp;</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style="font-size:12px;"><span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size:14px;"><a href="/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%90%D7%95%D7%99%D7%A8%D7%94.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></span></strong><br>
+	<span style="font-size:12px;"><strong>&nbsp;</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style="font-size:12px;"><span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size:14px;"></span></span></strong><br>
 	<strong><span style="font-size: 14px">&nbsp;</span></strong></div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">
 </script>

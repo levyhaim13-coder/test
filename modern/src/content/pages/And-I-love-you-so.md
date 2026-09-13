@@ -24,7 +24,7 @@ isHome: false
 <br>
 <span style="background-color: rgb(255, 255, 255); font-size: 14px;"><strong>המשך&nbsp;צפייה מהנה!</strong><br>
 &nbsp;<br>
-&nbsp;</span><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);">&nbsp;</span><a href="/test/Hallelujah.html"><span style="color: rgb(0, 0, 255);"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 128);">&nbsp;</span></a><span style="background-color: rgb(255, 255, 255);">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><a href="/test/Pie%2DYesu.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a><br style="background-color: rgb(255, 255, 255);">
+&nbsp;</span><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);">&nbsp;</span><span style="background-color: rgb(255, 255, 255);">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br style="background-color: rgb(255, 255, 255);">
 <br style="background-color: rgb(255, 255, 255);">
 &nbsp;</div></div></div>
 </div>
