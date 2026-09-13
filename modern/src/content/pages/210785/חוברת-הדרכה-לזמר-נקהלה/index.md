@@ -69,7 +69,7 @@ isHome: false
 			<br>
 			<span style="font-size: 14px"><strong>המשך צפייה מהנה!&nbsp;&nbsp;&nbsp;&nbsp; </strong></span><br>
 			<br>
-			<span style="color: rgb(0, 0, 255);"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/test/210785/%D7%A9%D7%91%D7%AA%D7%95%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%94"> &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%A9%D7%91%D7%AA%D7%95%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%94"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></div>
+			<span style="color: rgb(0, 0, 255);"><u></u></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/test/210785/%D7%A9%D7%91%D7%AA%D7%95%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%94"> &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a></div>
 	</div>
 </div>
 </div>

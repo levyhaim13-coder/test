@@ -57,7 +57,7 @@ isHome: false
 			&nbsp;&nbsp;<br>
 			<span face="">המשך צפייה מהנה!</span><br>
 			&nbsp;</strong></span><br>
-			<a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA%2D%D7%9E%D7%A7%D7%91%D7%99%D7%9C%D7%99%D7%9D"><span style="color: rgb(0, 0, 255);">&nbsp;</span><span style="color:#0000cd;"><span style="font-size:14px;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></span></a><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp; </span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><span style="font-size:14px;"><a href="/test/210785/%D7%93%D7%A8%D7%92%D7%95%D7%AA%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9D"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong></div>
+			<span style="color:#0000cd;"><span style="font-size:14px;">&nbsp; </span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><span style="font-size:14px;"></span></strong></div>
 	</div>
 </div>
 </div>

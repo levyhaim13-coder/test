@@ -320,7 +320,7 @@ isHome: false
 </tbody>
 </table>
 <div style="clear: both; text-align: justify;">&nbsp;</div>
-<span style="font-size: 14px;">&nbsp;<br>&nbsp;</span><br><span style="font-size: 14px;"><strong>המשך צפייה מהנה!</strong></span><br><br><br><span style="color: #0000ff;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: #add8e6;">&nbsp;</span><a href="https://levyhaim13-coder.github.io/test/210785/%D7%9E%D7%95%D7%A0%D7%97%D7%99%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%99%D7%9D%2D%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%94"><span style="color: #0000ff;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></div>
+<span style="font-size: 14px;">&nbsp;<br>&nbsp;</span><br><span style="font-size: 14px;"><strong>המשך צפייה מהנה!</strong></span><br><br><br><span style="color: #0000ff;"><u></u></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: #add8e6;">&nbsp;</span></div>
 </div>
 </div>
 </div>

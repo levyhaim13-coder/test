@@ -53,7 +53,7 @@ isHome: false
 		<br>
 		<span style="font-size: 14px"><strong>המשך צפייה מהנה!</strong><br>
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br>
-		<a href="/test/%D7%A1%D7%95%D7%92%D7%99%2D%D7%9E%D7%A4%D7%AA%D7%97%D7%95%D7%AA.html"><span style="color: rgb(0, 0, 255);">&nbsp;<span style="font-size:14px;"><strong><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></strong></span></span></a><span style="font-size:14px;"><strong>&nbsp;</strong>&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:14px;"><strong><a href="/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%A4%D7%94"> &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></strong></span></div>
+		<span style="font-size:14px;"><strong>&nbsp;</strong>&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:14px;"><strong></strong></span></div>
 </div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">
 </script><script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">

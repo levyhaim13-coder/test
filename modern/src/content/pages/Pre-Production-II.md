@@ -27,6 +27,6 @@ isHome: false
 <br>
 &nbsp;</div>
 
-<p style="background-color: rgb(255, 255, 255);"><a href="/test/%D7%A2%D7%99%D7%93%D7%9F%2D%D7%94%D7%9E%D7%97%D7%A9%D7%95%D7%91.html"><span style="color: rgb(0, 0, 255);"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></span></strong>&nbsp;&nbsp;</span></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"><a href="/test/Pre%2DProduction%2D%D7%94%D7%A9%D7%9C%D7%91%2D%D7%94%D7%A1%D7%95%D7%A4%D7%99.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></span></strong></p>
+<p style="background-color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14px;"></span></span></strong></p>
 </div></div></div>
 </div>
