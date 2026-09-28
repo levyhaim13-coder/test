@@ -287,3 +287,8 @@ isHome: false
 </div>
 </div>
 </div>
+
+<nav aria-label="ניווט בין עמודים" dir="rtl" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 1.5rem;">
+  <a href="/test/210785/%D7%A8%D7%A4%D7%A8%D7%98%D7%95%D7%90%D7%A8">&lt;&lt;&lt; חזרה לדף קודם</a>
+  <a href="/test/210785/%D7%90%D7%A0%D7%A1%D7%9E%D7%91%D7%9C">המשך בעמוד הבא &gt;&gt;&gt;</a>
+</nav>
