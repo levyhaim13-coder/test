@@ -3275,7 +3275,16 @@
     "aClass": "MenuBarItemSubmenu",
     "title": "כתיבת שירים",
     "url": "/test/%D7%9B%D7%AA%D7%99%D7%91%D7%AA%2D%D7%A9%D7%99%D7%A8%D7%99%D7%9D%2D1%2D1%2D1%2D1%2D1%2D1%2D1%2D1%2D1.html",
-    "children": []
+    "children": [
+      {
+        "id": "Menu_1791389271255",
+        "title": "בחירת המבצע",
+        "url": "/test/pages/1791389269202_בחירת המבצע.html",
+        "className": null,
+        "aClass": null,
+        "children": []
+      }
+    ]
   },
   {
     "id": "Menu_1791309997325",
