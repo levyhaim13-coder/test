@@ -1745,6 +1745,16 @@
         "inSequence": true
       },
       {
+        "title": "כתיבת הלחן",
+        "route": "pages/1791309995578_כתיבת המלל",
+        "inSequence": true
+      },
+      {
+        "title": "כתיבת העיבוד",
+        "route": "pages/1791389192891_העיבוד המוזיקלי",
+        "inSequence": true
+      },
+      {
         "title": "סולם מינור הרמוני",
         "route": "210785/סולם-מינור-הרמוני",
         "inSequence": false

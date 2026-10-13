@@ -9,30 +9,12 @@ isHome: false
 ---
 
 <div id="longMessageMEM">
-<div class="sortableLayout" id="sortableLayoutDragDrop" valign="top">
-	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding: 2px; text-align: justify;">
-		<br>
-		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px"><strong>צופים יקרים!</strong><br>
-		&nbsp;</span></span></div>
-	<div class="tool_text" style="padding: 2px; text-align: justify;">
-		<span style="font-family:arial,helvetica,sans-serif;"><strong style="color: rgb(105, 105, 105); font-size: 14px; text-align: justify;">במסגרת פגישתנו זו אציג בפניכם את משמעות המושג - </strong><strong style="color: rgb(105, 105, 105); font-size: 14px; text-align: justify;">תיאוריה מוזיקלית?</strong><span style="color: rgb(105, 105, 105); font-size: 14px; text-align: justify;">&nbsp;&nbsp;</span></span></div>
-	<div class="tool_text" style="padding: 2px; text-align: justify;">
-		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color:#696969;"><strong>כמו בכל דבר, גם כאן כאשר אנו מדברים על התיאוריה המוזיקלית </strong><strong>אנו חייבים קודם להבין את המשמעות .. מהי תיאוריה מוזיקלית ולשם מה היא דרושה? </strong></span><br>
-		&nbsp;<br>
-		<strong>בהקבלה ניתן לומר כי ללא לימוד של תיאוריה בנהיגה יכול האדם לנהוג ברכב אך הוא צפוי לתאונות ואפילו לתאונות קשות ...כל אדם יכול לפתוח בטן של חולה עם איזמל ניתוחים, אך רק רופא כירורג אשר&nbsp;למד את תיאורית הרפואה הכירורגית והוסמך לכך, יודע מה לעשות לפני פתיחת הבטן בזמן פתיחת הבטן ובעת סגירתה.</strong><br>
-		&nbsp;<br>
-		<strong>כנ"ל בתיאוריה מוזיקלית ללא לימוד של התיאוריה המוזיקלית הרי שהאדם לא יוכל לשיר נכון, לא יוכל לנגן נכון, ואף לא יוכל להנות בצורה נכונה ותקינה מהמוזיקה שאותה הוא שומע שר או מנגן. &nbsp;</strong><br>
-		&nbsp;<br>
-		<strong>התיאוריה המוזיקלית הינה תיאוריה שעל פיה ניתן להבין את מרכיביה השונים של המוזיקה, תלמיד אשר לומד את התיאוריה&nbsp;המוזיקלית, יכול בנקל להבחין בסוג המוזיקה אותה הוא שומע ואף להבחין באם הוא&nbsp;&nbsp;<span style="color:#0000cd;">מנגן ושר&nbsp;</span>בצורה נכונה ואף אם הוא <span style="color:#0000cd;">שומע</span> את המוזיקה בצורה נכונה. </strong>&nbsp;<br>
-		&nbsp;<br>
-		<strong>בעצם סיום למידת החומר הדן בתיאוריה המוזיקלית, התלמיד יוכל לעבור לשלב שבו הוא מבין מהי מוזיקה מבין את מרכיביה השונים, ויוכל אף בשלבים יותר מתקדמים&nbsp;להלחין מוזיקה,&nbsp;לכתוב מלודיות (שירים) ואף עיבודים מוזיקליים ומוזיקה לקולנוע.&nbsp;&nbsp;</strong><br>
-		&nbsp;&nbsp;<br>
-		<strong>התיאוריה המוזיקלית כמו בתיאורית הנהיגה הינה אחידה ובשפה אוניברסלית בכל העולם. וכפי שבנהיגה קיימים <span style="color:#ff0000;">התמרורים</span> .. הרי שבמוזיקה קיימים ה-</strong><strong><span style="color:#ff0000;">תווים המוזיקליים...</span></strong></span></span><br>
-		&nbsp;</div>
-	<div class="tool_text" style="padding: 2px; text-align: justify;">
-		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size: 14px;">&nbsp;</span></span></div>
-	<div class="tool_text" style="padding: 2px; text-align: justify;">
-		<span style="font-size: 14px"><span style="font-family:arial,helvetica,sans-serif;"><strong>המשך&nbsp;צפייה מהנה!</strong></span></span></div>
+<div id="sortableLayoutDragDrop" class="sortableLayout">
+<div id="dr4r3_text_1297101228959" class="tool_text" style="padding: 2px; text-align: justify;"><br><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 14px;"><strong>צופים יקרים!</strong><br>&nbsp;</span></span></div>
+<div class="tool_text" style="padding: 2px; text-align: justify;"><span style="font-family: arial,helvetica,sans-serif;"><strong style="color: #696969; font-size: 14px; text-align: justify;">במסגרת פגישתנו זו אציג בפניכם את משמעות המושג - </strong><strong style="color: #696969; font-size: 14px; text-align: justify;">תיאוריה מוזיקלית?</strong><span style="color: #696969; font-size: 14px; text-align: justify;">&nbsp;&nbsp;</span></span></div>
+<div class="tool_text" style="padding: 2px; text-align: justify;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 14px;"><span style="color: #696969;"><strong>כמו בכל דבר, גם כאן כאשר אנו מדברים על התיאוריה המוזיקלית </strong><strong>אנו חייבים קודם להבין את המשמעות .. מהי תיאוריה מוזיקלית ולשם מה היא דרושה? </strong></span><br>&nbsp;<br><strong>בהקבלה ניתן לומר כי ללא לימוד של תיאוריה בנהיגה יכול האדם לנהוג ברכב אך הוא צפוי לתאונות ואפילו לתאונות קשות ...כל אדם יכול לפתוח בטן של חולה עם איזמל ניתוחים, אך רק רופא כירורג אשר&nbsp;למד את תיאורית הרפואה הכירורגית והוסמך לכך, יודע מה לעשות לפני פתיחת הבטן בזמן פתיחת הבטן ובעת סגירתה.</strong><br>&nbsp;<br><strong>כנ"ל בתיאוריה מוזיקלית ללא לימוד של התיאוריה המוזיקלית הרי שהאדם לא יוכל לשיר נכון, לא יוכל לנגן נכון, ואף לא יוכל להנות בצורה נכונה ותקינה מהמוזיקה שאותה הוא שומע שר או מנגן. &nbsp;</strong><br>&nbsp;<br><strong>התיאוריה המוזיקלית הינה תיאוריה שעל פיה ניתן להבין את מרכיביה השונים של המוזיקה, תלמיד אשר לומד את התיאוריה&nbsp;המוזיקלית, יכול בנקל להבחין בסוג המוזיקה אותה הוא שומע ואף להבחין באם הוא&nbsp;&nbsp;<span style="color: #0000cd;">מנגן ושר&nbsp;</span>בצורה נכונה ואף אם הוא <span style="color: #0000cd;">שומע</span> את המוזיקה בצורה נכונה. </strong>&nbsp;<br>&nbsp;<br><strong>בעצם סיום למידת החומר הדן בתיאוריה המוזיקלית, התלמיד יוכל לעבור לשלב שבו הוא מבין מהי מוזיקה מבין את מרכיביה השונים, ויוכל אף בשלבים יותר מתקדמים&nbsp;להלחין מוזיקה,&nbsp;לכתוב מלודיות (שירים) ואף עיבודים מוזיקליים ומוזיקה לקולנוע.&nbsp;&nbsp;</strong><br>&nbsp;&nbsp;<br><strong>התיאוריה המוזיקלית כמו בתיאורית הנהיגה הינה אחידה ובשפה אוניברסלית בכל העולם. וכפי שבנהיגה קיימים <span style="color: #ff0000;">התמרורים</span> .. הרי שבמוזיקה קיימים ה-</strong><strong><span style="color: #ff0000;">תווים המוזיקליים...</span></strong></span></span><br>&nbsp;</div>
+<div class="tool_text" style="padding: 2px; text-align: justify;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: 14px;">&nbsp;</span></span></div>
+<div class="tool_text" style="padding: 2px; text-align: justify;"><span style="font-size: 14px;"><span style="font-family: arial,helvetica,sans-serif;"><strong>המשך&nbsp;צפייה מהנה!</strong></span></span></div>
 
 </div>
 </div>

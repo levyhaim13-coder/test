@@ -9,37 +9,19 @@ isHome: false
 ---
 
 <div id="longMessageMEM">
-<div class="sortableLayout" id="sortableLayoutDragDrop" valign="top">
-	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px">
-		<div id="content_dr4r3_text_1297101228959">
-			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong>צופים יקרים! </strong></span></div>
-			<p style="text-align: justify;">
-				<span style="font-size: 14px"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-				<font color="#0000cd">קדנצה</font>- <span style="color: #ff0000">תבנית מלודית או הרמונית בסוף יצירה או פרק ביצירה המעוררת תחושה של סיום רגעי או מוחלט</span>.<br>
-				על-פי כללי ההרמוניה המסורתית שבה האקורד האחרון הנו אקורד הטוניקה ולפניו אקורד הדומיננטה.&nbsp; (קדנצה&nbsp;אותנטית). במקרה הפוך נוצרת תחושה של אתנחתא (חצי קדנצה) ...</strong></span></p>
-			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><font color="#0000cd">סיום אותנטי</font>- קדנצה המכילה ארבעה דרגות:ראשונה(טוניקה), רביעית(סובדומיננטה),חמישית(דומיננטה),&nbsp;</strong></span><strong style="font-size: 14px;">ושוב ראשונה(טוניקה).&nbsp;ארבעה אקורדים אלו מהוים את השלד של כתיבת יצירה. למעשה זהו סיום מינורי לקטע מינורי או סיום מז'ורי&nbsp;לקטע מז'ורי.</strong></div>
-			<div style="text-align: justify;">
-				&nbsp;</div>
-			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><font color="#0000cd">חצי סיום</font>- קדנצה המכילה שלוש דרגות: ראשונה, רביעית, ומסתיימת בדרגה חמישית בפרמטה. זוהי קדנצה&nbsp;</strong></span><strong style="font-size: 14px;">המסתיימת ללא פתרון (ללא תחושה של סיום היצירה). .</strong></div>
-			<div style="text-align: justify;">
-				&nbsp;</div>
-			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><font color="#0000cd">סיום פיקרדי</font> - סיום אותנטי במינור המכיל ארבע דרגות : ראשונה, רביעית, חמישית ושוב ראשונה אך דרגה זו&nbsp;</strong></span><strong style="font-size: 14px;">הינה במז'ור. (האקורד האחרון ביצירה מנוגן במז'ור). למעשה זהו סיום מז'ורי לקטע מינורי (אין סיום מינורי&nbsp;</strong><strong style="font-size: 14px;">לקטע מז'ורי).</strong></div>
-			<p style="text-align: justify;">
-				<span style="font-size: 14px"><strong><font color="#0000cd">סיום מדומה&nbsp;</font><br>
-				<font color="#ff1493">סיום מדומה במז'ור-&nbsp;</font>קדנצה המכילה ארבע דרגות : ראשונה,רביעית,חמישית,שישית.<br>
-				&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; האקורד של דרגה שישית גבוה בטון שלם לעומת הדרגה החמישית.&nbsp;<br>
-				<font color="#ff1493">סיום מדומה במינור-</font> קדנצה המכילה ארבע דרגות : ראשונה,רביעית,חמישית,שישית.<br>
-				&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; האקורד של דרגה שישית גבוה בחצי טון לעומת הדרגה החמישית. </strong></span></p>
-			<p style="text-align: justify;">
-				<br>
-				<span style="font-size: 14px"><strong>המשך צפייה מהנה!</strong></span><br>
-				<br>
-				&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size:14px;"></span></p>
-		</div>
-	</div>
+<div id="sortableLayoutDragDrop" class="sortableLayout">
+<div id="dr4r3_text_1297101228959" class="tool_text" style="padding: 2px;">
+<div id="content_dr4r3_text_1297101228959">
+<div style="text-align: justify;"><span style="font-size: 14px;"><strong>צופים יקרים! </strong></span></div>
+<p style="text-align: justify;"><span style="font-size: 14px;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><span style="color: #0000cd;">קדנצה</span>- <span style="color: #ff0000;">תבנית מלודית או הרמונית בסוף יצירה או פרק ביצירה המעוררת תחושה של סיום רגעי או מוחלט</span>.<br>על-פי כללי ההרמוניה המסורתית שבה האקורד האחרון הנו אקורד הטוניקה ולפניו אקורד הדומיננטה.&nbsp; (קדנצה&nbsp;אותנטית). במקרה הפוך נוצרת תחושה של אתנחתא (חצי קדנצה) ...</strong></span></p>
+<div style="text-align: justify;"><span style="font-size: 14px;"><strong><span style="color: #0000cd;">סיום אותנטי</span>- קדנצה המכילה ארבעה דרגות:ראשונה(טוניקה), רביעית(סובדומיננטה),חמישית(דומיננטה),&nbsp;</strong></span><strong style="font-size: 14px;">ושוב ראשונה(טוניקה).&nbsp;ארבעה אקורדים אלו מהוים את השלד של כתיבת יצירה. למעשה זהו סיום מינורי לקטע מינורי או סיום מז'ורי&nbsp;לקטע מז'ורי.</strong></div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;"><span style="font-size: 14px;"><strong><span style="color: #0000cd;">חצי סיום</span>- קדנצה המכילה שלוש דרגות: ראשונה, רביעית, ומסתיימת בדרגה חמישית בפרמטה. זוהי קדנצה&nbsp;</strong></span><strong style="font-size: 14px;">המסתיימת ללא פתרון (ללא תחושה של סיום היצירה). .</strong></div>
+<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;"><span style="font-size: 14px;"><strong><span style="color: #0000cd;">סיום פיקרדי</span> - סיום אותנטי במינור המכיל ארבע דרגות : ראשונה, רביעית, חמישית ושוב ראשונה אך דרגה זו&nbsp;</strong></span><strong style="font-size: 14px;">הינה במז'ור. (האקורד האחרון ביצירה מנוגן במז'ור). למעשה זהו סיום מז'ורי לקטע מינורי (אין סיום מינורי&nbsp;</strong><strong style="font-size: 14px;">לקטע מז'ורי).</strong></div>
+<p style="text-align: justify;"><span style="font-size: 14px;"><strong><span style="color: #0000cd;">סיום מדומה&nbsp;</span><br><span style="color: #ff1493;">סיום מדומה במז'ור-&nbsp;</span>קדנצה המכילה ארבע דרגות : ראשונה,רביעית,חמישית,שישית.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; האקורד של דרגה שישית גבוה בטון שלם לעומת הדרגה החמישית.&nbsp;<br><span style="color: #ff1493;">סיום מדומה במינור-</span> קדנצה המכילה ארבע דרגות : ראשונה,רביעית,חמישית,שישית.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; האקורד של דרגה שישית גבוה בחצי טון לעומת הדרגה החמישית. </strong></span></p>
+<p style="text-align: justify;"><br><span style="font-size: 14px;"><strong>המשך צפייה מהנה!</strong></span><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: #add8e6;">&nbsp;</span></p>
+</div>
+</div>
 </div>
 </div>

@@ -2488,16 +2488,14 @@
     {
       "section": "כתיבה הרמונית",
       "topic": "כתיבת הלחן",
-      "route": null,
-      "kind": "not identified",
-      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+      "route": "pages/1791309995578_כתיבת המלל",
+      "kind": "page"
     },
     {
       "section": "כתיבה הרמונית",
       "topic": "כתיבת העיבוד",
-      "route": null,
-      "kind": "not identified",
-      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+      "route": "pages/1791389192891_העיבוד המוזיקלי",
+      "kind": "page"
     },
     {
       "section": "כתיבה הרמונית",
@@ -2656,9 +2654,8 @@
     {
       "section": "כתיבה הרמונית",
       "topic": "כתיבת לחן",
-      "route": null,
-      "kind": "not identified",
-      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+      "route": "pages/1791309995578_כתיבת המלל",
+      "kind": "page"
     },
     {
       "section": "כתיבה הרמונית",
@@ -2670,9 +2667,8 @@
     {
       "section": "כתיבה הרמונית",
       "topic": "כתיבת עיבוד מוזיקלי",
-      "route": null,
-      "kind": "not identified",
-      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+      "route": "pages/1791389192891_העיבוד המוזיקלי",
+      "kind": "page"
     },
     {
       "section": "כתיבה הרמונית",
@@ -3308,5 +3304,8 @@
     "הגייה עיצורים ותנועה",
     "סוגי מוזיקה שונים"
   ],
-  "overviewNote": "These are indexes linking existing material, not newly authored lessons."
+  "overviewNote": "These are indexes linking existing material, not newly authored lessons.",
+  "unpublishedEmptyPages": [
+    "בחירת המבצע"
+  ]
 }
