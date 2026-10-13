@@ -57,6 +57,6 @@ isHome: false
 <li><u style="font-family: arial, helvetica, sans-serif; font-size: 14px;"><strong>המשך צפייה מהנה!</strong></u></li>
 <li class="MsoNormal" dir="RTL" style="mso-list: l2 level1 lfo3; tab-stops: list 36.0pt;">&nbsp;&nbsp;</li>
 <li class="MsoNormal" dir="RTL" style="mso-list: l2 level1 lfo3; tab-stops: list 36.0pt;">&nbsp;</li>
-<li class="MsoNormal" dir="RTL" style="mso-list: l2 level1 lfo3; tab-stops: list 36.0pt;"><a href="https://levyhaim13-coder.github.io/test/210785/%D7%92%2D%D7%95%D7%A1%D7%A3%2D%D7%94%D7%99%D7%99%D7%93%D7%9F"><span style="color: #0000ff;"><u>&lt;&lt;&lt; חזרה לדף קודם </u></span></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: #add8e6;">&nbsp;</span><a href="https://levyhaim13-coder.github.io/test/210785/%D7%9E%D7%A0%D7%93%D7%9C%D7%A1%D7%95%D7%9F"><span style="color: #0000ff;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></li>
+
 </ul>
 </div>

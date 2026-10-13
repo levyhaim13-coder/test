@@ -15,7 +15,7 @@ isHome: false
 			<span style="font-size: 14px"><strong><span face="">צופים יקרים!</span><br>
 			&nbsp;<br>
 			&nbsp;<br>
-			<a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%A1%D7%98%D7%9E%D7%94.docx?id=9864534"></a><a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%A1%D7%98%D7%9E%D7%94-1.docx?id=9864542"><span style="color: #008080"><span face=""><strong><u>ססטמה</u></strong></span></span></a><a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%A1%D7%98%D7%9E%D7%94-1.docx?id=9864542"> </a>-&nbsp;<span dir="ltr">System</span>-&nbsp; <span style="color: #ff0000">מערכת המאגדת מספר מחמושות.<br>
+			<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%A1%D7%98%D7%9E%D7%94-1.docx?id=9864542"><span style="color: #008080"><span face=""><strong><u>ססטמה</u></strong></span></span></a>-&nbsp;<span dir="ltr">System</span>-&nbsp; <span style="color: #ff0000">מערכת המאגדת מספר מחמושות.<br>
 			&nbsp;</span><br>
 			<span face="">הססטמה נועדה כדי לאפשר מיקום של הקו המלודי לכל קול ו-לכל כלי מוזיקלי ביצירה. בכל מחמושת בססטמה מופיע מצד משאל של קו המחמושת שם סוג הקול או שם סוג הכלי לביצוע. </span><br>
 			&nbsp;<br>
@@ -50,7 +50,7 @@ isHome: false
 			&nbsp;<br>
 			<span face="">המשך צפייה מהנה!</span><br>
 			<span face="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong></span><br>
-			<span style="color: rgb(0, 0, 255);">&nbsp;<a href="/test/%D7%A7%D7%95%2D%D7%AA%D7%99%D7%91%D7%94%2D%D7%A2%D7%9D%2D%D7%A1%D7%99%D7%9E%D7%9F%2D%D7%A1%D7%99%D7%95%D7%9D.html"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></a></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><a href="/test/%D7%A1%D7%A1%D7%98%D7%9E%D7%94%2D%D7%A1%D7%95%D7%9C%D7%95%2D%D7%91%D7%9C%D7%99%D7%95%D7%95%D7%99%2D%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a><br>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><br>
 			&nbsp;</div>
 	</div>
 </div>

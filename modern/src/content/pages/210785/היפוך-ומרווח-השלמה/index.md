@@ -15,7 +15,7 @@ isHome: false
 			<strong><span style="font-size: 14px">צופים יקרים!<br>
 			<br>
 			<br>
-			<a href="/test/image/users/210785/ftp/my_files/%D7%94%D7%99%D7%A4%D7%95%D7%9A%20%D7%95%D7%9E%D7%A8%D7%95%D7%95%D7%97%20%D7%94%D7%A9%D7%9C%D7%9E%D7%94.docx?id=9907362"><u><span style="color: #008080">היפוך</span> <span style="color: #008080">ומרווח השלמה</span> </u></a><br>
+			<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%94%D7%99%D7%A4%D7%95%D7%9A%20%D7%95%D7%9E%D7%A8%D7%95%D7%95%D7%97%20%D7%94%D7%A9%D7%9C%D7%9E%D7%94.docx?id=9907362"><u><span style="color: #008080">היפוך</span> <span style="color: #008080">ומרווח השלמה</span> </u></a><br>
 			<br>
 			<span style="color: #0000cd">היפוך </span>- <span style="color: #ff0000">ההיפוך במוזיקה נועד כדי לעבור ממצב של מרווח דיסוננסי למצב של מרווח קונסוננסי</span>.<br>
 			ההיפוך יכול להתבצע בשני מצבים: צליל ראשון במרווח הדיסוננסי עולה באוקטבה או שצליל שני במרווח הדיסוננסי יורד באוקטבה.<br>
@@ -28,7 +28,7 @@ isHome: false
 			<br>
 			המשך צפייה מהנה!</span></span></strong><br>
 			<br>
-			<span style="color: rgb(0, 0, 255);">&nbsp;</span><span style="color:#0000cd;"><span style="font-size:14px;"><strong><a href="/test/210785/%D7%94%D7%A8%D7%90%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></a></strong></span></span><span style="font-size:14px;"><strong><a href="/test/210785/%D7%94%D7%A8%D7%90%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"></a></strong></span><span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><strong><span style="color:#0000cd;"><span style="font-size:14px;"><a href="/test/210785/%D7%94%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8">המשך בעמוד הבא &gt;&gt;&gt;</a></span></span></strong><span style="font-size:14px;"><a href="/test/210785/%D7%94%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8"></a></span><a href="/test/210785/%D7%94%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8"></a><br>
+			<span style="color: rgb(0, 0, 255);">&nbsp;</span><span style="font-size:14px;"><strong></strong></span><span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size:14px;"></span><br>
 			<br>
 			&nbsp;</div>
 	</div>

@@ -47,7 +47,7 @@ isHome: false
 <div style="text-align: justify;">&nbsp;</div>
 <div style="text-align: justify;"><span style="font-size: 14px;"><strong>&nbsp; </strong></span></div>
 <div style="text-align: justify;"><span style="font-size: 14px;"><strong>המשך צפייה מהנה!<span style="color: #0000cd;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong></span></div>
-<p style="text-align: justify;"><span style="color: #0000ff;">&nbsp;<span style="font-size: 14px;"><strong><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color: #add8e6;">&nbsp;</span><strong><span style="font-size: 14px;"><a href="https://levyhaim13-coder.github.io/test/210785/%D7%A6%D7%99%D7%A8%D7%95%D7%A4%D7%99%2D%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA"><span style="color: #0000ff;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong><br><span style="font-size: 14px;"><strong>&nbsp;</strong></span></p>
+
 <p style="text-align: justify;"><span style="font-size: 14px;"><strong>&nbsp;</strong></span></p>
 </div>
 </div>

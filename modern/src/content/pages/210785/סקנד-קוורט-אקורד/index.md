@@ -13,12 +13,12 @@ isHome: false
 	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px">
 		<div id="content_dr4r3_text_1297101228959">
 			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><a href="/test/210785/%D7%AA%D7%95%D7%99%D7%9D%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"></a>צופים יקרים!<br>
+				<span style="font-size: 14px"><strong>צופים יקרים!<br>
 				<br>
 				<span style="color:#b22222;">ספט אקורד- היפוך שלישי</span></strong></span><br>
 				<img alt="" border="0" height="87" src="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%A4%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93-%20%D7%94%D7%99%D7%A4%D7%95%D7%9A%20%D7%A9%D7%9C%D7%99%D7%A9%D7%99-1.png" width="240"></div>
 			<div style="text-align: justify;">
-				<strong style="font-size: 14px;">או בשמו הנוסף: <a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%A7%D7%A0%D7%93%20%D7%A7%D7%95%D7%95%D7%A8%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9903032"><u><span style="color: #008080">סקנד קוורט- ספט אקורד</span></u></a>&nbsp;- <span style="color: #ff0000">הינו היפוך שלישי&nbsp;של דומיננט ספט אקורד והוא נבנה על&nbsp;דרגה 4 של הסולם.</span></strong></div>
+				<strong style="font-size: 14px;">או בשמו הנוסף: <a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%A7%D7%A0%D7%93%20%D7%A7%D7%95%D7%95%D7%A8%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9903032"><u><span style="color: #008080">סקנד קוורט- ספט אקורד</span></u></a>&nbsp;- <span style="color: #ff0000">הינו היפוך שלישי&nbsp;של דומיננט ספט אקורד והוא נבנה על&nbsp;דרגה 4 של הסולם.</span></strong></div>
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong>סקנד אקורד דומיננטי מכיל שלושה מרווחים (מלמטה למעלה): סקונדה גדולה, טרצה&nbsp; גדולה ,טרצה קטנה.<br>
 				סוגי המרווחים בפתרון(מלמטה למעלה):טרצה קטנה, וקוורטה זכה.<br>
@@ -169,9 +169,7 @@ isHome: false
 				&nbsp;</div>
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong>המשך צפייה מהנה!</strong></span></div>
-			<div style="text-align: justify;">
-				<br>
-				<span style="color: rgb(0, 0, 255);">&nbsp;</span><span style="color:#0000cd;"><span style="font-size:14px;"><strong><a href="/test/210785/%D7%98%D7%A8%D7%A6%2D%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u>&nbsp;</a></strong></span></span><span style="font-size:14px;"><strong><a href="/test/210785/%D7%98%D7%A8%D7%A6%2D%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"></a></strong></span><span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><strong><span style="color:#0000cd;"><span style="font-size:14px;"><a href="/test/%D7%AA%D7%95%D7%9B%D7%A0%D7%94%2D%D7%9C%D7%97%D7%99%D7%A4%D7%95%D7%A9%2D%D7%9E%D7%91%D7%A0%D7%94%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D.html">המשך בעמוד הבא &gt;&gt;&gt;</a></span></span><span style="font-size:14px;"><a href="/test/%D7%AA%D7%95%D7%9B%D7%A0%D7%94%2D%D7%9C%D7%97%D7%99%D7%A4%D7%95%D7%A9%2D%D7%9E%D7%91%D7%A0%D7%94%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93%D7%99%D7%9D.html"></a></span></strong></div>
+
 			<div style="text-align: justify;">
 				&nbsp;</div>
 			<div style="text-align: justify;">

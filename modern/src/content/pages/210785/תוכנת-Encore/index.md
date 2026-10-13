@@ -23,12 +23,12 @@ isHome: false
 			<br>
 			תוכנה זו מאפשרת: כתיבה של תוים, שמיעה של קבצי<span dir="ltr">Midi </span>&nbsp;, עריכה של קבצי <span dir="ltr">Midi </span>&nbsp;לפי קולות. עריכה &nbsp;לפי כלים מוזיקליים שונים, ביצוע טרספוזיציות למינהם עריכה והדפסת התוים. כתיבת תוים וכן כתיבת עיבוד מוזיקלי למלודיות חדשות או קיימות. קבצי התוכנה מופיעים בסיומת <span dir="ltr">enc</span>.<br>
 			<br>
-			<span dir="rtl">להלן <a href="/test/image/users/210785/ftp/my_files/%D7%AA%D7%95%D7%9B%D7%A0%D7%94%20%D7%9C%D7%A0%D7%99%D7%94%D7%95%D7%9C%20%D7%AA%D7%95%D7%99%D7%9D%20Encore.docx?id=9883559"><u><span style="color: #008080">המדריך למשתמש </span></u></a>(מתורגם לשפה העברית).<br>
+			<span dir="rtl">להלן <a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%AA%D7%95%D7%9B%D7%A0%D7%94%20%D7%9C%D7%A0%D7%99%D7%94%D7%95%D7%9C%20%D7%AA%D7%95%D7%99%D7%9D%20Encore.docx?id=9883559"><u><span style="color: #008080">המדריך למשתמש </span></u></a>(מתורגם לשפה העברית).<br>
 			<br>
 			<br>
 			המשך צפייה מהנה!</span></strong></span><br>
 			<br>
-			<a href="/test/210785/%D7%A4%D7%99%D7%AA%D7%95%D7%97%2D%D7%A7%D7%95%D7%9C"><span style="color: rgb(0, 0, 255);"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/test/210785/%D7%A1%D7%95%D7%92%D7%99%2D%D7%9E%D7%A7%D7%94%D7%9C%D7%95%D7%AA"> &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%A1%D7%95%D7%92%D7%99%2D%D7%9E%D7%A7%D7%94%D7%9C%D7%95%D7%AA"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></div>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 	</div>
 </div>
 </div>

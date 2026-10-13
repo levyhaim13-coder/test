@@ -16,7 +16,7 @@ isHome: false
 			<br>
 			<br>
 			<strong>כאן רוכזו היצירות המפורסמות משל <span style="color: #0000cd">מלחינים מחו"ל </span><br>
-			כאן תוכלו&nbsp;&nbsp;למצא <a href="/test/image/users/210785/ftp/my_files/Midi/%D7%A7%D7%91%D7%A6%D7%99%20%D7%9E%D7%99%D7%93%D7%99%20%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D%20%D7%9C%D7%90%D7%AA%D7%A8.rar?id=10123839"><span style="color: #0000cd"><u>קבצי Midi </u></span></a>לכל הקולות של היצירה, את התוים <a href="/test/image/users/210785/ftp/my_files/pdf-composer/PDF-%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%20%D7%9E%D7%A9%D7%9C%20%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%20%D7%9E%D7%97%D7%95%D7%9C.rar?id=10196219"><span style="color: #0000cd"><u>קבצי Pdf </u></span></a>של היצירה<br>
+			כאן תוכלו&nbsp;&nbsp;למצא <a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi/%D7%A7%D7%91%D7%A6%D7%99%20%D7%9E%D7%99%D7%93%D7%99%20%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D%20%D7%9C%D7%90%D7%AA%D7%A8.rar?id=10123839"><span style="color: #0000cd"><u>קבצי Midi </u></span></a>לכל הקולות של היצירה, את התוים <a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/pdf-composer/PDF-%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%20%D7%9E%D7%A9%D7%9C%20%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%20%D7%9E%D7%97%D7%95%D7%9C.rar?id=10196219"><span style="color: #0000cd"><u>קבצי Pdf </u></span></a>של היצירה<br>
 			צפייה ביצירה באמצעות אתר ה<span style="color:#0000ff;">-<u>Youtube</u></span>&nbsp;,וכן מספר מילים אודות היצירה.<br>
 			<br>
 			ניתן למצא קבצי Midi ליצירות&nbsp;משל מלחינים&nbsp;מחו"ל&nbsp;באתר&nbsp; </strong><a href="http://www.dycom-il.com/"><strong>http://www.dycom-il.com</strong></a><strong>&nbsp;</strong><br>
@@ -81,7 +81,7 @@ isHome: false
 					</tr>
 					<tr>
 						<td style="text-align: center">
-							<strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Magnificat-Andriessen.mp3?id=10203110"></a></span></strong></td>
+							<strong><span style="font-size:12px;"></span></strong></td>
 					</tr>
 					<tr>
 						<td style="text-align: left; width: 95px">
@@ -113,7 +113,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;">Bach</span></strong></span></td>
 						<td style="text-align: left">
-							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.cyberbass.com/">Magnificat</a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.cyberbass.com/"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.cyberbass.com/">Magnificat</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td>
 							&nbsp;</td>
 						<td>
@@ -157,9 +157,9 @@ isHome: false
 						<td style="text-align: left">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;">Beethoven</span></strong></span></td>
 						<td style="text-align: left">
-							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/beethoven-page.htm"><u>Misa in c major</u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/beethoven-page.htm"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/beethoven-page.htm"><u>Misa in c major</u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: left">
-							<strong><span style="font-size:12px;"><u><a href="http://www.dycom-il.com/beethoven-page.htm"></a></u></span></strong></td>
+							<strong><span style="font-size:12px;"><u></u></span></strong></td>
 						<td style="width: 57px">
 							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></td>
 						<td style="width: 57px">
@@ -205,7 +205,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Bernstein</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/bernstein-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Chisister psalm</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/bernstein-page.html"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/bernstein-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Chisister psalm</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -255,7 +255,7 @@ isHome: false
 						<td style="width: 47px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Carmen-Midi-tenor1.rar?id=10026603">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Carmen-Midi-tenor1.rar?id=10026603"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Carmen-Midi-tenor1.rar?id=10026603">_</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 47px">
 							&nbsp;</td>
 						<td style="width: 38px">
@@ -263,7 +263,7 @@ isHome: false
 						<td style="width: 66px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Carmrn-%D7%AA%D7%A8%D7%92%D7%95%D7%9D.rar?id=10129305">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Carmrn-%D7%AA%D7%A8%D7%92%D7%95%D7%9D.rar?id=10129305"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Carmrn-%D7%AA%D7%A8%D7%92%D7%95%D7%9D-1.rar?id=10129305">_</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							&nbsp;</td>
 					</tr>
@@ -293,7 +293,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Brahms</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/brahms-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Schicksalslied</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/brahms-page.html"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/brahms-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Schicksalslied</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -425,7 +425,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Bruckner</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/bruckner-page.htm"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Locus iste</span></span></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/bruckner-page.htm"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/bruckner-page.htm"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Locus iste</span></span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/007-BRUCKNER-LOCUS%20ISTE-sopran.mid?id=9950442"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
@@ -449,21 +449,21 @@ isHome: false
 						<td style="text-align: left; width: 113px">
 							<span style="color:#b22222;"><strong><span style="font-size:12px;">pange lingua</span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-sopran.mid?id=9965143">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-sopran.mid?id=9965143"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-sopran.mid?id=9965143">_</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-alt.mid?id=9965141"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-tenor.mid?id=9965144"></a><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-tenor.mid?id=9965144">_</a></span></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-tenor.mid?id=9965144"></a></span></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-tenor.mid?id=9965144">_</a></span></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span style="font-family: arial, helvetica, sans-serif; "></span></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-bas.mid?id=9965142">_</a></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-bas.mid?id=9965142"></a></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-PANGE%20LINGUA-BRUCKNER-bas.mid?id=9965142">_</a></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-Pange%20lingua-bruckner.pdf?id=9965145">_</a></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-Pange%20lingua-bruckner.pdf?id=9965145"></a></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/006-Pange%20lingua-bruckner.pdf?id=9965145">_</a></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="text-align: center; width: 66px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Pange%20lingua3.docx?id=9965178"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Pange%20lingua3.docx?id=9965178"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Pange%20lingua3.docx?id=9965178"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 57px">
-							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/pange%20lingua1.docx?id=9965154"></a></span></span></strong></td>
+							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="width: 57px">
 							&nbsp;</td>
 						<td style="width: 57px">
@@ -631,7 +631,7 @@ isHome: false
 						<td style="text-align: center; width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/005-UBI%20CARITAS-DURUFLE-sopran.mid?id=9963033"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/005-UBI%20CARITAS-DURUFLE-alt.mid?id=9963034"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/005-UBI%20CARITAS-DURUFLE-alt.mid?id=9963034"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/005-UBI%20CARITAS-DURUFLE-alt.mid?id=9963034"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/005-UBI%20CARITAS-DURUFLE-tenor.mid?id=9963035"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
@@ -641,9 +641,9 @@ isHome: false
 						<td style="text-align: center; width: 66px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.youtube.com/watch?v=jqnwtkdZqfg"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%20Ubi%20caritas%20%20%D7%9E%D7%9C%D7%98%D7%99%D7%A0%D7%99%D7%AA%20%D7%9C%D7%A2%D7%91%D7%A8%D7%99%D7%AA-1.docx?id=10218910"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%20Ubi%20caritas%20%20%D7%9E%D7%9C%D7%98%D7%99%D7%A0%D7%99%D7%AA%20%D7%9C%D7%A2%D7%91%D7%A8%D7%99%D7%AA-1.docx?id=10218910"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%20Ubi%20caritas%20%20%D7%9E%D7%9C%D7%98%D7%99%D7%A0%D7%99%D7%AA%20%D7%9C%D7%A2%D7%91%D7%A8%D7%99%D7%AA-1.docx?id=10218910"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 57px">
-							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="/test/image/users/210785/ftp/my_files/Ubi%20caritas.doc?id=10218900"></a></span></span></strong></td>
+							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="width: 57px">
 							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></td>
 						<td style="width: 57px">
@@ -895,7 +895,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Faure</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/faure-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Requiem</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/faure-page.html"></a><a href="http://www.cyberbass.com/"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/faure-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Requiem</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -939,7 +939,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Handel</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/handel-page.htm"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Messiah</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/handel-page.htm"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/handel-page.htm"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Messiah</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#b22222;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -1203,7 +1203,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Monteverdi</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><span style="color:#b22222;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.dycom-il.com/monteverdi-page.html"><span lang="en-us">Lamento&nbsp;</span></a></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.dycom-il.com/monteverdi-page.html"></a></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><span style="color:#b22222;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.dycom-il.com/monteverdi-page.html"><span lang="en-us">Lamento&nbsp;</span></a></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -1247,7 +1247,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Mendelssohn</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/mendelssohn-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">elijah</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/mendelssohn-page.html"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/mendelssohn-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">elijah</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -1269,7 +1269,7 @@ isHome: false
 						<td style="width: 95px">
 							&nbsp;</td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/mendelssohn-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Atalia</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/mendelssohn-page.html"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/mendelssohn-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Atalia</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -1381,19 +1381,19 @@ isHome: false
 						<td style="text-align: left; width: 113px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;&nbsp;Kv65</span></span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="/test/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-sopran.rar?id=10101796"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-sopran.rar?id=10101796"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-alt.rar?id=10101797"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-alt.rar?id=10101797"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-alt.rar?id=10101797"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Midi/Mozart-misa%20brevis%20kv65.rar?id=10243203"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Midi/Mozart-misa%20brevis%20kv65.rar?id=10243203"></a><a href="/test/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-tenor.rar?id=10101798"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi/Mozart-misa%20brevis%20kv65.rar?id=10243203"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/mozart-misa%20brevis%20kv65.rar?id=9974772"></a></span></span></strong></td>
+							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
 							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="/test/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-bas.rar?id=10101799"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
+							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/mozart/misa%20brevis-mozart-Midi-bas.rar?id=10101799"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">_</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="/test/image/users/210785/ftp/my_files/mozart-misa%20brevis%20kv65.rar?id=9974772"></a><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Missa%20brevis%20%E2%84%96%202%20in%20d%20minor_%20K%2065%20(61a)%20Score.pdf?id=9978226"></a></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">_</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="text-align: center; width: 66px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.youtube.com/watch?v=FN1UBwZ51zw"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="width: 57px">
@@ -1407,21 +1407,21 @@ isHome: false
 						<td style="text-align: left; width: 113px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><u>kv626</u></span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/mozart/mozart-kv626-sopran.rar?id=10100667"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/mozart/mozart-kv626-sopran.rar?id=10100667"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/mozart/mozart-kv626-sopran.rar?id=10100667"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="/test/image/users/210785/ftp/my_files/mozart/mozart-kv626-alt.rar?id=10100665"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/mozart/mozart-kv626-alt.rar?id=10100665"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Midi-2.rar?id=27666213"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/mozart/mozart-kv626-tenor.rar?id=10100668"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi-2.rar?id=27666213"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/mozart-kv626.rar?id=9949208"></a></span></span></strong></td>
+							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
 							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="/test/image/users/210785/ftp/my_files/mozart/mozart-kv626-bas.rar?id=10100666"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
+							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/mozart/mozart-kv626-bas.rar?id=10100666"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 38px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: center; width: 66px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;<u>_</u></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><u><a href="http://www.youtube.com/watch?v=vQ45Y4Sy6vI"></a></u></span></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;<u>_</u></span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><u></u></span></span></strong></td>
 						<td style="text-align: center; width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/%D7%AA%D7%A8%D7%92%D7%95%D7%9D%20%D7%94%D7%A8%D7%A7%D7%95%D7%99%D7%90%D7%9D-2.docx?id=9871323"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="width: 57px">
@@ -1477,15 +1477,15 @@ isHome: false
 						<td style="text-align: left; width: 113px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;">Kv341</span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart/mozart-k341-sop.mid?id=11016412">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart/mozart-k341-sop.mid?id=11016412"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart/mozart-k341-sop.mid?id=11016412">_</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart-k341-alt.mid?id=11016419">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart-k341-alt.mid?id=11016419"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart-k341-alt.mid?id=11016419">_</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/Midi/mozart-k341-ten.mid?id=11016530">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/Midi/mozart-k341-ten.mid?id=11016530"></a><br>
-							<a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart-k341-alt.mid?id=11016419"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/Midi/mozart-k341-ten.mid?id=11016530">_</a></span></strong></span><strong><span style="font-size:12px;"><br>
+							</span></strong></td>
 						<td style="text-align: center; width: 47px">
 							<br>
-							<strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart-k341-bas.mid?id=11016546"><span style="color:#0000ff;">_</span></a><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart-k341-alt.mid?id=11016419"></a></span></strong></td>
+							<strong><span style="font-size:12px;"><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/mozart-k341-bas.mid?id=11016546"><span style="color:#0000ff;">_</span></a></span></strong></td>
 						<td style="text-align: center; width: 38px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 66px">
@@ -1587,7 +1587,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Poulenc</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000cd;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/poulenc-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Salve regina</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/poulenc-page.html"></a></span></strong></td>
+							<span style="color:#0000cd;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/poulenc-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Salve regina</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/004-SALVE%20REGINA-POULENC-sopran.mid?id=9960980"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
@@ -1615,7 +1615,7 @@ isHome: false
 						<td style="text-align: center; width: 47px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/poulenc-gloria-1.rar?id=10171300">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/poulenc-gloria-1.rar?id=10171300"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/poulenc-gloria-1.rar?id=10171300">_</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 38px">
@@ -1631,7 +1631,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">puccini</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;">Turandot</span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/purcell-page.html"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;">Turandot</span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -1785,7 +1785,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Ramirez</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/ramirez-page.html">Misa criolla</a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/ramirez-page.html"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/ramirez-page.html">Misa criolla</a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -1795,11 +1795,11 @@ isHome: false
 						<td style="width: 47px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/PDF-Ramirez-misa%20criolla.rar?id=10087244"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/PDF-Ramirez-misa%20criolla.rar?id=10087244"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 66px">
 							&nbsp;</td>
 						<td style="width: 66px">
-							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.dycom-il.com/ramirez-page.html"></a></span></span></strong></td>
+							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "></span></span></strong></td>
 						<td style="width: 57px">
 							<strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></td>
 						<td style="width: 57px">
@@ -1879,7 +1879,7 @@ isHome: false
 						<td style="text-align: left; width: 113px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">barechu</span></span></span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/016-ROSSI-BARECHU-sopran.mid?id=9962961"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/016-ROSSI-BARECHU-sopran.mid?id=9962961"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/016-ROSSI-BARECHU-sopran.mid?id=9962961"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 47px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/016-ROSSI-BARECHU-alt.mid?id=9962959"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
@@ -1891,7 +1891,7 @@ isHome: false
 						<td style="text-align: center; width: 66px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.youtube.com/watch?v=Sk3NMD6t--I"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Barechu.docx?id=9963018"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Barechu.docx?id=9963018"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Barechu.docx?id=9963018"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 					</tr>
@@ -2053,7 +2053,7 @@ isHome: false
 						<td style="width: 95px">
 							&nbsp;</td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/rutter-page.htm"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Magnificat</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/rutter-page.htm"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/rutter-page.htm"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Magnificat</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/Magnificat-rutter-sopran%201.rar?id=9950647"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
@@ -2097,7 +2097,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Schubert</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/schubert-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Mass in G</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/schubert-page.html"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/schubert-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Mass in G</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="width: 47px">
@@ -2327,7 +2327,7 @@ isHome: false
 						<td style="text-align: left; width: 47px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Verdi%20-%20Nabuco%20-%20Va%20Pensiero.pdf?id=10087214">_</a></span></strong></span><strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Verdi%20-%20Nabuco%20-%20Va%20Pensiero.pdf?id=10087214"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;">_</span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: left; width: 66px">
 							&nbsp;</td>
 						<td style="text-align: left; width: 57px">
@@ -2339,7 +2339,7 @@ isHome: false
 						<td style="text-align: left; width: 95px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Vivaldi</span></span></span></strong></span></td>
 						<td style="text-align: left; width: 113px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/vivaldi-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Gloria</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/vivaldi-page.html"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.dycom-il.com/vivaldi-page.html"><u><span style="font-family: arial, helvetica, sans-serif; "><span dir="ltr">Gloria</span></span></u></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: left; width: 57px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: left; width: 47px">
@@ -2437,7 +2437,7 @@ isHome: false
 						<td style="text-align: center; width: 47px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/009-bring%20him%20home.pdf?id=9965959"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/009-bring%20him%20home.pdf?id=9965959"></a></span></strong></td>
+							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/009-bring%20him%20home.pdf?id=9965959"><span style="font-family: arial, helvetica, sans-serif; ">_</span></a></span></strong></span><strong><span style="font-size:12px;"></span></strong></td>
 						<td style="text-align: center; width: 66px">
 							<span style="color:#0000ff;"><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; ">&nbsp;</span></span></strong></span><strong><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif; "><a href="http://www.youtube.com/watch?v=qsYnhVITf9E"><span style="color:#0000ff;">_</span></a></span></span></strong></td>
 						<td style="text-align: left; width: 57px">
@@ -2481,13 +2481,13 @@ isHome: false
 						<td style="text-align: center; width: 47px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 38px">
-							<strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Eric%20Whitacre%20-%20Water%20Night.pdf?id=10171295">_</a></span></strong></td>
+							<strong><span style="font-size:12px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Eric%20Whitacre%20-%20Water%20Night.pdf?id=10171295">_</a></span></strong></td>
 						<td style="text-align: center; width: 66px">
 							&nbsp;</td>
 						<td style="text-align: left; width: 57px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 57px">
-							<strong><span style="font-size:12px;"><a href="/test/image/users/210785/ftp/my_files/Eric%20Whitacre%20-%20Water%20Night.mp3?id=10171280">_</a></span></strong></td>
+							<strong><span style="font-size:12px;">_</span></strong></td>
 					</tr>
 				</tbody>
 			</table>
@@ -2496,7 +2496,7 @@ isHome: false
 				<strong>המשך צפיה מהנה!</strong><br>
 				<br>
 				<br>
-				<span style="color: rgb(0, 0, 255);"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/test/210785/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D"><span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a><br>
+				&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
 				&nbsp;</div>
 		</div>
 	</div>

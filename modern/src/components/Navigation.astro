@@ -1,14 +1,8 @@
 ---
-import menu from '../../../menu.json';
+import { getCollection } from 'astro:content';
+import { navigationMenu } from '../lib/navigation-menu';
 
-interface MenuItem {
-	id: string;
-	title: string;
-	url: string;
-	children: MenuItem[];
-}
-
-const items = menu as MenuItem[];
+const { items } = navigationMenu(await getCollection('pages'));
 
 const normalizeUrl = (value: string) => {
 	if (!value || value === '.') return '/test/';

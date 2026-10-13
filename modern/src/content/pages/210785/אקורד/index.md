@@ -17,7 +17,7 @@ isHome: false
 				<br>
 				<br>
 				<div>
-					<strong style="font-size: 14px;"><span face=""><a href="/test/image/users/210785/ftp/my_files/%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9871222"><u><span style="color: #008080">אקורד</span></u></a>&nbsp;-&nbsp;</span><span dir="ltr">accord</span>&nbsp;&nbsp;<span style="color: #ff0000">שלושה צלילים או יותר המנוגנים בעת ובעונה אחת<strong>.&nbsp;</strong></span></strong><strong style="font-size: 14px;"><span face="">(</span><span dir="ltr">ac</span> – פירושו ביוונית: "יחד" , <span dir="ltr">cord</span> – פירושו ביוונית "מיתר"). <span style="color:#0000ff;">במקרה זה שלושה מיתרים המנוגנים יחד. או בזה אחר זה.</span>&nbsp;</strong><strong style="font-size: 14px;">השימוש באקורדים הוא בסיס ההרמוניה, אשר&nbsp;משמשת לרוב כליווי בכלי מוזיקלי ואף בכתיבה למספר קולות.&nbsp;&nbsp;</strong><br>
+					<strong style="font-size: 14px;"><span face=""><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9871222"><u><span style="color: #008080">אקורד</span></u></a>&nbsp;-&nbsp;</span><span dir="ltr">accord</span>&nbsp;&nbsp;<span style="color: #ff0000">שלושה צלילים או יותר המנוגנים בעת ובעונה אחת<strong>.&nbsp;</strong></span></strong><strong style="font-size: 14px;"><span face="">(</span><span dir="ltr">ac</span> – פירושו ביוונית: "יחד" , <span dir="ltr">cord</span> – פירושו ביוונית "מיתר"). <span style="color:#0000ff;">במקרה זה שלושה מיתרים המנוגנים יחד. או בזה אחר זה.</span>&nbsp;</strong><strong style="font-size: 14px;">השימוש באקורדים הוא בסיס ההרמוניה, אשר&nbsp;משמשת לרוב כליווי בכלי מוזיקלי ואף בכתיבה למספר קולות.&nbsp;&nbsp;</strong><br>
 					<strong style="font-size: 14px;">&nbsp; &nbsp;</strong></div>
 				<span style="font-size:14px;"><strong><span face="">שמו של האקורד (צירוף של מספר צלילים יחד) נקרא על פי הצליל הראשון (התחתון) עליו בנוי האקורד המכונה צליל הבס.</span><br>
 				<span face="">לדוגמא : אקורד משולש דו מז'ור מסומן&nbsp; CM</span>&nbsp;3/5 (הספרה&nbsp;3 מסמלת את מרווח הטרצה שבין הצליל התחתון לצליל שמעליו והספרה&nbsp;5 מסמלת את מרווח הקוינטה שבין הצליל התחתון לבין הצליל השני&nbsp;שמעליו).<br>
@@ -538,7 +538,7 @@ isHome: false
 				<span style="font-size:14px;"><strong>&nbsp;<br>
 				<span face="">המשך צפייה מהנה!</span><br>
 				&nbsp;</strong><br>
-				<span style="color: rgb(0, 0, 255);">&nbsp;<a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%9B%D7%A4%D7%95%D7%9C%D7%94.html"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></a></span><a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%9B%D7%A4%D7%95%D7%9C%D7%94.html">&nbsp;</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><a href="/test/210785/%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a><strong>&nbsp;<br>
+				&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><strong>&nbsp;<br>
 				&nbsp;<br>
 				&nbsp;<br>
 				&nbsp;</strong></span></div>

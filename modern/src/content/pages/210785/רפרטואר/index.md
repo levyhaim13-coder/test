@@ -229,7 +229,7 @@ isHome: false
 </div>
 <div id="sortableLayoutDragDrop" class="sortableLayout">
 <div id="dr4r3_text_1297101228959" class="tool_text" style="padding: 2px;">
-<div id="content_dr4r3_text_1297101228959"><strong><span style="font-size: 14px;">המשך צפייה מהנה!<br>&nbsp;</span></strong><br><strong><span style="color: #0000ff;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://levyhaim13-coder.github.io/test/210785/%D7%A1%D7%95%D7%9C%D7%A4%D7%92"><span style="color: #add8e6;">&nbsp;</span></a></strong></div>
+<div id="content_dr4r3_text_1297101228959"><strong><span style="font-size: 14px;">המשך צפייה מהנה!<br>&nbsp;</span></strong><br><strong><span style="color: #0000ff;">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></div>
 </div>
 </div>
 <strong><span style="font-size: 14px;">&nbsp;</span></strong></div>
@@ -243,8 +243,3 @@ isHome: false
 </div>
 </div>
 </div>
-
-<nav aria-label="ניווט בין עמודים" dir="rtl" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 1.5rem;">
-  <a href="/test/210785/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%90%D7%A9%D7%A8%2D%D7%94%D7%A9%D7%A4%D7%99%D7%A2%D7%95%2D%D7%A2%D7%9C%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94">&lt;&lt;&lt; חזרה לדף קודם</a>
-  <a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%A4%D7%92">המשך בעמוד הבא &gt;&gt;&gt;</a>
-</nav>

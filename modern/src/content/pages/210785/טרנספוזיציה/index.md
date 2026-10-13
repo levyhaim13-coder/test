@@ -38,7 +38,7 @@ isHome: false
 <div style="text-align: justify;">&nbsp;</div>
 <div style="text-align: justify;">&nbsp;</div>
 <div style="text-align: justify;"><span style="font-size: 14px;"><strong>המשך צפייה מהנה!&nbsp;</strong></span><br>&nbsp;</div>
-<p style="text-align: justify;"><a href="https://levyhaim13-coder.github.io/test/210785/%D7%90%D7%95%D7%A4%D7%9F%2D%D7%94%D7%97%D7%99%D7%A9%D7%95%D7%91%2D%D7%A9%D7%9A%2D%D7%AA%D7%93%D7%A8%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><span style="color: #0000ff;">&nbsp;</span></a><span style="color: #0000cd;"><strong><span style="font-size: 14px;"><a href="https://levyhaim13-coder.github.io/test/%D7%92%D7%91%D7%94%D7%99%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D%2D1%2D1.html"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></a></span></strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color: #0000cd;"><strong><span style="font-size: 14px;">&nbsp;</span></strong></span><strong><span style="font-size: 14px;"><a href="https://levyhaim13-coder.github.io/test/210785/%D7%9E%D7%95%D7%93%D7%95%D7%9C%D7%A6%D7%99%D7%94"><span style="color: #0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong><span style="color: #0000cd;"><strong><span style="font-size: 14px;">&nbsp;</span></strong></span></p>
+
 <p style="text-align: justify;"><span style="font-size: 14px;"><strong>&nbsp;</strong></span></p>
 <p style="text-align: justify;"><span style="font-size: 14px;"><strong>&nbsp;</strong></span></p>
 </div>

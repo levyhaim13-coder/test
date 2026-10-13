@@ -46,6 +46,13 @@ jobs:
         working-directory: modern
         run: npm run build
 
+      - name: Install link check dependencies
+        run: npm ci
+
+      - name: Verify website navigation
+        working-directory: modern
+        run: npm run check:navigation
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 

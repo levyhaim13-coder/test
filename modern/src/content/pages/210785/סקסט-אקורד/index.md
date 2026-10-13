@@ -19,7 +19,7 @@ isHome: false
 					&nbsp;</div>
 			</div>
 			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%A7%D7%A1%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9871226"><span style="color: #008080"><u><span face="">סקסט אקורד</span> </u></span></a>- <span style="color: #ff0000">הנו היפוך ראשון של אקורד משולש והוא מכיל 3 צלילים : טרצה, קוינטה, טוניקה.</span><br>
+				<span style="font-size: 14px"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%A7%D7%A1%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9871226"><span style="color: #008080"><u><span face="">סקסט אקורד</span> </u></span></a>- <span style="color: #ff0000">הנו היפוך ראשון של אקורד משולש והוא מכיל 3 צלילים : טרצה, קוינטה, טוניקה.</span><br>
 				&nbsp;<br>
 				<span face=""><span style="color:#0000ff;">סקסט אקורד</span><br>
 				המונח סקסט אקורד נובע מהמרווח של סקסטה אשר נוצר לאחר ההיפוך בין צליל הטרצה לצליל הטוניקה. היפוך זה ניתן לבצע בארבע סוגי האקורדים: מז'ור /מינור/ מוקטן/ מוגדל.. היפוכים אלו נועדו כדי להעשיר את&nbsp; ההרמוניה. </span><br>
@@ -259,7 +259,7 @@ isHome: false
 				<br>
 				<span face="">המשך צפייה מהנה!&nbsp;</span><br>
 				&nbsp;</strong></span><br>
-				<span style="color: rgb(0, 0, 255);">&nbsp;</span><strong><span style="color:#0000cd;"><span style="font-size:14px;"><a href="/test/210785/%D7%90%D7%A7%D7%95%D7%A8%D7%93"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u>&nbsp;</a></span></span><span style="font-size:14px;"><a href="/test/210785/%D7%90%D7%A7%D7%95%D7%A8%D7%93"></a></span><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span></strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size:14px;"><a href="/test/210785/%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span><span style="font-size: 14px"><strong>&nbsp;<br>
+				<span style="color: rgb(0, 0, 255);">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size: 14px"><strong>&nbsp;<br>
 				&nbsp;<br>
 				&nbsp;<br>
 				<br>
