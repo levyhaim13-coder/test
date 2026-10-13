@@ -15,7 +15,7 @@ isHome: false
 			<span style="font-size: 14px"><strong><span face="">צופים יקרים!</span></strong></span><br>
 			&nbsp;</div>
 		<div id="content_dr4r3_text_1297101228959" style="text-align: justify;">
-			<span style="font-size: 14px"><strong><a href="/test/image/users/210785/ftp/my_files/%D7%A7%D7%95%D7%95%D7%A8%D7%98%20%D7%A1%D7%A7%D7%A1%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9871293"><span style="color: #008080"><span face="">קוורט סקסט אקורד</span></span></a> - <span style="color: #ff0000">הנו היפוך שני של אקורד בסיסי. אקורד זה מכיל 3 צלילים : קוינטה,טון יסודי,וטרצה.</span></strong></span><br>
+			<span style="font-size: 14px"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A7%D7%95%D7%95%D7%A8%D7%98%20%D7%A1%D7%A7%D7%A1%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9871293"><span style="color: #008080"><span face="">קוורט סקסט אקורד</span></span></a> - <span style="color: #ff0000">הנו היפוך שני של אקורד בסיסי. אקורד זה מכיל 3 צלילים : קוינטה,טון יסודי,וטרצה.</span></strong></span><br>
 			<br>
 			<span style="font-size: 14px"><strong><span face=""><span style="color:#0000ff;">שם האקורד</span><br>
 			שם זה נובע משני המרווחים של סקסטה ושל קוורטה אשר נוצרים לאחר ההיפוך . היפוך זה ניתן לבצע בארבע סוגי האקורדים: מז'ור/מינור/מוקטן/מוגדל.. היפוך זה נועד כדי להעשיר את ההרמוניה. </span><br>
@@ -37,7 +37,7 @@ isHome: false
 			&nbsp;&nbsp;<br>
 			<span face="">&nbsp;המשך צפייה מהנה!</span><br>
 			&nbsp;</strong></span><br>
-			<span style="color: rgb(0, 0, 255);">&nbsp;</span><strong><span style="color:#0000cd;"><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></a></span></span><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"></a></span><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp; </span></span></strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><span style="color:#0000cd;">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%A1%D7%A4%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span><br>
+			<span style="color: rgb(0, 0, 255);">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><br>
 			<span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span><br>
 			&nbsp;</div>
 	</div>

@@ -16,7 +16,7 @@ isHome: false
 				<span style="font-size: 14px"><strong><span face="">צופים יקרים</span><br>
 				&nbsp;<br>
 				<span face="">&nbsp;</span><br>
-				<a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA%20%D7%9E%D7%A7%D7%91%D7%99%D7%9C%D7%99%D7%9D.docx?id=9871103"><span style="color: #008080"><span face=""><strong><u>סולמות מקבילים </u></strong></span></span></a>- <span style="color:#ff0000;">הם סולמות&nbsp;במז'ור או&nbsp;במינור שיש בהם מספר שווה של דיאזים או במולים ליד המפתח.</span><br>
+				<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA%20%D7%9E%D7%A7%D7%91%D7%99%D7%9C%D7%99%D7%9D.docx?id=9871103"><span style="color: #008080"><span face=""><strong><u>סולמות מקבילים </u></strong></span></span></a>- <span style="color:#ff0000;">הם סולמות&nbsp;במז'ור או&nbsp;במינור שיש בהם מספר שווה של דיאזים או במולים ליד המפתח.</span><br>
 				<br>
 				<span face="">ניתן לומר כי לכל סולם מז'ורי יש סולם מינורי שמקביל לו ואשר נמצא טרצה קטנה מתחתיו.&nbsp;לדוגמא-הסולם המקביל של <span style="color:#0000cd;">פה מינור הנו לה במול מז'ור</span> ( המרחק מהצליל </span><span face=""><span dir="ltr">F</span> לצליל </span><span dir="ltr">Ab</span> הנו מרחק של טרצה&nbsp; קטנה&nbsp; מתחתיו).<br>
 				או לחילופין-ניתן לומר כי לכל סולם מינורי יש סולם מז'ורי שמקביל לו ואשר נמצא טרצה קטנה&nbsp;מעליו.&nbsp;<br>
@@ -142,7 +142,7 @@ isHome: false
 				<span style="font-size: 14px"><strong>&nbsp;<br>
 				<span face="">המשך צפייה מהנה!</span><br>
 				&nbsp;<br>
-				<a href="/test/210785/%D7%9E%D7%A2%D7%92%D7%9C%2D%D7%94%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%98%D7%95%D7%AA">&nbsp;</a></strong></span><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%98%D7%95%D7%A0%D7%9C%D7%99%2D%D7%95%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%98%D7%95%D7%A0%D7%9C%D7%99"><span style="color: rgb(0, 0, 255);">&nbsp;</span><strong><span style="color:#0000cd;"><span style="font-size:14px;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u>&nbsp;</span></span></strong></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><strong><span style="font-size:14px;"><a href="/test/210785/%D7%9E%D7%A2%D7%92%D7%9C%2D%D7%94%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%98%D7%95%D7%AA"><span style="color:#0000cd;">&nbsp;&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%9E%D7%A2%D7%92%D7%9C%2D%D7%94%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%98%D7%95%D7%AA"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong></div>
+				</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span></div>
 		</div>
 	</div>
 </div>

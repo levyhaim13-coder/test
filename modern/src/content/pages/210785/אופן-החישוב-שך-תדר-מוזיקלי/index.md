@@ -13,12 +13,12 @@ isHome: false
 	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px">
 		<div id="content_dr4r3_text_1297101228959">
 			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><span face=""><a href="/test/image/users/210785/ftp/my_files/%D7%90%D7%95%D7%A4%D7%9F%20%D7%94%D7%97%D7%99%D7%A9%D7%95%D7%91%20%D7%A9%D7%9C%20%D7%AA%D7%A0%D7%95%D7%93%D7%95%D7%AA%20%D7%94%D7%A6%D7%9C%D7%99%D7%9C.docx?id=9903295"></a><a href="/test/%D7%92%D7%91%D7%94%D7%99%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D%2D1%2D1.html"></a>צופים יקרים!</span><br>
+				<span style="font-size: 14px"><strong><span face="">צופים יקרים!</span><br>
 				&nbsp;<br>
 				&nbsp;<br>
 				<span style="color: #696969"><span face="">בשיעורים הקודמים למדנו מהי מחמושת, מהו מפתח מוזיקלי, מהו צליל מוזיקלי, מהו סולם מוזיקלי מהם המושגים סוגי הסולמות, סימני הסולמות, ותבניות הסולם, למדנו על סולמות במז'ור, סולמות במינור, למדנו מהו סולם כרומטי, סולם פנטטוני, סולם טונלי ומיקרו טונלי, סולמות מקבילים, תדר מוזיקלי, טון מוזיקלי,&nbsp;וכעת נעבור ונלמד על אופן החישוב של תדר מוזיקלי. .&nbsp;&nbsp;</span></span><br>
 				&nbsp;<br>
-				<a href="/test/image/users/210785/ftp/my_files/%D7%90%D7%95%D7%A4%D7%9F%20%D7%94%D7%97%D7%99%D7%A9%D7%95%D7%91%20%D7%A9%D7%9C%20%D7%AA%D7%A0%D7%95%D7%93%D7%95%D7%AA%20%D7%94%D7%A6%D7%9C%D7%99%D7%9C-1.docx?id=9903302"><span style="color: #008080"><span face=""><strong><u>אופן החישוב של תדר מוזיקלי</u></strong></span></span></a>- <span style="color: #ff0000">שיטת חישוב חדשה אשר נקבעה באותה ועדה משנת 1939 ואשר משמשת את המוזיקה המערבית אירופאית כיום.&nbsp;<br>
+				<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%90%D7%95%D7%A4%D7%9F%20%D7%94%D7%97%D7%99%D7%A9%D7%95%D7%91%20%D7%A9%D7%9C%20%D7%AA%D7%A0%D7%95%D7%93%D7%95%D7%AA%20%D7%94%D7%A6%D7%9C%D7%99%D7%9C-1.docx?id=9903302"><span style="color: #008080"><span face=""><strong><u>אופן החישוב של תדר מוזיקלי</u></strong></span></span></a>- <span style="color: #ff0000">שיטת חישוב חדשה אשר נקבעה באותה ועדה משנת 1939 ואשר משמשת את המוזיקה המערבית אירופאית כיום.&nbsp;<br>
 				&nbsp;&nbsp;</span><br>
 				היות ונקבע באותה ועדה בינלאומית משנת 1939&nbsp;<span face="">כי התדר לצליל </span>לה באוקטבה הראשונה הנו של 440 הרץ. ניתן לקבוע מבחינה מתמטית כי הצליל לה באוקטבה השנייה הנו של&nbsp; 880 הרץ ואילו הצליל לה של האוקטבה הקטנה הנו של 220 הרץ וכן הלאה. והיות ובכל אוקטבה ישנם 12 צלילים שהמרווח בינהם הנו של חצי טון כל אחד, ניתן לבנות נוסחה פשוטה אשר אומרת כי התדר בין כל מרווח של טון יחושב לפי שורש 2 של 6 ואילו התדר שבין כל מרווח של חצי טון יחושב לפי שורש 2 של 12.<br>
 				&nbsp;<br>
@@ -702,7 +702,7 @@ isHome: false
 				<br>
 				<span style="font-size: 14px"><strong><span face="">המשך צפייה מהנה..&nbsp;</span><br>
 				&nbsp;</strong></span><br>
-				<span style="color: rgb(0,0,255)">&nbsp;<a href="/test/210785/%D7%AA%D7%93%D7%A8%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"></a></span><span style="font-size:14px;"><a href="/test/210785/%D7%98%D7%95%D7%9F%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><span style="color:#0000ff;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></a><a href="/test/210785/%D7%AA%D7%93%D7%A8%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><span style="color:#0000ff;">&nbsp;</span></a><a href="/test/210785/%D7%98%D7%95%D7%9F%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><span style="color:#0000ff;"> </span></a><span style="color:#0000ff;">&nbsp;</span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:14px;"><a href="/test/%D7%92%D7%91%D7%94%D7%99%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D%2D1%2D1.html"><span style="color:#0000ff;">&nbsp;</span></a><a href="/test/210785/%D7%9E%D7%95%D7%93%D7%95%D7%9C%D7%A6%D7%99%D7%94"></a><a href="/test/%D7%92%D7%91%D7%94%D7%99%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D%2D1%2D1.html"><span style="color:#0000ff;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></div>
+				<span style="color: rgb(0,0,255)">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 		</div>
 	</div>
 </div>

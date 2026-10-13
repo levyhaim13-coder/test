@@ -11,13 +11,13 @@ isHome: false
 <div id="longMessageMEM">
 <div class="sortableLayout" id="sortableLayoutDragDrop" valign="top">
 	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding: 2px; text-align: justify;">
-		<strong><span style="font-size: 14px"><a href="/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%A4%D7%94"></a><a href="/test/210785/%D7%9E%D7%A9%D7%A7%D7%9C"></a>צופים יקרים!<br>
+		<strong><span style="font-size: 14px">צופים יקרים!<br>
 		<br>
 		&nbsp;&nbsp;&nbsp;</span></strong></div>
 	<div class="tool_text" style="padding: 2px; text-align: justify;">
 		<strong><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color:#696969;">לאחר שבפגישה הקודמת למדנו על המושגים מחמושת, מפתח מוזיקלי, מפתח סול, ומפתח פה, נמשיך ונלמד&nbsp;על המושג- &nbsp;מפתח דו.</span></span></span></strong></div>
 	<div class="tool_text" style="padding: 2px; text-align: justify;">
-		<strong><span style="font-size: 14px"><span style="color:#0000cd;">מ</span><a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%93%D7%95.doc?id=9844398"><span style="color:#0000cd;">פתח דו </span></a>–&nbsp;</span></strong><span id="docs-internal-guid-ba5a9eb8-7fff-fdf7-b8e9-731a83fe96dc"><img height="71px;" src="https://lh3.googleusercontent.com/PqP-ubWiU3cSwJ5Pojs4u4yTK9hJg0rxkY99p8rqrksfWOhGyzBIe1_n5LnN8JEGGQTest0lHnqpSHqY0NDRHLilyErtQahwIlQGLsxo5ihBWxHzYKEeNh1X52pKZyHiPJhpWNJM7-ad0Ak1TTd8" width="72px;"></span><br>
+		<strong><span style="font-size: 14px"><span style="color:#0000cd;">מ</span><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%93%D7%95.doc?id=9844398"><span style="color:#0000cd;">פתח דו </span></a>–&nbsp;</span></strong><span id="docs-internal-guid-ba5a9eb8-7fff-fdf7-b8e9-731a83fe96dc"><img height="71px;" src="https://lh3.googleusercontent.com/PqP-ubWiU3cSwJ5Pojs4u4yTK9hJg0rxkY99p8rqrksfWOhGyzBIe1_n5LnN8JEGGQTest0lHnqpSHqY0NDRHLilyErtQahwIlQGLsxo5ihBWxHzYKEeNh1X52pKZyHiPJhpWNJM7-ad0Ak1TTd8" width="72px;"></span><br>
 		<strong><span style="font-size: 14px"><span style="color: #ff0000">הוא סימן גראפי בינלאומי אשר מסומן בתחילת המחמושת ואשר מגדיר למעשה את הצליל דו באוקטבה&nbsp;הראשונה.</span>&nbsp;</span></strong></div>
 	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding: 2px; text-align: justify;">
 		<br>
@@ -52,7 +52,7 @@ isHome: false
 		<br>
 		<strong><span style="font-size: 14px">המשך צפייה מהנה!</span></strong><br>
 		<br>
-		<span style="color:#0000ff;"><strong><span style="font-size:12px;">&nbsp;</span></strong></span><span style="font-size:14px;"><strong><a href="/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%A4%D7%94"><span style="color:#0000ff;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u>&nbsp;</span></a></strong></span><span style="color:#0000ff;"><strong><span style="font-size:12px;"> &nbsp; </span></strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:14px;"><strong>&nbsp;<a href="/test/210785/%D7%9E%D7%A9%D7%A7%D7%9C">&nbsp;</a><a href="/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94">&nbsp;</a><a href="/test/210785/%D7%9E%D7%A9%D7%A7%D7%9C"></a><a href="/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"></a><a href="/test/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%94%D7%9E%D7%A4%D7%AA%D7%97%D7%95%D7%AA.html"></a><a href="/test/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%9C%D7%94%D7%A7%D7%A9%D7%94.html"><span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"></a><a href="/test/210785/%D7%9E%D7%A9%D7%A7%D7%9C"></a><a href="/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"></a><a href="/test/%D7%A6%D7%95%D7%A8%D7%AA%2D%D7%94%D7%9E%D7%A4%D7%AA%D7%97%D7%95%D7%AA.html"></a><a href="/test/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%9C%D7%94%D7%A7%D7%A9%D7%94.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></strong></span><a href="/test/210785/%D7%9E%D7%A9%D7%A7%D7%9C"></a><br>
+		<span style="color:#0000ff;"><strong><span style="font-size:12px;">&nbsp;</span></strong></span><span style="color:#0000ff;"><strong><span style="font-size:12px;"> &nbsp; </span></strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
 		&nbsp;</div>
 </div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">

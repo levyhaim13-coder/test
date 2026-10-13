@@ -23,7 +23,7 @@ isHome: false
 			<span face="">המתכונת העולה: טון, חצי טון, טון, טון-, טון,טון, חצי טון.</span><br>
 			<span face="">ובמתכונת יורדת: טון, טון, חצי טון, טון, טון, חצי טון, טון.</span><br>
 			<br>
-			<span face="">תבנית מינור מלודי:&nbsp;&nbsp; <span style="color: #ff0000">0.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 &nbsp; &nbsp; &nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp; 0.5&nbsp;&nbsp;&nbsp; 1</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%9C%D7%9D%20%D7%9E%D7%99%D7%A0%D7%95%D7%A8%20%D7%9E%D7%9C%D7%95%D7%93%D7%99-1.mid?id=9948286"><img border="0" height="22" src="/test/image/users/210785/ftp/my_files/%D7%A1%D7%9E%D7%9C%20%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94.jpg?id=9947241" width="21"></a></span><br>
+			<span face="">תבנית מינור מלודי:&nbsp;&nbsp; <span style="color: #ff0000">0.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 &nbsp; &nbsp; &nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp; 0.5&nbsp;&nbsp;&nbsp; 1</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%9C%D7%9D%20%D7%9E%D7%99%D7%A0%D7%95%D7%A8%20%D7%9E%D7%9C%D7%95%D7%93%D7%99-1.mid?id=9948286"><img border="0" height="22" src="/test/image/users/210785/ftp/my_files/%D7%A1%D7%9E%D7%9C%20%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94.jpg?id=9947241" width="21"></a></span><br>
 			&nbsp;</strong></span><br>
 			<strong style="font-size: 14px;">להלן התוים:</strong><br>
 			<br>
@@ -34,7 +34,7 @@ isHome: false
 			<br>
 			<br>
 			&nbsp;</span></strong></span><br>
-			<span style="color:#0000cd;">&nbsp;</span><strong><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%99%D7%A0%D7%95%D7%A8%2D%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99"><span style="color:#0000cd;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></a></span></strong><span style="color:#0000cd;"><strong><span style="font-size:14px;">&nbsp; &nbsp;</span></strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><strong><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9B%D7%A8%D7%95%D7%9E%D7%98%D7%99"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong></div>
+			<span style="color:#0000cd;">&nbsp;</span><span style="color:#0000cd;"><strong><span style="font-size:14px;">&nbsp; &nbsp;</span></strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div>
 	</div>
 </div>
 </div>

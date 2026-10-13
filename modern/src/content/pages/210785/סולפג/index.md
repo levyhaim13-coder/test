@@ -279,7 +279,7 @@ isHome: false
 <div align="justify">&nbsp;</div>
 <div align="justify">&nbsp;</div>
 <div align="justify"><strong><span style="font-size: 14px;">המשך צפייה מהנה!</span></strong></div>
-<p align="justify"><strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://levyhaim13-coder.github.io/test/210785/%D7%90%D7%A0%D7%A1%D7%9E%D7%91%D7%9C"><span style="color: #add8e6;">&nbsp;</span></a></strong></p>
+<p align="justify"><strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p>
 <p align="justify">&nbsp;</p>
 <p align="justify">&nbsp;</p>
 <p align="justify">&nbsp;</p>
@@ -287,8 +287,3 @@ isHome: false
 </div>
 </div>
 </div>
-
-<nav aria-label="ניווט בין עמודים" dir="rtl" style="display: flex; justify-content: space-between; gap: 1rem; margin-top: 1.5rem;">
-  <a href="/test/210785/%D7%A8%D7%A4%D7%A8%D7%98%D7%95%D7%90%D7%A8">&lt;&lt;&lt; חזרה לדף קודם</a>
-  <a href="/test/210785/%D7%90%D7%A0%D7%A1%D7%9E%D7%91%D7%9C">המשך בעמוד הבא &gt;&gt;&gt;</a>
-</nav>

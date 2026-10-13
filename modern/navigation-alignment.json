@@ -1,0 +1,3312 @@
+{
+  "source": "רשימת הנושאים באתר.docx",
+  "sourceDate": "2026-10-08",
+  "rules": "First section occurrence; merge repeated sections; one reading-sequence entry per route; subsection topics stay in existing articles.",
+  "topics": [
+    {
+      "section": "דברי הקדמה",
+      "topic": "דברי הקדמה",
+      "route": "",
+      "kind": "page"
+    },
+    {
+      "section": "דברי הקדמה",
+      "topic": "צור קשר",
+      "route": "צור-קשר",
+      "kind": "page"
+    },
+    {
+      "section": "צורת הלימוד",
+      "topic": "צורת הלימוד",
+      "route": "210785/צורת-הלימוד",
+      "kind": "page"
+    },
+    {
+      "section": "צורת הלימוד",
+      "topic": "תרגום האתר",
+      "route": "תרגום-האתר-מעברית-לכל-שפה-אחרת",
+      "kind": "page"
+    },
+    {
+      "section": "צורת הלימוד",
+      "topic": "לומדים מוזיקה",
+      "route": "210785/לומדים-מוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "צורת הלימוד",
+      "topic": "עולם המוזיקה",
+      "route": "210785/עולם-המוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "צורת הלימוד",
+      "topic": "מהי מוזיקה",
+      "route": "210785/מהי-מוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "צורת הלימוד",
+      "topic": "העוגה המוזיקלית",
+      "route": "210785/העוגה-המוזיקלית",
+      "kind": "page"
+    },
+    {
+      "section": "צורת הלימוד",
+      "topic": "אוזן שומעת",
+      "route": "210785/אוזן-שןמעת",
+      "kind": "page"
+    },
+    {
+      "section": "תיאוריה מוזיקלית",
+      "topic": "תיאוריה מוזיקלית",
+      "route": "210785/תיאורייה-מוזיקלית",
+      "kind": "page"
+    },
+    {
+      "section": "תיאוריה מוזיקלית",
+      "topic": "מהי תיאוריה מוזיקלית?",
+      "route": "210785/תיאורייה-מוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "מחמושת",
+      "topic": "מחמושת",
+      "route": "210785/המחמושת",
+      "kind": "page"
+    },
+    {
+      "section": "מחמושת",
+      "topic": "מחמושת -הגדרה",
+      "route": "210785/המחמושת",
+      "kind": "within article"
+    },
+    {
+      "section": "מחמושת",
+      "topic": "צורת  המחמושת",
+      "route": "צורת-המחמושת",
+      "kind": "page"
+    },
+    {
+      "section": "מחמושת",
+      "topic": "קווי עזר  במחמושת",
+      "route": "קוי-עזר-במחמושת",
+      "kind": "page"
+    },
+    {
+      "section": "מחמושת",
+      "topic": "גובה הקו  במחמושת",
+      "route": "גובה-הצליל-במחמושת",
+      "kind": "page"
+    },
+    {
+      "section": "מחמושת",
+      "topic": "מי המציא את  המחמושת",
+      "route": "מי-המציא-את-המחמושת",
+      "kind": "page"
+    },
+    {
+      "section": "מחמושת",
+      "topic": "זהה את שם הצליל  במחמושת",
+      "route": "זהה-את-שם-הצליל-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "מפתח מוזיקלי",
+      "route": "210785/מפתח-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "מפתח מוזיקלי-הגדרה",
+      "route": "210785/מפתח-מוזיקלי",
+      "kind": "within article"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "סוגי מפתחות",
+      "route": "סוגי-מפתחות",
+      "kind": "page"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "מפתח סול",
+      "route": "210785/מפתח-סול",
+      "kind": "page"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "מפתח פה",
+      "route": "210785/מפתח-פה",
+      "kind": "page"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "מפתח דו",
+      "route": "210785/מפתח-דו",
+      "kind": "page"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "מפתח הקשה",
+      "route": "מפתח-להקשה",
+      "kind": "page"
+    },
+    {
+      "section": "מפתח מוזיקלי",
+      "topic": "צורת המפתחות",
+      "route": "צורת-המפתחות",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "צלילי המוזיקה",
+      "route": "210785/צלילי-המוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "צלילי המוזיקה- הגדרה",
+      "route": "210785/צלילי-המוזיקה",
+      "kind": "within article"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "תכונות הצליל",
+      "route": "210785/תכונות-הצליל",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "תכונות הגובה",
+      "route": "תכונת-הגובה",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "תכונת העוצמה",
+      "route": "תכונת-העוצמה",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "תכונת המשך",
+      "route": "תכונת-המשך",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "תכונת הגוון",
+      "route": "תכונת-הגוון",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "שמות הצלילים",
+      "route": "210785/שמות-הצלילים",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "7 גבהי הצלילים",
+      "route": "גבהי-הצלילים",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "12 הצלילים",
+      "route": "210785/12-הצלילים",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "7 צלילי יסוד",
+      "route": "7-צליל-יסוד",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "5 סימני  היתק",
+      "route": "210785/סימני-היתק",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "שמות סימני  ההיתק",
+      "route": "שמות-סימני-ההיתק",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "סימני  היתק  -  דיאזים",
+      "route": "סימני-היתק-בסולם-דיאזים",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "סימני  היתק  -במולים",
+      "route": "סימני-היתק-בסולם-במולים",
+      "kind": "page"
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "מספור הצלילים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "צלילי המוזיקה",
+      "topic": "תנודות הצליל -אופן החישוב",
+      "route": "תנודות-הצליל",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל במוזיקה",
+      "route": "משקל-במוזיקה-1-1-1-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל מוזיקלי-הגדרה",
+      "route": "משקל-במוזיקה-1-1-1-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל זוגי",
+      "route": "משקל-במוזיקה-1",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל אי זוגי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל משולש",
+      "route": "משקל-משולש",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל מעורב",
+      "route": "משקל",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל זוגי-שינוי במכנה",
+      "route": "משקל-זוגי-שינוי-במכנה-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל משולש- שינוי במכנה",
+      "route": "משקל-משולש-שינוי-במכנה",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל מעורב- שינוי במכנה",
+      "route": "משקל-מעורב-שינוי-במכנה",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקל מתחלף",
+      "route": "משקל-מתחלף",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "משקלות בעלי אותו ערך מתמטי",
+      "route": "משקלות-בעלי-אותו-ערך-מתמטי",
+      "kind": "page"
+    },
+    {
+      "section": "משקל במוזיקה",
+      "topic": "טבלה  –  סוגי משקלות",
+      "route": "טבלה-סוגי-משקלות",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם במוזיקה",
+      "route": "210785/סולם-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם מוזיקלי -הגדרה",
+      "route": "210785/סולם-מוזיקלי",
+      "kind": "within article"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סוגי הסולמות",
+      "route": "210785/סוגי-סולמות",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות  במז'ור",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות במינור",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סימני הסולמות",
+      "route": "210785/סימני-הסולמות",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "תבנית הסולם",
+      "route": "210785/תבנית-הסולם",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סימני  היתק  בסולם",
+      "route": "210785/סימני-ההיתק-בסולם",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם מז'ור",
+      "route": "210785/סולם-מז-ור",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם מינור טבעי",
+      "route": "210785/סולם-מינור-טבעי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם מינור הרמוני",
+      "route": "210785/סולם-מינור-הרמוני",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם מינור מלודי",
+      "route": "210785/סולם-מינור-מלודי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם כרומטי",
+      "route": "210785/סולם-כרומטי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם  פנטטוני",
+      "route": "210785/סולם-פנטטוני",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם טונלי",
+      "route": "210785/סולם-טונלי-ומיקרוטונלי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם א-טונלי",
+      "route": "210785/סולם-טונלי-ומיקרוטונלי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם מקרו טונלי",
+      "route": "210785/סולם-טונלי-ומיקרוטונלי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות מקבילים",
+      "route": "210785/סולמות-מקבילים",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות מקבילים טבלה",
+      "route": "210785/סולמות-מקבילים",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות חופפים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות חופפים-טבלה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות מקבילים - דיאזים",
+      "route": "210785/סולמות-מקבילים",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולמות מקבילים -במולים",
+      "route": "210785/סולמות-מקבילים",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "דרגות הסולם",
+      "route": "210785/דרגות-הסולם",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "דרגות האקורד בסולם",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "מיקום דרגות הסולם",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "מנעד מוזיקלי",
+      "route": "210785/מנעד-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "החלפת סולמות",
+      "route": "החלפת-סולמות",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "צירופי סולמות",
+      "route": "210785/צירופי-סולמות",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "טרנספוזיציה - השאה",
+      "route": "210785/טרנספוזיציה",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם דיאטוני",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "ממציא הסולם הטונלי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם הטונים השלמים",
+      "route": "210785/סולם-מוזיקלי",
+      "kind": "within article"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם ג'אז",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם בלוז",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם  הרגא  ההודי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם  המקאם  הערבי",
+      "route": "סולמות-המקאם-הערבי",
+      "kind": "page"
+    },
+    {
+      "section": "סולם במוזיקה",
+      "topic": "סולם טעמי המקרא היהודי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוסים",
+      "route": "מודוסים-1",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "סולמות  המודוסים  -הגדרה",
+      "route": "מודוסים-1",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוס יוני",
+      "route": "מודוס-יוני",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוס דורי",
+      "route": "מודוס-דורי",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוס  פריגי",
+      "route": "מודוס-פריגי",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוס  איאולי",
+      "route": "מודוס-איאולי-1",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוס לידי",
+      "route": "מודוס-לידי",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוס  מיקסולידי",
+      "route": "מודוס-מיקסולידי",
+      "kind": "page"
+    },
+    {
+      "section": "מודוסים",
+      "topic": "מודוס  לוקרי",
+      "route": "מודוס-לוקרי",
+      "kind": "page"
+    },
+    {
+      "section": "מעגל  הקוינטות",
+      "topic": "מעגל  הקוינטות",
+      "route": "מעגל-הקוינטות-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "מעגל  הקוינטות",
+      "topic": "מעגל  הקוינטות  -הגדרה",
+      "route": "מעגל-הקוינטות-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "מעגל  הקוינטות",
+      "topic": "מעגל  הקוינטות - דיאז",
+      "route": "מעגל-הקוינטות-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "מעגל  הקוינטות",
+      "topic": "מעגל  הקוינטות - במול",
+      "route": "מעגל-הקוינטות-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "מרווח במוזיקה",
+      "route": "210785/מרווח-במוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "מרווח במוזיקה- הגדרה",
+      "route": "210785/מרווח-במוזיקה",
+      "kind": "within article"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "סוגי מרווחים",
+      "route": "210785/מרווח-במוזיקה",
+      "kind": "within article"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "שמות המרווחים",
+      "route": "210785/מרווח-במוזיקה",
+      "kind": "within article"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "פרימה זכה",
+      "route": "פרימה-זכה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "סקונדה קטנה",
+      "route": "סקונדה-קטנה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "סקונדה גדולה",
+      "route": "סקונדה-גדולה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "טרצה קטנה",
+      "route": "טרצה-קטנה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "טרצה גדולה",
+      "route": "טרצה-גדולה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "קוורטה זכה",
+      "route": "קוורטה-זכה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "טריטון",
+      "route": "טריטון",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "קוינטה  זכה",
+      "route": "קוינטה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "סקסטה  קטנה",
+      "route": "סקסטה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "סקסטה  גדולה",
+      "route": "סקסטה-גדולה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "ספטימה  קטנה",
+      "route": "ספטימה-קטנה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "ספטימה  גדולה",
+      "route": "ספטימה-גדולה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "אוקטבה זכה",
+      "route": "אוקטבה-זכה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "אוקטבה",
+      "route": "210785/האוקטבה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "סוגי אוקטבות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "האוקטבה הכפולה",
+      "route": "אוקטבה-כפולה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "היפוכי אוקטבות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "אוקטבת  ספט  אקורד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "נונה",
+      "route": "נונה-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "דצימה",
+      "route": "דצימה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "און  דצימה",
+      "route": "און-דצימה-1",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "דו  דצימה",
+      "route": "דו-דצימה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "טר   דצימה  מוקטנת",
+      "route": "טר-דצימה",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "טר   דצימה  מוגדלת",
+      "route": "טר-דצימה-מוגדלת",
+      "kind": "page"
+    },
+    {
+      "section": "מרווח במוזיקה",
+      "topic": "אוקטבה כפולה",
+      "route": "אוקטבה-כפולה",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "תדר מוזיקלי",
+      "route": "210785/תדר-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "תדר מוזיקלי- הגדרה",
+      "route": "210785/תדר-מוזיקלי",
+      "kind": "within article"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "טון מוזיקלי",
+      "route": "210785/טון-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "טון פיזיקלי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "אופן החישוב",
+      "route": "210785/אופן-החישוב-שך-תדר-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "גבהי הצלילים",
+      "route": "גבהי-הצלילים-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "טרספוזיציה",
+      "route": "210785/טרנספוזיציה",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "מודולציה",
+      "route": "210785/מודולציה",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "מלודיה",
+      "route": "210785/מלודיה",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "הרמוניה",
+      "route": "210785/הרמוניה",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "סקוונצה",
+      "route": "210785/סקוונצה",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "סיומות מוזיקליים",
+      "route": "210785/סיומות-מוזיקליים",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "היפוך ומרווח השלמה",
+      "route": "210785/היפוך-ומרווח-השלמה",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "קונסוננט  ודיסוננט",
+      "route": "210785/קונסוננס-ודיסוננס",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "הכוונון המושווה",
+      "route": "הכיוונון-המושווה-1",
+      "kind": "page"
+    },
+    {
+      "section": "תדר מוזיקלי",
+      "topic": "הפסנתר",
+      "route": "210785/הפסנתר",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "אקורד במוזיקה",
+      "route": "210785/אקורד",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "אקורד במוזיקה- הגדרה",
+      "route": "210785/אקורד",
+      "kind": "within article"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "אקורד משולש",
+      "route": "אקורד-משולש",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "אקורד מרובע",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "אקורד סגור או פתוח",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "אקורד מפורק או בלתי מפורק",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "אקורד מפורק עם שני היפוכים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "סקסט  אקורד",
+      "route": "210785/סקסט-אקורד",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "קוורט  סקסט  אקורד",
+      "route": "210785/קוורט-סקסט-אקורד",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "ספט  אקורד",
+      "route": "210785/ספט-אקורד",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "דומיננט  -  ספט  אקורד",
+      "route": "210785/דומיננט-ספט-אקורד",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "טרצ  קוורט ס- פט אקורד",
+      "route": "210785/טרצ-קוורט-אקורד",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "סקנד  קוורט -  ספט  אקורד",
+      "route": "210785/סקנד-קוורט-אקורד",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "תוכנה לחיפוש מבנה אקורדים",
+      "route": "תוכנה-לחיפוש-מבנה-אקורדים",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "טבלאות- כל סוגי האקורדים",
+      "route": "טבלאות-כל-סוגי-האקורדים-המשולשים",
+      "kind": "page"
+    },
+    {
+      "section": "אקורד במוזיקה",
+      "topic": "סימני האקורדים",
+      "route": "סימני-האקורדים",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "תווים במוזיקה",
+      "route": "תוים-במוזיקה-1-1-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "תווים במוזיקה- הגדרה",
+      "route": "תוים-במוזיקה-1-1-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "תיבה במוזיקה",
+      "route": "210785/תיבה-במוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "רגלית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "ווית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קורית",
+      "route": "קורית",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קשתות",
+      "route": "קשתות",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "צורת רישום התווים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "סימני  התיווי",
+      "route": "210785/תוים-במוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "תיווי  יצירה מוזיקלית",
+      "route": "תיווי",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "מספור וסימני התיבות",
+      "route": "מספור-וסימני-תיבות",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "שמות ומספור התווים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "המשקל בתיבה",
+      "route": "המשקל-בתיבה",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "החלפת משקל בתיבה",
+      "route": "החלפת-משקל-בתיבה-תיבות-1",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "החלפת סולם בתיבה",
+      "route": "החלפת-סולם-בתיבה-תיבות-פרק-ביצירה",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "צורת כתיבת המלל בתיבה.",
+      "route": "צורת-כתיבת-המלל-בתוים-בעברית",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "שמות התווים",
+      "route": "שמות-התוים",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קו תיבה וירטואלי",
+      "route": "קו-תיבה-וירטואלי",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "משך הצליל",
+      "route": "משך-הצליל",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "תיבת הקדמה",
+      "route": "תיבת-הקדמה",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "הביט בתיבה",
+      "route": "הביט-בתיבה",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "מספור התיבות",
+      "route": "מספור-התיבות",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קשתות בין תיבות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "סימני נשימה בתיבות",
+      "route": "סימני-נשימה-בתיווי",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "סימני התווים והדמימות",
+      "route": "סימני-התוים-והדמימות",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קו תיבה עם סימן  נקודותיים  חזרה ימני",
+      "route": "סימון-תיבה-בשתי-נקודות-בצד-ימין",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קו תיבה עם סימן  נקודותיים  חזרה שמאלי",
+      "route": "סימון-תיבה-בשתי-נקודות-צד-שמאל",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קו תיבה עם סימן כפול",
+      "route": "קו-תיבה-עם-סימן-כפול",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "קו תיבה עם סימן סיום",
+      "route": "קו-תיבה-עם-סימן-סיום",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "ססטמה",
+      "route": "210785/ססטמה",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "ססטמה  סולו בליווי פסנתר",
+      "route": "ססטמה-סולו-בליווי-פסנתר",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "ססטמה  רב קולית",
+      "route": "ססטמה-רב-קולית",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "הטמפו",
+      "route": "210785/טמפו",
+      "kind": "page"
+    },
+    {
+      "section": "תווים במוזיקה",
+      "topic": "אופן חישוב הטמפו",
+      "route": "אופן-חישוב-הטמפו",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימנים במוזיקה",
+      "route": "210785/סימני-הבעה",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימנים במוזיקה- הגדרה",
+      "route": "210785/סימני-הבעה",
+      "kind": "within article"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני הדינמיקה",
+      "route": "סימני-הדינמיקה-1",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני הטמפו",
+      "route": "210785/טמפו",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "אופן חישוב הטמפו",
+      "route": "אופן-חישוב-הטמפו",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני האוירה",
+      "route": "סימני-האוירה",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני הארטיקולציה",
+      "route": "סימני-הארטיקולציה",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני הקצב",
+      "route": "210785/קצב",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני הגברה החלשה",
+      "route": "סימני-הגברה-החלשה",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "וולטה ראשונה/שניה",
+      "route": "וולטה-ראשונה-שניה",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני האטה/האצה",
+      "route": "סימני-המשך",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני החזרה",
+      "route": "סימני-החזרה",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "סימני התווים",
+      "route": "210785/תוים-במוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "סימנים במוזיקה",
+      "topic": "תו מוזיקלי",
+      "route": "תוים",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "מונחים מוזיקליים",
+      "route": "210785/מונחים-מוזיקליים-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "מונחים מוזיקליים- הגדרה",
+      "route": "210785/מונחים-מוזיקליים-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "תיאוריה",
+      "route": "210785/מונחים-מוזיקליים-תיאוריה",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "רפרטואר",
+      "route": "210785/מונחים-מוזיקליים-1",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "סולפג'",
+      "route": "210785/סולפג",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "אנסמבל",
+      "route": "210785/אנסמבל",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "פיתוח קול",
+      "route": "210785/פיתוח-קול",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "תוכנת  ENC",
+      "route": "210785/תוכנת-Encore",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "סוגי מקהלות",
+      "route": "210785/סוגי-מקהלות",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "שירה",
+      "route": "210785/שירה",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "שירה במסגרת מקהלה",
+      "route": "210785/שירת-מקהלה",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "שבתות שירה",
+      "route": "210785/שבתות-שירה",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "ניצוח",
+      "route": "210785/ניצוח",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "מערכת ההפקה הקולית",
+      "route": "מערכת-ההפקה-הקולית-של-האדם",
+      "kind": "page"
+    },
+    {
+      "section": "מונחים מוזיקליים",
+      "topic": "קול האדם",
+      "route": "קול-האדם",
+      "kind": "page"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "לחן ועיבוד מוזיקלי",
+      "route": "לחן-ועיבוד-מוזיקלי-1",
+      "kind": "page"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "לחן ועיבוד מוזיקלי- הגדרה",
+      "route": "לחן-ועיבוד-מוזיקלי-1",
+      "kind": "within article"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "לחן",
+      "route": "לחן",
+      "kind": "page"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "תמליל",
+      "route": "תמליל",
+      "kind": "page"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "עיבוד",
+      "route": "עיבוד-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "לכתוב מוזיקה",
+      "route": "מבצע",
+      "kind": "page"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "תווי מוזיקלי",
+      "route": "תיווי",
+      "kind": "page"
+    },
+    {
+      "section": "לחן ועיבוד מוזיקלי",
+      "topic": "ת י ווי  מוזיקלי",
+      "route": "תיווי",
+      "kind": "page"
+    },
+    {
+      "section": "המקאם  הערבי",
+      "topic": "המקאם  הערבי",
+      "route": "המקאם-הערבי",
+      "kind": "page"
+    },
+    {
+      "section": "המקאם  הערבי",
+      "topic": "המקאם  הערבי- הגדרה",
+      "route": "המקאם-הערבי",
+      "kind": "within article"
+    },
+    {
+      "section": "המקאם  הערבי",
+      "topic": "המקאם  הערבי- מונחים",
+      "route": "מנחים-בנושא-המקאם-הערבי",
+      "kind": "page"
+    },
+    {
+      "section": "המקאם  הערבי",
+      "topic": "מקאמים  נפוצים",
+      "route": "מקאמים-נפוצים",
+      "kind": "page"
+    },
+    {
+      "section": "המקאם  הערבי",
+      "topic": "שמות  המקאמים",
+      "route": "המקאם-הערבי-סולמות",
+      "kind": "page"
+    },
+    {
+      "section": "המקאם  הערבי",
+      "topic": "חוברת  המקאם  הערבי",
+      "route": "חוברת-המקאם-הערבי",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "רסיטל  -  חיים לוי",
+      "route": "רסיטל",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "רסיטל - למה הוא מיועד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "זמר נוגה",
+      "route": "זמר-נוגה",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "סרנדה- שוברט",
+      "route": "Schubert-Ständchen",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "ציפור שניה",
+      "route": "ציפר-שניה",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "As Time Goes By",
+      "route": "As-Time-Goes-By",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "ניגונים",
+      "route": "ניגונים",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "הללויה",
+      "route": "Hallelujah",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "And I love you so",
+      "route": "And-I-love-you-so",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "Pie  yesu",
+      "route": "Pie-Yesu",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "צרות טובות",
+      "route": "צרות-טובות",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "נחמה",
+      "route": "נחמה",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "Bring him home",
+      "route": "Bring-him-home",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "שאני במחול",
+      "route": "שאני-במחול",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "שיר ערש",
+      "route": "שיר-ערש",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "Yesterday",
+      "route": "Yesterday",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "The first time",
+      "route": "The-first-time-ever-i-so-your-faice",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "The sound of Silence",
+      "route": "The-sound-of-silence",
+      "kind": "page"
+    },
+    {
+      "section": "רסיטל  -  חיים לוי",
+      "topic": "שירים נוספים",
+      "route": "שירים-נוספים",
+      "kind": "page"
+    },
+    {
+      "section": "מוזיקה לסרטים",
+      "topic": "מוזיקה לסרטים",
+      "route": "מוזיקה-לסרטים",
+      "kind": "page"
+    },
+    {
+      "section": "מוזיקה לסרטים",
+      "topic": "מוזיקה לסרטים-הגדרה",
+      "route": "מוזיקה-לסרטים",
+      "kind": "within article"
+    },
+    {
+      "section": "מוזיקה לסרטים",
+      "topic": "תולדות הקולנוע",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מוזיקה לסרטים",
+      "topic": "הסרט  –  רשימת שינדלר",
+      "route": "רשימת-שינדלר",
+      "kind": "page"
+    },
+    {
+      "section": "מוזיקה לסרטים",
+      "topic": "הסרט- מוצרט",
+      "route": "הסרט-מוצרט",
+      "kind": "page"
+    },
+    {
+      "section": "מוזיקה לסרטים",
+      "topic": "הסרט- צלילי המוזיקה",
+      "route": "צלילי-המוזיקה-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "הפקה מוזיקלית",
+      "route": "הפקה-מוזיקלית-1",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "הפקה מוזיקלית-הגדרה",
+      "route": "הפקה-מוזיקלית-1",
+      "kind": "within article"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "מפיק מוזיקלי",
+      "route": "מפיק-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "מעבד מוזיקלי",
+      "route": "מעבד-מוזיקלי",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "הקונספט",
+      "route": "הקונספט",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "הפקת אלבום",
+      "route": "הפקת-אלבום",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "תהליך ההפקה",
+      "route": "תהליך-ההפקה",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "תהליך הכרות ראשוני",
+      "route": "תהליך-הכרות-ראשוני",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "פגישת הכרות כוללת",
+      "route": "פגישת-הכרות-כוללת",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "Pre production I",
+      "route": "Pre-Production-I",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "סקיצה-  DEMO",
+      "route": "סקיצה-Demo",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "Pre production I  I",
+      "route": "Pre-Production-II",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "Pre  production   השלב  הסופי",
+      "route": "Pre-Production-השלב-הסופי",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "מכשירים  וירטואלים",
+      "route": "מכשירים-וירטואלים",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "המצגת",
+      "route": "המצגת",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "אולפן הקלטות",
+      "route": "אולפן-הקלטות-1",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "הסיגנל",
+      "route": "הסיגנל",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "סדר השירים",
+      "route": "סדר-השירים",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "הופעה חיה",
+      "route": "הופעה-חיה",
+      "kind": "page"
+    },
+    {
+      "section": "הפקה מוזיקלית",
+      "topic": "ניהול כספים",
+      "route": "ניהול-כספים",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "לנגן על הגיטרה",
+      "route": "ניגון-על-גיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "לנגן על גיטרה-הגדרה",
+      "route": "ניגון-על-גיטרה",
+      "kind": "within article"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "סוגי גיטרות",
+      "route": "סוגי-גיטרות",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "מבנה הגיטרה",
+      "route": "מבנה-הגיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "מונחי יסוד בגיטרה",
+      "route": "מונחי-יסוד-בגיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "נא להכיר גיטרה",
+      "route": "נא-להכיר-גיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "הצליל המוגדר בכל מיתר",
+      "route": "הצליל-הבוקע-מכל-מיתר",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "כיצד מכוונים את מיתרי הגיטרה",
+      "route": "כיצד-מכוונים-את-מיתרי-הגיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "אקורד בגיטרה",
+      "route": "אקורד-בגיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "אופן הפריטה על הגיטרה",
+      "route": "אופן-הפריטה-על-הגיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "צורות ואופן נגינה",
+      "route": "צורות-נגינה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "כמות הצלילים המופקים מהגיטרה",
+      "route": "כמות-הצלילים-בגיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "הפסנתר לעומת הגיטרה",
+      "route": "פסנתר-לעומת-הגיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "כיצד לנגן על הגיטרה",
+      "route": "כיצד-לנגן-על-הגיטרה-1",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "טבלה- 114 הסריגים",
+      "route": "טבלה-114-השריגים",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "תווים לנגינה על גיטרה",
+      "route": "תוים-לנגינה-על-גיטרה",
+      "kind": "page"
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "נגני גיטרה ידועים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "לנגן על הגיטרה",
+      "topic": "ניגון מלודיה ואקורדים בגיטרה.",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מאגר יצירות",
+      "topic": "מאגר יצירות",
+      "route": "קבצי-midi",
+      "kind": "page"
+    },
+    {
+      "section": "מאגר יצירות",
+      "topic": "מאגר יצירות-הגדרה",
+      "route": "קבצי-midi",
+      "kind": "within article"
+    },
+    {
+      "section": "מאגר יצירות",
+      "topic": "מלחינים מחו\"ל",
+      "route": "מלחינים-מחו-ל",
+      "kind": "page"
+    },
+    {
+      "section": "מאגר יצירות",
+      "topic": "מלחינים מהארץ",
+      "route": "מלחינים-מהארץ",
+      "kind": "page"
+    },
+    {
+      "section": "קבצי  ENC/ MID",
+      "topic": "קבצי  ENC/ MID",
+      "route": "קבצי-Midi-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "קבצי  ENC/ MID",
+      "topic": "קבצי  MID -הגדרה",
+      "route": "קבצי-Midi-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "קבצי  ENC/ MID",
+      "topic": "עזרה בלימוד חומר הסולפג'",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "קבצי  ENC/ MID",
+      "topic": "הורדת התוכנה",
+      "route": "קבצי-Midi-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "קבצי  ENC/ MID",
+      "topic": "קבצי מידי אשר כבר הוכנו",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "קבצי  ENC/ MID",
+      "topic": "הכנת קבצי מידי תמורת תשלום",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "קבצי  ENC/ MID",
+      "topic": "הכנת תווים באמצעות תוכנת  ENC",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "דיקציה",
+      "topic": "דיקציה",
+      "route": "210785/דיקציה-1",
+      "kind": "page"
+    },
+    {
+      "section": "דיקציה",
+      "topic": "דיקציה-הגדרה",
+      "route": "210785/דיקציה-1",
+      "kind": "within article"
+    },
+    {
+      "section": "דיקציה",
+      "topic": "בשפה הלטינית",
+      "route": "210785/דיקציה-בשפה-הלטינית",
+      "kind": "page"
+    },
+    {
+      "section": "דיקציה",
+      "topic": "בשפה האיטלקית",
+      "route": "210785/דיקציה-בשפה-האיטלקית",
+      "kind": "page"
+    },
+    {
+      "section": "דיקציה",
+      "topic": "בשפה הגרמנית",
+      "route": "210785/דיקציה-בשפה-הגרמנית",
+      "kind": "page"
+    },
+    {
+      "section": "דיקציה",
+      "topic": "בשפה העברית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "מלחינים בולטים",
+      "route": "210785/מלחינים-אשר-השפיעו-על-המוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "מלחינים בולטים- הגדרה",
+      "route": "210785/מלחינים-אשר-השפיעו-על-המוזיקה",
+      "kind": "within article"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "מוצרט",
+      "route": "210785/מוצרט",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "בטהובן",
+      "route": "210785/בטהובן",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "ברהמס",
+      "route": "210785/ברהמס",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "גבריאל פורה",
+      "route": "G-U-Faure",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "באך",
+      "route": "210785/יוהן-סבסטיאן-באך",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "היידן",
+      "route": "210785/ג-וסף-היידן",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "מנדלסון",
+      "route": "210785/מנדלסון",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "פרסל",
+      "route": "210785/הנרי-פרסל",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "פוצ'יני",
+      "route": "210785/גיאקומו-פוצ-יני",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "שוברט",
+      "route": "210785/שוברט",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "ורדי",
+      "route": "210785/ג-וזפה-ורדי",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "ויואלדי",
+      "route": "210785/ויואלדי",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "ביזט",
+      "route": "210785/ז-ורז-ביזה",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "לאונרד ברנשטיין",
+      "route": "210785/ליאונרד-ברנשטיין",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "יחזקאל בראון",
+      "route": "יחזקאל-בראון",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "הנדל",
+      "route": "הנדל",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "אהרון חרל\"פ",
+      "route": "אהרון-חרל-פ",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "ביזה",
+      "route": "210785/ז-ורז-ביזה",
+      "kind": "page"
+    },
+    {
+      "section": "מלחינים בולטים",
+      "topic": "ברנשטיין",
+      "route": "210785/ליאונרד-ברנשטיין",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "רפרטואר",
+      "route": "210785/רפרטואר",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "סולפג'",
+      "route": "210785/סולפג",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "אנסמבל",
+      "route": "210785/אנסמבל",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "פיתוח קול",
+      "route": "210785/פיתוח-קול",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "תוכנה  Encore",
+      "route": "210785/תוכנת-Encore",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "סוגי מקהלות",
+      "route": "210785/סוגי-מקהלות",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "שירת סולו",
+      "route": "210785/שירה",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "שירה במסגרת מקהלתית",
+      "route": "210785/שירת-מקהלה",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "שבתות שירה",
+      "route": "210785/שבתות-שירה",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "ניצוח",
+      "route": "210785/ניצוח",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "מערכת ההפקה הקולית",
+      "route": "מערכת-ההפקה-הקולית-של-האדם",
+      "kind": "page"
+    },
+    {
+      "section": "רפרטואר",
+      "topic": "קול האדם",
+      "route": "קול-האדם",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברות לימוד אקדמי",
+      "route": "חוברות-מוכנות",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת - תיאוריה מוזיקלית",
+      "route": "חוברת-תיאוריה-מוזיקלית-מלאה",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת - מוזיקת הג'אז",
+      "route": "מוזיקת-הג-אז",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת  –  מוזיקה קלאסית",
+      "route": "מוזיקה-קלאסית",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת  –  שירה מתווים",
+      "route": "pages/1783934000078_שירה מתווים",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת  –  הכנה לקראת הופעה ברסיטל",
+      "route": "הופעה-מול-קהל",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת  –  מוזיקת  המקאם  הערבי",
+      "route": "חוברת-המקאם-הערבי",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת  –  שירה במסגרת מקהלה",
+      "route": "שירה-במסגרת-מקהלה",
+      "kind": "page"
+    },
+    {
+      "section": "חוברות לימוד אקדמי",
+      "topic": "חוברת  –  פיתוח קול ופיתוח שמיעה",
+      "route": "פיתוח-שמיעה",
+      "kind": "page"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "התרופה המוזיקלית",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "page"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "התרופה המוזיקלית- הגדרה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מבוא",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "ההצעה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "הפטנט",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "המחקר",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מהי מחלה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מטרות המחקר",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "טיפול באמצעות התרופה המוזיקלית",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "טיפול בגנים פגועים",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "הזמנת מוזיקה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מה החברה תייצר",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "טיפול מוזיקלי באלימות",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "העוגה המוזיקלית",
+      "route": "210785/העוגה-המוזיקלית",
+      "kind": "page"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "עלות הקמת החברה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מצבת כוח אדם",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מבחני קבלה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "בעיות משפטיות",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "היכן עומדת ההצעה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "רווחי החברה",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "סיכום ההצעה.",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מהי התרופה המוזיקלית?",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "המחקרים",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "טיפול באמצעות מוזיקה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "הזמנת מוזיקה י י עודית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "סקרים",
+      "route": "210785/התרופה-המוזיקלית",
+      "kind": "within article"
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "טיפול באלימות באמצעות מוזיקה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "העודה המוזיקלית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "התרופה המוזיקלית",
+      "topic": "מצבת כוח אדם נדרש",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הפסנתר",
+      "topic": "הפסנתר",
+      "route": "הפסנתר-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "הפסנתר",
+      "topic": "הפסנתר- הגדרה",
+      "route": "הפסנתר-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "הפסנתר",
+      "topic": "הפסנתר- המושווה",
+      "route": "הפסנתר-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "הפסנתר",
+      "topic": "נגינה על פסנתר",
+      "route": "הפסנתר-1-1",
+      "kind": "within article"
+    },
+    {
+      "section": "מצגת ב- Power Point",
+      "topic": "מצגת ב- Power Point",
+      "route": "power-point",
+      "kind": "page"
+    },
+    {
+      "section": "מצגת ב- Power Point",
+      "topic": "מצגת לצורך ביצוע הדרכה",
+      "route": "power-point",
+      "kind": "within article"
+    },
+    {
+      "section": "מצגת ב- Power Point",
+      "topic": "מערכת הדרכה לתלמידים מתחילים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מצגת ב- Power Point",
+      "topic": "מערכת הדרכה לתלמידים מתקדמים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבה הרמונית",
+      "route": "כתיבה-הרמונית",
+      "kind": "page"
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת שירים- הגדרה",
+      "route": "כתיבה-הרמונית",
+      "kind": "within article"
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת המלל",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת הלחן",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת העיבוד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת יצירה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "התנועה המלודית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "חוקים בתנועה המלודית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "התנועה  הסימונטלית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "חוקי הרמון בין אקורדים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "חוקי הרמון בכתיבה הרמונית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מרווחים אסורים בין שתי קולות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מרווחים אסורים בין שני אקורדים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כיוון הצלילים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "שיוך הצלילים לאקורד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "הכפלה של אחד מצלילי האקורד המשולש",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "הכפלת הטרצה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מנעד קולי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מרווח חריג שבין שני קולות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "בחירת המבצע",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מדוע זה עובד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מהו ההבדל בין שיר טוב לשיר רע",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "קלישאה בכתיבה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "רציונליזציה בכתיבה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "שיטת החריזה בשיר",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "פתיחה וסיום של שיר",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "הצגה של הדברים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת לחן",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת מלל",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כתיבת עיבוד מוזיקלי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "חוקים בכתיבה הרמונית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מרווחים אסורים בין שני קולות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מרווח חריג בין שני קולות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "כיוון כתיבת הקולות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "חריגה במרווח בין שלושה אקורדים לקול",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "סולם מינור הרמוני",
+      "route": "210785/סולם-מינור-הרמוני",
+      "kind": "page"
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "צלילים משותפים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "צלילים שאינם משותפים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "צליל הבס",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגות אקורד משתתפות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגת הדומיננטה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "היפוך ראשו ושני של אקורד משולש",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דומיננט   ספט  אקורד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מרווח הגדול מאוקטבה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "היפוכי אקורד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "אקורד המבטא מלודיה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "שני צלילים המחוברים בקשת",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "עיבוד כאשר המלודיה בקול מסוים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה  V7",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "מהלך 6 I  או  V6",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "איסור חפיפת קולות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "קדנצה  אוטנטית  V^I",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "קדנצה  מדומה  V ^ I",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "צליל משותף אחד",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "היפוך ראשון אקורד 6",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה שביעית  VII",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה שביעית והיפוך ראשון של דרגה  VII",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה שביעית  VII6  מרווח טריטון",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה שביעית  VII6  איסור ביצוע קפיצות",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה שביעית  VII6  צליל מעבר צליל שכן",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה שביעית פתרון מקוורטה מוגדלת",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבה הרמונית",
+      "topic": "דרגה שביעית  VII  פתרון  בקוינטה  מוקטנת",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "שירים שכתבתי",
+      "route": "שירים-שכתבתי",
+      "kind": "page"
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "ואם רק נרצה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "שומע תפילה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "פיוטים לשבת",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "אוקראינה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "דואט",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "יום הולדת 94",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "שירים שכתבתי",
+      "topic": "נהדר ואכזר",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "הגייה עיצורים ותנועה",
+      "route": "הגייה-עיצורים-ותנועה",
+      "kind": "page"
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "הגייה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "עיצורים",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "תנועה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "הרמוניה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "ווקאל",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "ווקאלים  בשפה האיטלקית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "ווקאלים  בשפה הגרמנית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "ווקאלים  בשפה הלטינית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "ווקאלים  בשפה העברית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "עיצור ודו תנועה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הגייה עיצורים ותנועה",
+      "topic": "סולפג'",
+      "route": "210785/סולפג",
+      "kind": "page"
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "סוגי מוזיקה שונים",
+      "route": "סוגי-מוזיקה-שונים",
+      "kind": "page"
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "סוגי מוזיקה",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקה קלאסית",
+      "route": "מוזיקה-קלאסית",
+      "kind": "page"
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקת פופ",
+      "route": "מוזיקת-פופ",
+      "kind": "page"
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקת רוק",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקת ג'אז",
+      "route": "מוזיקת-הג-אז",
+      "kind": "page"
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקת הבלוז",
+      "route": "מוזיקת-הבלוז",
+      "kind": "page"
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקה ערבית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקה הודית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "סוגי מוזיקה שונים",
+      "topic": "מוזיקה יהודית",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הופעה מול קהל",
+      "topic": "הופעה מול קהל",
+      "route": "הופעה-מול-קהל-1",
+      "kind": "page"
+    },
+    {
+      "section": "הופעה מול קהל",
+      "topic": "הקדמה",
+      "route": "הופעה-מול-קהל-1",
+      "kind": "within article"
+    },
+    {
+      "section": "הופעה מול קהל",
+      "topic": "דברי הסבר",
+      "route": "הופעה-מול-קהל-1",
+      "kind": "within article"
+    },
+    {
+      "section": "הופעה מול קהל",
+      "topic": "אמרות כנף",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "הופעה מול קהל",
+      "topic": "מבוא",
+      "route": "הופעה-מול-קהל-1",
+      "kind": "within article"
+    },
+    {
+      "section": "הופעה מול קהל",
+      "topic": "81 חוקי ההופעה מול קהל",
+      "route": "הופעה-מול-קהל-1",
+      "kind": "within article"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תולדות המוזיקה",
+      "route": "210785/תולדות-המוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופות במוזיקה",
+      "route": "210785/תקופות-במוזיקה",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופת ימי הביניים",
+      "route": "210785/תקופת-ימי-הביניים",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופת  הרנסאנס",
+      "route": "210785/תקופת-הרנסנס",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופת הבארוק",
+      "route": "210785/תקופת-הבארוק",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופת האופרה",
+      "route": "210785/תקופת-האופרה",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופת האורטוריה",
+      "route": "210785/תקופת-האורטוריה",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופת הרוקוקו",
+      "route": "210785/תקופת-הרוקוקו",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "התקופה הקלאסית",
+      "route": "210785/התקופה-הקלאסית",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "התקופה הרומנטית",
+      "route": "210785/התקופה-הרומנטית-1",
+      "kind": "page"
+    },
+    {
+      "section": "תולדות המוזיקה",
+      "topic": "תקופת המאה ה-20",
+      "route": "210785/תקופת-המאה-ה-20",
+      "kind": "page"
+    },
+    {
+      "section": "תרגום יצירות",
+      "topic": "תרגום יצירות",
+      "route": "210785/תרגום-יצירות",
+      "kind": "page"
+    },
+    {
+      "section": "תרגום יצירות",
+      "topic": "כאם תוכלו למצא תרגומים של יצירות קלאסיות בכל השפות: אנגלית, גרמנית, צרפתית, ליטורגית,  לשפה העברית.",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבת שירים",
+      "topic": "כתיבת שירים",
+      "route": "כתיבת-שירים-1-1-1-1-1-1-1-1-1",
+      "kind": "page"
+    },
+    {
+      "section": "כתיבת שירים",
+      "topic": "שירים שאני כתבתי מילים לחן וביצוע",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבת שירים",
+      "topic": "איך כותבים מילים, לחן, ועיבוד מוזיקלי",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "כתיבת שירים",
+      "topic": "איך שרים סולו? או במסגרת מקהלה?",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "מוזיקת הג'אז",
+      "topic": "מוזיקת הג'אז",
+      "route": "מוזיקת-ג-אז",
+      "kind": "page"
+    },
+    {
+      "section": "מוזיקת הג'אז",
+      "topic": "מוזיקת הבלוז",
+      "route": "מוזיקת-הבלוז",
+      "kind": "page"
+    },
+    {
+      "section": "חיפוש אקורדים",
+      "topic": "חיפוש אקורדים",
+      "route": "אקורדים-1",
+      "kind": "page"
+    },
+    {
+      "section": "חיפוש אקורדים",
+      "topic": "תוכנה  ממוחשבת  לחיפוש אקורדים",
+      "route": "תוכנה-לחיפוש-מבנה-אקורדים",
+      "kind": "page"
+    },
+    {
+      "section": "נספחים",
+      "topic": "נספחים",
+      "route": "210785/נספחים",
+      "kind": "page"
+    },
+    {
+      "section": "נספחים",
+      "topic": "תוכלו לצפות בביצוע של יצירות מפורסמות של מקהלת  קולגיום  תל אביב.",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    },
+    {
+      "section": "נספחים",
+      "topic": "תוכלו למצא תרגומים לעברית של יצירות מפורסמות .",
+      "route": "210785/נספחים",
+      "kind": "within article"
+    },
+    {
+      "section": "נספחים",
+      "topic": "תוכלו למצא  ליברט  של אופרות מפורסמות .",
+      "route": "210785/נספחים",
+      "kind": "within article"
+    },
+    {
+      "section": "נספחים",
+      "topic": "תוכלו למצא חוברת הדרכה לזמר מקהלה : פיתוח קול, פיתוח שמיעה, לימוד חומר  הסולפג '.ואופן ההופעה מול קהל... של מספר רב של יצירות מוכרות: כגון  –   - היוהנס פסיון של באך - הרקוויאם של מוצרט - שירת הגורל של ברהמס ועוד...",
+      "route": null,
+      "kind": "not identified",
+      "note": "No confirmed topic match; may require author material or review of an existing article/download. No content was invented."
+    }
+  ],
+  "missingDedicatedArticles": [
+    "תולדות הקולנוע"
+  ],
+  "overviewPages": [
+    "כתיבה הרמונית",
+    "שירים שכתבתי",
+    "הגייה עיצורים ותנועה",
+    "סוגי מוזיקה שונים"
+  ],
+  "overviewNote": "These are indexes linking existing material, not newly authored lessons."
+}

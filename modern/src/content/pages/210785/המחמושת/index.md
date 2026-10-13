@@ -14,7 +14,7 @@ isHome: false
 		<br>
 		<span style="font-size: 14px"><strong>צופים יקרים!</strong><br>
 		&nbsp;<br>
-		<a href="/test/image/users/210785/ftp/my_files/04%20Mizmor%20Shir%20Tenor.mid?id=9825448"></a></span></div>
+		</span></div>
 	<div class="tool_text" style="padding: 2px; text-align: justify;">
 		<span style="font-size:14px;"><strong><span style="color:#696969;">במסגרת פגישתנו זו אנו מתחילים בלימוד התיאוריה המוזיקלית . נתחיל אם כך מהתחלה ונלמד בשיטת לימוד מהקל&nbsp;אל הכבד ולכן הנושא הראשון אשר נלמד בפגישה זו –</span>&nbsp; <span style="color:#696969;">המחמושת.&nbsp;</span></strong><br>
 		&nbsp;<br>
@@ -40,7 +40,7 @@ isHome: false
 	<div class="tool_text" style="padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px">
 		<span style="font-size: 14px"><strong>המשך צפייה מהנה !&nbsp;</strong><br>
 		&nbsp;<br>
-		&nbsp;</span><span style="color: rgb(0, 0, 255);">&nbsp;</span><span style="font-size:12px;"><strong><a href="/test/210785/%D7%AA%D7%99%D7%90%D7%95%D7%A8%D7%99%D7%99%D7%94%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA"><span style="color:#0000cd;"><u>&lt;<span style="font-size:14px;">&lt;&lt; חזרה לדף קודם&nbsp;</span></u></span></a>&nbsp;</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:14px;"><strong><a href="/test/%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA%2D%D7%94%D7%92%D7%93%D7%A8%D7%94.html">&nbsp;</a><a href="/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"></a><a href="/test/%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA%2D%D7%94%D7%92%D7%93%D7%A8%D7%94.html"><span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"></a><a href="/test/%D7%9E%D7%97%D7%9E%D7%95%D7%A9%D7%AA%2D%D7%94%D7%92%D7%93%D7%A8%D7%94.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></strong></span></div>
+		&nbsp;</span><span style="color: rgb(0, 0, 255);">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 </div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">
 </script>

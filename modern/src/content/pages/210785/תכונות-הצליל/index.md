@@ -11,7 +11,7 @@ isHome: false
 <div id="longMessageMEM">
 <div class="sortableLayout" id="sortableLayoutDragDrop" valign="top">
 	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding: 2px; text-align: justify;">
-		<strong><span style="font-size: 14px"><span face=""><a href="/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"></a>צופים יקרים!&nbsp;</span><br>
+		<strong><span style="font-size: 14px"><span face="">צופים יקרים!&nbsp;</span><br>
 		&nbsp;<br>
 		<br>
 		<span style="color:#696969;"><span face="">בשיעורים הקודמים למדנו על המושגים : מחמושת, מפתח מוזיקלי, צליל מוזיקלי,&nbsp; ובכן יש ברשותנו מערכת בת&nbsp;&nbsp;חמישה&nbsp; קוים, יש ברשותינו שלושה סוגי מפתחות שונים שבאמצעותם אנו יכולים לקבוע את גבהי הצלילים הנמצאים ע"ג המחמושת., אנו מבינים כעת מהו צליל מוזיקלי , וכעת נכיר את 4 תכונותיו של - הצליל המוזיקלי.&nbsp;</span></span></span></strong><br>
@@ -40,7 +40,7 @@ isHome: false
 		<br>
 		<span face="">המשך צפייה מהנה!</span><br>
 		&nbsp;</span></strong><br>
-		<a href="/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"><span style="color: rgb(0, 0, 255);">&nbsp;</span></a><span style="font-size:14px;"><strong><span style="font-family:arial,helvetica,sans-serif;"><a href="/test/210785/%D7%A6%D7%9C%D7%99%D7%9C%D7%99%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"><span style="color:#0000ff;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u>&nbsp;</span></a></span></strong>&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="font-size:14px;"><span style="color: rgb(173, 216, 230);">&nbsp;</span><strong><span style="font-family:arial,helvetica,sans-serif;"><a href="/test/%D7%AA%D7%9B%D7%95%D7%A0%D7%AA%2D%D7%94%D7%92%D7%95%D7%91%D7%94.html"><span style="color:#0000ff;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong></span><br>
+		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 		&nbsp;</div>
 </div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">

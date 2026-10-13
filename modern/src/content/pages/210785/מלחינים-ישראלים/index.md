@@ -15,7 +15,7 @@ isHome: false
 			<strong><span style="font-size: 14px">צופים יקרים!<br>
 			<br>
 			כאן רוכזו היצירות המפורסמות משל <span style="color: #0000cd">מלחינים ישראלים </span>,<br>
-			כאן תוכלו למצא<a href="/test/image/users/210785/ftp/my_files/%D7%A7%D7%91%D7%A6%D7%99%20%D7%9E%D7%99%D7%93%D7%99%20%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D%20%D7%9C%D7%90%D7%AA%D7%A8.rar?id=10123838">&nbsp;<u><span style="color: #008080">קבצי Midi</span></u> </a>לכל הקולות של היצירה, את התוים <a href="/test/image/users/210785/ftp/my_files/pdf-Israelim/PDF-%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94%20%D7%9E%D7%A9%D7%9C%20%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D.rar?id=10088086"><u><span style="color: #008080">קבצי Pdf</span></u>&nbsp;</a>של היצירה<br>
+			כאן תוכלו למצא<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A7%D7%91%D7%A6%D7%99%20%D7%9E%D7%99%D7%93%D7%99%20%D7%9E%D7%95%D7%9B%D7%A0%D7%99%D7%9D%20%D7%9C%D7%90%D7%AA%D7%A8.rar?id=10123838">&nbsp;<u><span style="color: #008080">קבצי Midi</span></u> </a>לכל הקולות של היצירה, את התוים <u><span style="color: #008080">קבצי Pdf</span></u>&nbsp;של היצירה<br>
 			צפייה ביצירה באמצעות אתר ה-Youtube&nbsp;,וכן מספר מילים אודות היצירה.<br>
 			<br>
 			<strong>כמו כן, תוכלו למצא קבצי Midi ליצירות&nbsp;משל מלחינים ישראלים&nbsp;באתר&nbsp; </strong><a href="http://www.dycom-il.com/"><strong>http://www.dycom-il.com</strong></a><strong>&nbsp;</strong><br>
@@ -192,19 +192,19 @@ isHome: false
 						<td style="width: 113px">
 							<span style="color:#b22222;"><strong><span style="background-color:#ffffff;">חישקי חיזקי</span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 12px"><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-sopran.mid?id=9965501"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 12px"><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-sopran.mid?id=9965501"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-alt.mid?id=9965499"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-alt.mid?id=9965499"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-Men.mid?id=9965500"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-Men.mid?id=9965500"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-Men.mid?id=9965500"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-Men.mid?id=9965500"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-Men.mid?id=9965500"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/022-%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99-Men.mid?id=9965500"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/022-%D7%97%D7%A9%D7%A7%D7%99%20%D7%97%D7%96%D7%A7%D7%99.pdf?id=9968229"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/022-%D7%97%D7%A9%D7%A7%D7%99%20%D7%97%D7%96%D7%A7%D7%99.pdf?id=9968229"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="width: 66px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/1%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99.docx?id=9968270"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/1%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99.docx?id=9968270"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/1%D7%97%D7%99%D7%A9%D7%A7%D7%99%20%D7%97%D7%99%D7%96%D7%A7%D7%99.docx?id=9968270"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="width: 57px">
 							&nbsp;</td>
 					</tr>
@@ -236,19 +236,19 @@ isHome: false
 						<td style="width: 113px">
 							<span style="color:#b22222;"><strong><span style="background-color:#ffffff;">שלום עליכם</span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span><span style="display: none"><span style="background-color:#ffffff;">&nbsp;&nbsp;</span></span></span></strong></span><strong><span style="font-size: 12px"><span style="font-size: 14px"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-sopran.mid?id=9965485"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span><span style="color:#b22222;"><span style="display: none"><span style="background-color:#ffffff;">&nbsp;</span></span></span><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-sopran.mid?id=9965485"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span><span style="display: none"><span style="background-color:#ffffff;">&nbsp;&nbsp;</span></span></span></strong></span><strong><span style="font-size: 12px"><span style="font-size: 14px"><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-sopran.mid?id=9965485"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span><span style="color:#b22222;"><span style="display: none"><span style="background-color:#ffffff;">&nbsp;</span></span></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-alt.mid?id=9965483"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-alt.mid?id=9965483"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-alt.mid?id=9965483"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-men.mid?id=9965484"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-men.mid?id=9965484"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-men.mid?id=9965484"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-men.mid?id=9965484"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-men.mid?id=9965484"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/018-shalom-aleychem-men.mid?id=9965484"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="text-align: center; width: 38px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 66px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/%D7%A9%D7%9C%D7%95%D7%9D%20%D7%A2%D7%9C%D7%99%D7%9B%D7%9D.docx?id=9965687"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/%D7%A9%D7%9C%D7%95%D7%9D%20%D7%A2%D7%9C%D7%99%D7%9B%D7%9D.docx?id=9965687"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="http://www.livecity.co.il/image/users/210785/ftp/my_files/%D7%A9%D7%9C%D7%95%D7%9D%20%D7%A2%D7%9C%D7%99%D7%9B%D7%9D.docx?id=9965687"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="width: 57px">
 							&nbsp;</td>
 					</tr>
@@ -258,15 +258,15 @@ isHome: false
 						<td style="width: 113px">
 							<span style="color:#b22222;"><strong><span style="background-color:#ffffff;">הללויה</span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-Sopran-1.mid?id=9968281"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-Sopran-1.mid?id=9968281"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-Sopran-1.mid?id=9968281"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-Alt-1.mid?id=9968282"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-Alt-1.mid?id=9968282"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-tenor-1.mid?id=9968283"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-tenor-1.mid?id=9968283"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-Bass-1.mid?id=9968284"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94-Bass-1.mid?id=9968284"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94.pdf?id=9968288"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94.pdf?id=9968288"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/019-%D7%94%D7%9C%D7%9C%D7%95%D7%99%D7%94.pdf?id=9968288"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="width: 66px">
 							&nbsp;</td>
 						<td style="width: 57px">
@@ -596,7 +596,7 @@ isHome: false
 						<td style="width: 47px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 38px">
-							<strong><a href="/test/image/users/210785/ftp/my_files/pdf-Choirs/%D7%93%D7%91%20%D7%9B%D7%A8%D7%9E%D7%9C-%D7%A9%D7%95%D7%A2%D7%9C%D7%99%D7%9D%20%D7%A7%D7%98%D7%A0%D7%99%D7%9D.pdf?id=10022878"><span style="color:#b22222;"><span style="font-size: 14px"><span style="background-color:#ffffff;">_</span></span></span></a></strong></td>
+							<strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/pdf-Choirs/%D7%93%D7%91%20%D7%9B%D7%A8%D7%9E%D7%9C-%D7%A9%D7%95%D7%A2%D7%9C%D7%99%D7%9D%20%D7%A7%D7%98%D7%A0%D7%99%D7%9D.pdf?id=10022878"><span style="color:#b22222;"><span style="font-size: 14px"><span style="background-color:#ffffff;">_</span></span></span></a></strong></td>
 						<td style="width: 66px">
 							&nbsp;</td>
 						<td style="width: 57px">
@@ -786,19 +786,19 @@ isHome: false
 						<td style="width: 113px">
 							<span style="color:#b22222;"><strong><span style="background-color:#ffffff;">קשת לבנה</span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94%20-%D7%A1%D7%95%D7%A4%D7%A8%D7%9F.mid?id=9965505"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94%20-%D7%A1%D7%95%D7%A4%D7%A8%D7%9F.mid?id=9965505"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94%20-%D7%A1%D7%95%D7%A4%D7%A8%D7%9F.mid?id=9965505"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%90%D7%9C%D7%98.mid?id=9965503"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%90%D7%9C%D7%98.mid?id=9965503"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%90%D7%9C%D7%98.mid?id=9965503"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%91%D7%A1%20%D7%95-%D7%98%D7%A0%D7%95%D7%A8.mid?id=9965504"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%91%D7%A1%20%D7%95-%D7%98%D7%A0%D7%95%D7%A8.mid?id=9965504"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%91%D7%A1%20%D7%95-%D7%98%D7%A0%D7%95%D7%A8.mid?id=9965504"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%91%D7%A1%20%D7%95-%D7%98%D7%A0%D7%95%D7%A8.mid?id=9965504"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%91%D7%A1%20%D7%95-%D7%98%D7%A0%D7%95%D7%A8.mid?id=9965504"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94-%20%D7%91%D7%A1%20%D7%95-%D7%98%D7%A0%D7%95%D7%A8.mid?id=9965504"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94.pdf?id=9965750"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/023-%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94.pdf?id=9965750"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 66px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="http://www.youtube.com/watch?v=uqKCPIo4rOs"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="http://www.youtube.com/watch?v=uqKCPIo4rOs"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="http://www.youtube.com/watch?v=uqKCPIo4rOs"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94.docx?id=9965774"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94.docx?id=9965774"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A7%D7%A9%D7%AA%20%D7%9C%D7%91%D7%A0%D7%94.docx?id=9965774"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="width: 57px">
 							&nbsp;</td>
 					</tr>
@@ -830,15 +830,15 @@ isHome: false
 						<td style="width: 113px">
 							<span style="color:#b22222;"><strong><span style="background-color:#ffffff;">ואולי</span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Sopran.mid?id=10218851"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Sopran.mid?id=10218851"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Sopran.mid?id=10218851"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Alt.mid?id=10218849"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Alt.mid?id=10218849"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Alt.mid?id=10218849"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Tenor.mid?id=10218852"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Tenor.mid?id=10218852"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-Tenor.mid?id=10218852"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-bas.mid?id=10218850"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="/test/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-bas.mid?id=10218850"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi/%D7%95%D7%90%D7%95%D7%9C%D7%99-bas.mid?id=10218850"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><a href="/test/image/users/210785/ftp/my_files/pdf-Israelim/%D7%95%D7%90%D7%95%D7%9C%D7%99.pdf?id=10218857"><span style="background-color:#ffffff;">_</span></a></strong></span><strong><a href="/test/image/users/210785/ftp/my_files/pdf-Israelim/%D7%95%D7%90%D7%95%D7%9C%D7%99.pdf?id=10218857"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/pdf-Israelim/%D7%95%D7%90%D7%95%D7%9C%D7%99.pdf?id=10218857"><span style="background-color:#ffffff;">_</span></a></strong></span><strong></strong></td>
 						<td style="width: 66px">
 							&nbsp;</td>
 						<td style="width: 57px">
@@ -882,7 +882,7 @@ isHome: false
 						<td style="width: 47px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/yehezkel braun-midrash luah gezer/%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F%20-%20%D7%9E%D7%93%D7%A8%D7%A9%20%D7%9C%D7%95%D7%97%20%D7%92%D7%96%D7%A8.rar?id=10023075"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></span></strong></td>
 						<td style="width: 66px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 						<td style="width: 57px">
@@ -900,11 +900,11 @@ isHome: false
 						<td style="width: 47px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size:18px;"><a href="/test/image/users/210785/ftp/my_files/Midi/MIdi-%D7%A2%D7%A8%D7%91%D7%99%D7%AA%20%D7%9C%D7%A9%D7%91%D7%AA-%D7%98%D7%A0%D7%95%D7%A8.rar?id=10218875"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size:18px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Midi/MIdi-%D7%A2%D7%A8%D7%91%D7%99%D7%AA%20%D7%9C%D7%A9%D7%91%D7%AA-%D7%98%D7%A0%D7%95%D7%A8.rar?id=10218875"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="width: 47px">
 							<span style="color:#b22222;"><strong><span style="font-size:18px;"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><span style="font-size:18px;"><a href="/test/image/users/210785/ftp/my_files/pdf-Israelim/pdf-%D7%A2%D7%A8%D7%91%D7%99%D7%AA%20%D7%9C%D7%A9%D7%91%D7%AA.rar?id=10218548"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size:18px;"><a href="/test/image/users/210785/ftp/my_files/pdf-Israelim/pdf-%D7%A2%D7%A8%D7%91%D7%99%D7%AA%20%D7%9C%D7%A9%D7%91%D7%AA.rar?id=10218548"></a><a href="/test/image/users/210785/ftp/my_files/pdf-Israelim/pdf-%D7%A2%D7%A8%D7%91%D7%99%D7%AA%20%D7%9C%D7%A9%D7%91%D7%AA.rar?id=10209647"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size:18px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/pdf-Israelim/pdf-%D7%A2%D7%A8%D7%91%D7%99%D7%AA%20%D7%9C%D7%A9%D7%91%D7%AA.rar?id=10218548"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size:18px;"></span></strong></td>
 						<td style="width: 66px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 						<td style="width: 57px">
@@ -918,13 +918,13 @@ isHome: false
 						<td style="width: 113px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">שיבולת בשדה</span></span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 12px"><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-sopran-1.mid?id=9973721"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 12px"><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-sopran-1.mid?id=9973721"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-alt-1.mid?id=9973722"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-alt-1.mid?id=9973722"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-tenor-1.mid?id=9973723"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-tenor-1.mid?id=9973723"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-bas-1.mid?id=9973724"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/0017-%D7%A9%D7%99%D7%91%D7%95%D7%9C%D7%AA%20%D7%91%D7%A9%D7%93%D7%94-bas-1.mid?id=9973724"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="width: 38px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 						<td style="width: 66px">
@@ -962,19 +962,19 @@ isHome: false
 						<td style="width: 113px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">לכה דודי</span></span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/024--sopran-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973610"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/024--sopran-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973610"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/024--sopran-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973610"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/024--Alt-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973611"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/024--Alt-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973611"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/024--Men-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973612"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/024--Men-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973612"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 47px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/024--Men-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973612"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/024--Men-%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.mid?id=9973612"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/024-lecha%20dodi-braun.pdf?id=9973620"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/024-lecha%20dodi-braun.pdf?id=9973620"><span style="color:#b22222;"><span style="background-color:#ffffff;">_</span></span></a></span></strong></td>
 						<td style="text-align: center; width: 66px">
 							<span style="color:#b22222;"><strong><span style="font-size: 14px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 						<td style="text-align: center; width: 57px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.docx?id=9973703"><span style="background-color:#ffffff;">&nbsp;_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.docx?id=9973703"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%9C%D7%9B%D7%94%20%D7%93%D7%95%D7%93%D7%99-%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C%20%D7%91%D7%A8%D7%90%D7%95%D7%9F.docx?id=9973703"><span style="background-color:#ffffff;">&nbsp;_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="width: 57px">
 							<span style="color:#b22222;"><strong><span style="font-size: 12px"><span style="background-color:#ffffff;">&nbsp;</span></span></strong></span></td>
 					</tr>
@@ -1032,13 +1032,13 @@ isHome: false
 						<td style="width: 47px; text-align: center;">
 							&nbsp;</td>
 						<td style="width: 47px; text-align: center;">
-							<span style="color:#b22222;"><strong><a href="/test/image/users/210785/ftp/my_files/Braun-shir%20hashirim-Midi-1.rar?id=27528037"><strong style="text-align: center;"><u><span style="font-size: 18px;"><span style="background-color:#ffffff;">_</span></span></u></strong></a></strong></span><strong><a href="/test/image/users/210785/ftp/my_files/Braun-shir%20hashirim-Midi-1.rar?id=27528037"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Braun-shir%20hashirim-Midi-1.rar?id=27528037"><strong style="text-align: center;"><u><span style="font-size: 18px;"><span style="background-color:#ffffff;">_</span></span></u></strong></a></strong></span><strong></strong></td>
 						<td style="width: 47px; text-align: center;">
 							&nbsp;</td>
 						<td style="width: 38px; text-align: center;">
-							<span style="color:#b22222;"><strong><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/3333/%D7%91%D7%A8%D7%90%D7%95%D7%9F%20-%20%D7%A9%D7%99%D7%A8%20%D7%94%D7%A9%D7%99%D7%A8%D7%99%D7%9D.pdf?id=27643260"><span style="font-size:14px;">_</span></a></strong></span><strong><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/3333/%D7%91%D7%A8%D7%90%D7%95%D7%9F%20-%20%D7%A9%D7%99%D7%A8%20%D7%94%D7%A9%D7%99%D7%A8%D7%99%D7%9D.pdf?id=27643260"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/3333/%D7%91%D7%A8%D7%90%D7%95%D7%9F%20-%20%D7%A9%D7%99%D7%A8%20%D7%94%D7%A9%D7%99%D7%A8%D7%99%D7%9D.pdf?id=27643260"><span style="font-size:14px;">_</span></a></strong></span><strong></strong></td>
 						<td style="width: 66px; text-align: center;">
-							<span style="color:#b22222;"><strong><a href="https://www.youtube.com/watch?v=z10sRBWxP3s">_</a></strong></span><strong><a href="https://www.youtube.com/watch?v=z10sRBWxP3s"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://www.youtube.com/watch?v=z10sRBWxP3s">_</a></strong></span><strong></strong></td>
 						<td style="width: 57px">
 							&nbsp;</td>
 						<td style="width: 57px">
@@ -1142,13 +1142,13 @@ isHome: false
 						<td style="width: 47px; text-align: center;">
 							&nbsp;</td>
 						<td style="width: 47px; text-align: center;">
-							<span style="color:#b22222;"><strong><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/kohelet-enc.rar?id=27666174"><span style="font-size:14px;">_</span></a></strong></span><strong><a href="/test/image/users/210785/ftp/my_files/kohelet-Midi-avoda-1.rar?id=27528051"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/kohelet-enc.rar?id=27666174"><span style="font-size:14px;">_</span></a></strong></span><strong></strong></td>
 						<td style="width: 47px; text-align: center;">
 							&nbsp;</td>
 						<td style="width: 38px; text-align: center;">
 							<a href="http://sfile.f-static.com/image/users/210785/ftp/my_files/yehezkel braun/kohelet-PDF.rar?id=27674635">_</a></td>
 						<td style="width: 66px; text-align: center;">
-							<span style="color:#b22222;"><strong><a href="https://www.youtube.com/watch?v=z10sRBWxP3s"><span style="font-size: 18px;">_</span></a></strong></span><strong><a href="https://www.youtube.com/watch?v=z10sRBWxP3s"></a></strong></td>
+							<span style="color:#b22222;"><strong><a href="https://www.youtube.com/watch?v=z10sRBWxP3s"><span style="font-size: 18px;">_</span></a></strong></span><strong></strong></td>
 						<td style="width: 57px">
 							&nbsp;</td>
 						<td style="width: 57px">
@@ -1344,7 +1344,7 @@ isHome: false
 						<td style="width: 47px">
 							&nbsp;</td>
 						<td style="text-align: center; width: 38px">
-							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/pdf-Choirs/%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%A1%D7%AA%D7%A8-%D7%90%D7%A9%D7%AA%20%D7%97%D7%99%D7%99%D7%9C.pdf?id=10022920"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/pdf-Choirs/%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%A1%D7%AA%D7%A8-%D7%90%D7%A9%D7%AA%20%D7%97%D7%99%D7%99%D7%9C.pdf?id=10022920"></a></span></strong></td>
+							<span style="color:#b22222;"><strong><span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/pdf-Choirs/%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%A1%D7%AA%D7%A8-%D7%90%D7%A9%D7%AA%20%D7%97%D7%99%D7%99%D7%9C.pdf?id=10022920"><span style="background-color:#ffffff;">_</span></a></span></strong></span><strong><span style="font-size: 14px"></span></strong></td>
 						<td style="width: 66px">
 							&nbsp;</td>
 						<td style="width: 57px">
@@ -1539,7 +1539,7 @@ isHome: false
 			<strong><span style="font-size: 14px"><strong><span style="color: #ff0000">&nbsp;</span>המשך צפיה מהנה!</strong></span></strong><br>
 			<br>
 			<br>
-			<span style="color: rgb(0, 0, 255);"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a><br>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><br>
 			<br>
 			<br>
 			&nbsp;</div>

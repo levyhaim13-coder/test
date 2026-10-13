@@ -20,7 +20,7 @@ isHome: false
 				<span style="color:#b22222;"><span style="font-size: 14px"><strong>ספט אקורד - דו מז'ור - היפוך שני של ספט אקורד.</strong></span></span><br>
 				<img alt="" border="0" height="84" src="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%A4%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93%20%D7%94%D7%99%D7%A4%D7%95%D7%9A%20%D7%A9%D7%A0%D7%99-1.png" width="196"></div>
 			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong>או בשמו הנוסף:&nbsp;<a href="/test/image/users/210785/ftp/my_files/%D7%98%D7%A8%D7%A6%20%D7%A7%D7%95%D7%95%D7%A8%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9903004"><u><span style="color: #008080">טרצ קוורט - ספט אקורד</span></u></a>&nbsp;- <span style="color: #ff0000">הינו היפוך שני של דומיננט ספט אקורד.&nbsp;</span><br>
+				<span style="font-size: 14px"><strong>או בשמו הנוסף:&nbsp;<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%98%D7%A8%D7%A6%20%D7%A7%D7%95%D7%95%D7%A8%D7%98%20%D7%90%D7%A7%D7%95%D7%A8%D7%93.docx?id=9903004"><u><span style="color: #008080">טרצ קוורט - ספט אקורד</span></u></a>&nbsp;- <span style="color: #ff0000">הינו היפוך שני של דומיננט ספט אקורד.&nbsp;</span><br>
 				אקורד זה בונים על דרגה 2 של הסולם.<br>
 				<br>
 				טרצ קוורט ספט אקורד דומיננטי מכיל שלושה מרווחים (מלמטה למעלה): טרצה קטנה, סקונדה גדולה ,טרצה גדולה.&nbsp;<br>
@@ -171,7 +171,7 @@ isHome: false
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong>המשך צפייה מהנה!&nbsp;<br>
 				&nbsp;</strong></span><br>
-				<span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span><span style="font-size:14px;"><strong><a href="/test/210785/%D7%A7%D7%95%D7%95%D7%99%D7%A0%D7%98%2D%D7%A1%D7%A7%D7%A1%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><span style="color:#0000cd;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></a></strong></span><span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><strong><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%A7%D7%A0%D7%93%2D%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a><a href="/test/210785/%D7%A1%D7%A7%D7%A0%D7%93%2D%D7%A7%D7%95%D7%95%D7%A8%D7%98%2D%D7%90%D7%A7%D7%95%D7%A8%D7%93"><span style="color:#0000cd;">&nbsp;</span></a></span></strong></div>
+				<span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span><span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span></div>
 		</div>
 	</div>
 </div>

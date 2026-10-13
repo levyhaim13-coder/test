@@ -19,10 +19,10 @@ isHome: false
 				<span style="color:#696969;"><span face="">בשיעורים הקודמים למדנו מהי מחמושת, מהו מפתח מוזיקלי, מהו צליל מוזיקלי, מהו סולם מוזיקלי מהם סוגי<br>
 				הסולמות, נעבור כעת ונלמד על סימני הסולמות השונים הקיימים במוזיקה האירופאית מערבית.&nbsp;</span></span><br>
 				&nbsp;<br>
-				<span style="font-size:16px;"><a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%20%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.docx?id=9871078"><span style="color: #008080"><span face=""><u>סימני הסולמות</u></span></span>&nbsp;</a></span>– <span style="color: #ff0000">סימני במול או דיאז המופיעים בתחילת יצירה או קטע מתוך היצירה, ליד המפתח המוזיקלי,<br>
+				<span style="font-size:16px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%20%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.docx?id=9871078"><span style="color: #008080"><span face=""><u>סימני הסולמות</u></span></span>&nbsp;</a></span>– <span style="color: #ff0000">סימני במול או דיאז המופיעים בתחילת יצירה או קטע מתוך היצירה, ליד המפתח המוזיקלי,<br>
 				&nbsp;סימנים אלו מציינים למעשה את&nbsp;שם הסולם. סימנים אשר נובעים למעשה מתבנית הסולם.&nbsp;</span><br>
 				<span face="">כגון סולם:&nbsp;רה מינור, סול מז'ור, פה מינור, לה במול מז'ור וכדומה..&nbsp;</span><br>
-				עם הלחיצה על&nbsp;</strong></span><strong style="font-size: 14px;"><a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%20%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.docx?id=9871078"><span style="color: rgb(0, 128, 128);"><span face=""><strong><u>סימני הסולמות</u></strong></span></span></a>&nbsp;</strong><span style="font-size: 14px"><strong>&nbsp;יופיעו 2 טבלאות:&nbsp;21 סימני הסולמות במז'ור,&nbsp; ו-&nbsp;21 סימני הסולמות במינור .</strong></span><br>
+				עם הלחיצה על&nbsp;</strong></span><strong style="font-size: 14px;"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%20%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.docx?id=9871078"><span style="color: rgb(0, 128, 128);"><span face=""><strong><u>סימני הסולמות</u></strong></span></span></a>&nbsp;</strong><span style="font-size: 14px"><strong>&nbsp;יופיעו 2 טבלאות:&nbsp;21 סימני הסולמות במז'ור,&nbsp; ו-&nbsp;21 סימני הסולמות במינור .</strong></span><br>
 				<br>
 				<span style="font-size: 14px"><strong><span style="color:#ff0000;"><u><span style="background-color:#ffffe0;">כיצד אנו מזהים את שם הסולם ביצירה?</span></u></span><br>
 				לצורך זיהוי שם הסולם, יתכנו שלושה מצבים:<br>
@@ -496,7 +496,7 @@ isHome: false
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong><span face="">המשך צפייה מהנה !&nbsp;</span><br>
 				&nbsp;<br>
-				&nbsp;</strong></span><strong><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%95%D7%92%D7%99%2D%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA"><span style="color:#0000cd;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></a></span><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span></strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><span style="font-size:14px;"><a href="/test/210785/%D7%AA%D7%91%D7%A0%D7%99%D7%AA%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9D"><span style="color:#0000cd;">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%AA%D7%91%D7%A0%D7%99%D7%AA%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9D"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong><br>
+				&nbsp;</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 				<span style="font-size: 14px"><strong>&nbsp;<br>
 				&nbsp;<br>
 				&nbsp;<br>

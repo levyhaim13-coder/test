@@ -17,7 +17,7 @@ isHome: false
 			<span face="">&nbsp;</span><br>
 			<span style="color:#696969;"><span face="">בשיעורים הקודמים למדנו מהי מחמושת, מהו מפתח מוזיקלי, מהו צליל מוזיקלי, מהו סולם מוזיקלי , וכעת אנו עוברים ללמוד על סוגי הסולמות השונים הקיימים במוזיקה האירופאית מערבית.&nbsp;</span></span><br>
 			&nbsp;<br>
-			<a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%92%D7%99%20%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.docx?id=9871046"><span style="color: #008080"><span face=""><strong><u>סוגי הסולמות </u></strong></span></span></a>- סוג הסולם, הנו המרכיב העיקרי והכמעט בלעדי אשר יבטא למעשה את מה שהמלחין התכוון בכתיבת היצירה . ( לא לשכוח כעת אנו מדברים אך ורק על מוזיקה מערבית אירופאית.)<br>
+			<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%92%D7%99%20%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA.docx?id=9871046"><span style="color: #008080"><span face=""><strong><u>סוגי הסולמות </u></strong></span></span></a>- סוג הסולם, הנו המרכיב העיקרי והכמעט בלעדי אשר יבטא למעשה את מה שהמלחין התכוון בכתיבת היצירה . ( לא לשכוח כעת אנו מדברים אך ורק על מוזיקה מערבית אירופאית.)<br>
 			&nbsp;<br>
 			<span face="">במוזיקה המערבית אירופאית קיימים 7 סוגי סולמות שונים:</span><br>
 			<span style="color:#0000ff;">1.&nbsp;<span face="">מז'ור<br>
@@ -61,7 +61,7 @@ isHome: false
 			&nbsp;<br>
 			<span face="">המשך צפייה מהנה!</span></strong></span><br>
 			<br>
-			<span style="color: rgb(0, 0, 255);">&nbsp;<a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"></a></span><strong><span style="color:#0000cd;"><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u>&nbsp;</a></span></span><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"></a></span><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp; &nbsp; &nbsp;</span></span></strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style="color:#0000cd;"><span style="font-size:14px;">&nbsp;</span></span><span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%A1%D7%95%D7%9C%D7%9E%D7%95%D7%AA"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong></div>
+			<span style="color: rgb(0, 0, 255);">&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 	</div>
 </div>
 </div>

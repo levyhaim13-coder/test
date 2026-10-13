@@ -16,7 +16,7 @@ isHome: false
 	<strong><span style="font-size: 14px;"><span style="color: rgb(105, 105, 105);"><span face="">ובכן לאחר שלמדנו מהי המחמושת, מהו מפתח מוזיקלי, מהם תכונותיו של הצליל המוזיקלי, ולאחר שלמדנו כיצד ואיך נקבעו שמות הצלילים וסדר גובהם המוזיקלי ולאחר שלמדנו על &nbsp;12 סוגי הצלילים השונים כולל סימני ההיתק וסימני ההבעה אשר מרכיבים את המוזיקה המערבית ארופאית, נעבור כעת ונלמד על סימני המפעם (טמפו) השונים. &nbsp;</span></span></span></strong><br>
 	<strong><span style="font-size: 14px">&nbsp;</span></strong></div>
 <div style="text-align: justify;">
-	<strong><span style="font-size: 14px"><span style="color: #008080"><u><a href="/test/image/users/210785/ftp/my_files/%D7%98%D7%9E%D7%A4%D7%95.docx?id=9864482">מ</a>פעם</u></span>&nbsp;-<span style="color: #0000cd">(<span dir="ltr">Tempo</span>&nbsp;)&nbsp;</span>- <span style="color: #ff0000">המהירות שקטע מוזיקלי מבוצע בה.</span><br>
+	<strong><span style="font-size: 14px"><span style="color: #008080"><u><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%98%D7%9E%D7%A4%D7%95.docx?id=9864482">מ</a>פעם</u></span>&nbsp;-<span style="color: #0000cd">(<span dir="ltr">Tempo</span>&nbsp;)&nbsp;</span>- <span style="color: #ff0000">המהירות שקטע מוזיקלי מבוצע בה.</span><br>
 	בראש הקטע של היצירה או פרק ביצירה ניתנת הוראה של המלחין הנוגעת למהירות ביצוע היצירה.<br>
 	המלחין יכול לקבוע מהירות לכל היצירה, יכול לקבוע מהירויות שונות בפרקים שונים ביצירה, ויכול אף לקבוע מהירות שונה גם במספר תיבות ביצירה או אפילו לפרזה מושרת אחת.<br>
 	הטמפו נקבע לפי מספר יחידות המפעם בדקה. ומסומן באותיות&nbsp;<span dir="ltr">M.M</span>&nbsp;מטרונום מלצל ע"ש ממציאו של המטרונום&nbsp;<span dir="ltr">Johann Nepomuk Mälzel</span> בשנת&nbsp; 1808 .</span></strong></div>
@@ -119,8 +119,7 @@ isHome: false
 	<br>
 	<br>
 	<br>
-	<a href="/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%AA%D7%95%D7%99%D7%9D%2D%D7%95%D7%94%D7%93%D7%9E%D7%99%D7%9E%D7%95%D7%AA.html"><br>
-	<span style="font-size:12px;"><strong><span style="color: rgb(0, 0, 255);">&nbsp;<span style="font-size:14px;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></span></strong></span></a><span style="font-size:12px;"><strong>&nbsp;</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style="font-size:12px;"><span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size:14px;"><a href="/test/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%90%D7%95%D7%99%D7%A8%D7%94.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></span></strong><br>
+	<span style="font-size:12px;"><strong>&nbsp;</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
 	<strong><span style="font-size: 14px">&nbsp;</span></strong></div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">
 </script>

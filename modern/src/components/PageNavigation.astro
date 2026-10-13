@@ -1,0 +1,17 @@
+---
+import { pageUrl, readingNeighbors } from '../lib/reading-order';
+
+interface Props { route: string }
+const { previous, next } = readingNeighbors(Astro.props.route);
+---
+
+<nav class="page-navigation" aria-label="ניווט בין עמודים" dir="rtl">
+	{previous ? <a rel="prev" href={pageUrl(previous.route)}>חזרה לדף קודם: {previous.title}</a> : <span></span>}
+	<a href="/test/topics.html">רשימת הנושאים</a>
+	{next ? <a rel="next" href={pageUrl(next.route)}>המשך בעמוד הבא: {next.title}</a> : <span></span>}
+</nav>
+
+<style>
+	.page-navigation { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: start; gap: 1rem; margin-top: 1.5rem; padding-block: 1rem; border-top: 1px solid #ddd; }
+	.page-navigation a { max-width: 45%; }
+</style>

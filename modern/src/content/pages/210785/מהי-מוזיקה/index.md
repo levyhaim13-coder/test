@@ -20,7 +20,7 @@ isHome: false
 <div>
 	&nbsp;</div>
 <div style="text-align: justify;">
-	<span style="font-size: 14px"><a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94.docx?id=9866383"><u><span style="color: #008080"><strong>מוזיקה</strong></span></u><span style="color: #0000cd">&nbsp;</span></a><strong>- </strong><span style="color: #0000cd"><strong><span dir="ltr">Music</span></strong><strong>- </strong></span><span style="color: #ff0000"><strong>היא אמנות סידור הצליל והשקט במרחב הזמן.</strong></span><strong>&nbsp;&nbsp;</strong></span></div>
+	<span style="font-size: 14px"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94.docx?id=9866383"><u><span style="color: #008080"><strong>מוזיקה</strong></span></u><span style="color: #0000cd">&nbsp;</span></a><strong>- </strong><span style="color: #0000cd"><strong><span dir="ltr">Music</span></strong><strong>- </strong></span><span style="color: #ff0000"><strong>היא אמנות סידור הצליל והשקט במרחב הזמן.</strong></span><strong>&nbsp;&nbsp;</strong></span></div>
 <div style="text-align: justify;">
 	<span style="font-size:14px;"><strong>המונח מוזיקה בא מהמילה היוונית <span dir="ltr">Μουσα</span>= מוזה.<br>
 	ההגדרה המדוייקת למוזיקה אינה פשוטה, ונתונה לויכוח, שהרי רשימת הצלילים המוגדרים כמוזיקה משתנה עם הזמן, משתנה מעם אחד לעם אחר והיא אף נשמעת באופן שונה בכל תקופה ובין כל בני האדם באופן שונה..&nbsp; </strong></span></div>
@@ -62,7 +62,7 @@ isHome: false
 	&nbsp;<br>
 	<strong>המשך צפייה מהנה!&nbsp;</strong><br>
 	&nbsp;<br>
-	&nbsp;</span><span style="color:#0000cd;">&nbsp;</span><span style="font-size:14px;"><strong><a href="/test/210785/%D7%A2%D7%95%D7%9C%D7%9D%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"><span style="color:#0000cd;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u>&nbsp;</span></a></strong></span><span style="color:#0000ff;"><span style="font-size:12px;"><strong>&nbsp;</strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><span style="font-size:12px;"><a href="/test/210785/%D7%94%D7%A2%D7%95%D7%92%D7%94%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA"><span style="color: rgb(173,216,230)">&nbsp;</span></a><span style="font-size:14px;"><a href="/test/210785/%D7%94%D7%A2%D7%95%D7%92%D7%94%2D%D7%94%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99%D7%AA"><span style="color: rgb(0,0,255)">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></span></strong><br>
+	&nbsp;</span><span style="color:#0000cd;">&nbsp;</span><span style="color:#0000ff;"><span style="font-size:12px;"><strong>&nbsp;</strong></span></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
 	<span style="font-size: 14px">&nbsp;</span><br>
 	&nbsp;</div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">

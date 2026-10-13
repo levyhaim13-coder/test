@@ -18,7 +18,7 @@ isHome: false
 				<span face="">&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;<br>
 				<span style="color:#696969;"><span face="">בשיעורים הקודמים למדנו מהי מחמושת, מהו מפתח מוזיקלי, מהו צליל מוזיקלי, מהו סולם מוזיקלי מהם המושגים סוגי הסולמות, סימני הסולמות, ותבניות הסולם, למדנו על סולמות במז'ור, סולמות במינור, למדנו מהו סולם כרומטי,סולם פנטטוני,סולם טונלי ומיקרו טונלי,סולמות מקבילים,תדר מוזיקלי,טון מוזיקלי,למדנו על אופן החישוב של תדר&nbsp; מוזיקלי, למדנו מהו משקל מוזיקלי וכעת נעבור ונלמד מהו מרווח במוזיקה.</span></span><br>
 				&nbsp;<br>
-				<a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%A8%D7%95%D7%95%D7%97%D7%99%D7%9D.docx?id=9853686"></a><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/1111/%D7%9E%D7%A8%D7%95%D7%95%D7%97%20%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.doc?id=27549228"></a><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Musical theory/%D7%9E%D7%A8%D7%95%D7%95%D7%97%20%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.doc?id=27673817"><u><span style="color: #008080">מרווח במוזיקה</span></u></a><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Musical theory/%D7%9E%D7%A8%D7%95%D7%95%D7%97%20%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.doc?id=27673817"> </a>– <span dir="ltr">Interval</span>&nbsp;- <span style="color:#ff0000;">ההפרש בין גובהם של שני צלילים</span> .<br>
+				<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Musical theory/%D7%9E%D7%A8%D7%95%D7%95%D7%97%20%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99.doc?id=27673817"><u><span style="color: #008080">מרווח במוזיקה</span></u></a>– <span dir="ltr">Interval</span>&nbsp;- <span style="color:#ff0000;">ההפרש בין גובהם של שני צלילים</span> .<br>
 				גודלו של המרווח נמדד ביחידות מספריות. המרווח הקטן ביותר במוזיקה המערבית אירופאית הוא של חצי טון. כאשר שני טונים של המרווח נשמעים בזה אחר זה, המרווח הנו <span style="color:#0000cd;">מלודי</span>, וכשהם נשמעים בעת ובעונה אחת המרווח הנו <span style="color:#0000cd;">הרמוני</span>. שני מרווחים הרמוניים או יותר הנשמעים יחד הם <span style="color:#0000cd;">אקורד &nbsp;</span>ואקורדים הנשמעים יחד יוצרים<span style="color:#0000cd;"> הרמוניה</span>.<br>
 				המרווחים הנפוצים: פרימה זכה, סקונדה: קטנה/גדולה, טרצה: קטנה/גדולה, קוורטה זכה, טריטון, קווינטה זכה, סקסטה: קטנה/גדולה, ספטימה: קטנה/גדולה, אוקטבה זכה.</strong></span><br>
 				<span style="font-size: 14px"><strong>&nbsp;<br>
@@ -303,7 +303,7 @@ isHome: false
 						<td style="width: 161px; text-align: center;">
 							<div style="text-align: justify;">
 								<span style="font-size:10px;"><strong>ABBA-&nbsp;</strong></span><br>
-								<span style="font-size: 11px;"><b>The winner takes ut all&nbsp;</b></span><strong style="font-size: 11px; font-family: arial, sans-serif; white-space: nowrap;"><a href="https://www.azlyrics.com/lyrics/abba/thewinnertakesitall.html" style="color: rgb(102, 0, 153); cursor: pointer; text-decoration-line: none;"><span dir="ltr" style="unicode-bidi: isolate;">&nbsp;</span></a></strong></div>
+								<span style="font-size: 11px;"><b>The winner takes ut all&nbsp;</b></span><strong style="font-size: 11px; font-family: arial, sans-serif; white-space: nowrap;"></strong></div>
 							<div style="text-align: justify;">
 								<span style="display: none;">&nbsp;</span><span style="font-size:11px;"><strong>&nbsp;</strong></span><br>
 								<span style="color:#000000;"><span style="font-size:11px;"><strong>&nbsp;</strong></span></span></div>
@@ -509,7 +509,7 @@ isHome: false
 			&nbsp;<br>
 			<span face="">המשך צפייה מהנה!</span></strong></span><br>
 			<br>
-			<span style="font-size:14px;"><strong><a href="/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%99%D7%AA%D7%A7">&nbsp;</a></strong><a href="/test/210785/%D7%A1%D7%99%D7%9E%D7%A0%D7%99%2D%D7%94%D7%99%D7%AA%D7%A7"><span style="color: rgb(0, 0, 255);">&nbsp;<u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span>&nbsp;</a></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="font-size:14px;"><a href="/test/%D7%A4%D7%A8%D7%99%D7%9E%D7%94%2D%D7%96%D7%9B%D7%94.html"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span><br>
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><br>
 			<span style="font-size: 14px"><strong>&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;<br>

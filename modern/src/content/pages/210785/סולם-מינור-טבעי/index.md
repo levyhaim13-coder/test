@@ -31,7 +31,7 @@ isHome: false
 			<br>
 			<span face="">סולם זה בנוי לפי סדר מרווחי טונים קבוע, להלן התבנית:&nbsp;&nbsp;</span><br>
 			<span face="">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
-			תבנית מינור טבעי :&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ff0000">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp; 0.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;1&nbsp;&nbsp;&nbsp;&nbsp; 0.5&nbsp;&nbsp;&nbsp; 1&nbsp;</span>&nbsp;&nbsp;&nbsp;<a href="/test/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%9C%D7%9D%20%D7%9E%D7%99%D7%A0%D7%95%D7%A8%20%D7%98%D7%91%D7%A2%D7%99.mid?id=9947494"><img border="0" height="22" src="/test/image/users/210785/ftp/my_files/%D7%A1%D7%9E%D7%9C%20%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94.jpg?id=9947241" width="21"></a>&nbsp;&nbsp;</span><br>
+			תבנית מינור טבעי :&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #ff0000">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp; 0.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;1&nbsp;&nbsp;&nbsp;&nbsp; 0.5&nbsp;&nbsp;&nbsp; 1&nbsp;</span>&nbsp;&nbsp;&nbsp;<a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%9C%D7%9D%20%D7%9E%D7%99%D7%A0%D7%95%D7%A8%20%D7%98%D7%91%D7%A2%D7%99.mid?id=9947494"><img border="0" height="22" src="/test/image/users/210785/ftp/my_files/%D7%A1%D7%9E%D7%9C%20%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94.jpg?id=9947241" width="21"></a>&nbsp;&nbsp;</span><br>
 			<br>
 			להלן התוים:<br>
 			<span face="">&nbsp;</span><span face="">&nbsp;</span></strong></span><img alt="" border="0" height="67" src="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%A1%D7%95%D7%9C%D7%9D%20%D7%9E%D7%99%D7%A0%D7%95%D7%A8%20%D7%98%D7%91%D7%A2%D7%99-3.png" width="434"><br>
@@ -40,7 +40,7 @@ isHome: false
 			<br>
 			<span style="font-size: 14px"><strong><span face="">המשך צפייה מהנה!<br>
 			&nbsp;</span></strong></span><br>
-			<span style="color: rgb(0, 0, 255);">&nbsp;<span style="font-size:14px;"><strong><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%96%2D%D7%95%D7%A8"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></a></strong></span></span><span style="font-size:14px;"><strong>&nbsp; </strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%99%D7%A0%D7%95%D7%A8%2D%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99"><span style="color:#0000cd;">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%99%D7%A0%D7%95%D7%A8%2D%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99"><span style="color:#0000cd;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></strong></div>
+			<span style="font-size:14px;"><strong>&nbsp; </strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 	</div>
 </div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">

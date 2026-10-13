@@ -20,7 +20,7 @@ isHome: false
 				<div>
 					<span style="font-size: 14px"><strong>&nbsp;</strong></span></div>
 				<div>
-					<span style="font-size: 14px"><strong><span dir="rtl"><a href="/test/image/users/210785/ftp/my_files/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94.docx?id=9865702"></a><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/1111/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94.doc?id=27549079"></a><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Musical theory/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94.doc?id=27673796"><u><span style="color: #008080">דיקציה</span></u></a><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/1111/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94.doc?id=27549079"> </a>-&nbsp;</span><span dir="rtl">&nbsp;<span style="color:#ff0000;">זוהי הטכניקה של&nbsp;הבעת המילים בצורה נכונה ויישומם בתוך הצלילים...</span></span></strong></span></div>
+					<span style="font-size: 14px"><strong><span dir="rtl"><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Musical theory/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94.doc?id=27673796"><u><span style="color: #008080">דיקציה</span></u></a>-&nbsp;</span><span dir="rtl">&nbsp;<span style="color:#ff0000;">זוהי הטכניקה של&nbsp;הבעת המילים בצורה נכונה ויישומם בתוך הצלילים...</span></span></strong></span></div>
 				<div>
 					<span style="font-size: 14px"><strong><span dir="rtl"><span dir="rtl">הדיקציה הינה אחד הדברים הקשים בשירה ובשירת מקהלה בפרט.</span></span><span dir="rtl"> על מנת שאדם יוכל לשיר נכון ומדוייק הוא חייב&nbsp;</span></strong></span><strong style="font-size: 14px; "><span dir="rtl">קודם ללמוד את ההגייה הנכונה של המילים בתוך הצלילים כפי שציין</span><span dir="rtl"> זאת&nbsp;המלחין . </span><span dir="rtl">הגייה זו יכולה להשתנות בין שפה אחת לרעותה ולכל שפה הגייה שונה.</span></strong></div>
 				<div>
@@ -123,7 +123,7 @@ isHome: false
 					<br>
 					המשך צפייה מהנה!&nbsp;</span></strong></span><br>
 					<br>
-					<span style="color: rgb(0, 0, 255);"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/test/210785/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94%2D%D7%91%D7%A9%D7%A4%D7%94%2D%D7%94%D7%9C%D7%98%D7%99%D7%A0%D7%99%D7%AA"> &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="http://my.enter-system.com/210785/%D7%A6%D7%95%D7%A8%D7%AA-%D7%94%D7%9C%D7%99%D7%9E%D7%95%D7%93"></a><a href="/test/210785/%D7%93%D7%99%D7%A7%D7%A6%D7%99%D7%94%2D%D7%91%D7%A9%D7%A4%D7%94%2D%D7%94%D7%9C%D7%98%D7%99%D7%A0%D7%99%D7%AA"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></div>
+					&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 				<div>
 					&nbsp;</div>
 			</div>

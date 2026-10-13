@@ -7,6 +7,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "check:navigation": "node scripts/verify-navigation.mjs",
     "preview": "astro preview",
     "migrate:content": "node --max-old-space-size=4096 ../extract.mjs",
     "astro": "astro"

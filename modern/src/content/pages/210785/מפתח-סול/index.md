@@ -18,7 +18,7 @@ isHome: false
 	<div class="tool_text" style="padding: 2px; text-align: justify;">
 		<span style="font-size:14px;"><span style="color:#696969;"><strong>לאחר שבפגישה הקודמת למדנו על המושגים: מחמושת ומפתח מוזיקלי, נתקדם ונלמד על אחד מסוגי המפתחות&nbsp;המכונה- מפתח סול.&nbsp;</strong></span><br>
 		<br>
-		<span style="color: #008080"><u><a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%A1%D7%95%D7%9C.docx?id=9961581"><strong>מפתח סול</strong></a></u></span><u><a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%A1%D7%95%D7%9C.doc?id=9844384"></a></u><strong><span style="color: #008080"><u><a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%A1%D7%95%D7%9C.doc?id=9844384"></a><a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%A1%D7%95%D7%9C.doc?id=9844384"> </a></u></span><u><a href="/test/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%A1%D7%95%D7%9C.doc?id=9844384"></a></u>–</strong></span><br>
+		<span style="color: #008080"><u><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%9E%D7%A4%D7%AA%D7%97%20%D7%A1%D7%95%D7%9C.docx?id=9961581"><strong>מפתח סול</strong></a></u></span><u></u><strong><span style="color: #008080"><u></u></span><u></u>–</strong></span><br>
 		<img height="74px;" src="https://lh4.googleusercontent.com/6Vr-OQs-rY4yqjpzV3WVSm1ezlY2Nx-al3sDi4SUNF2dpY6RHXJAadxfaPAt7_hVOnKriDdmJUlarNNKBma56KPiPflK4G0puKi7SAloA0LG7_psUPz3dVM__IPHXj1w0TRrT93ZZQenwMhfZTRb" width="78px;"><br>
 		<span style="font-size:14px;"><span style="color: #ff0000"><strong>הוא סימן גראפי ב</strong></span></span><strong style="color: rgb(255, 0, 0); font-size: 14px;">ינלאומי אשר מסומן בתחילת המחמושת ואשר מגדיר למעשה את&nbsp;מיקומו של הצליל&nbsp;סול&nbsp; באוקטבה הראשונה .</strong></div>
 	<div class="tool_text" style="padding: 2px; text-align: justify;">
@@ -53,7 +53,7 @@ isHome: false
 		<br>
 		<span style="font-size: 14px"><strong>המשך צפייה מהנה!</strong><br>
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br>
-		<a href="/test/%D7%A1%D7%95%D7%92%D7%99%2D%D7%9E%D7%A4%D7%AA%D7%97%D7%95%D7%AA.html"><span style="color: rgb(0, 0, 255);">&nbsp;<span style="font-size:14px;"><strong><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></strong></span></span></a><span style="font-size:14px;"><strong>&nbsp;</strong>&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:14px;"><strong><a href="/test/210785/%D7%9E%D7%A4%D7%AA%D7%97%2D%D7%A4%D7%94"> &nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></strong></span></div>
+		<span style="font-size:14px;"><strong>&nbsp;</strong>&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
 </div>
 <script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">
 </script><script src="chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js">

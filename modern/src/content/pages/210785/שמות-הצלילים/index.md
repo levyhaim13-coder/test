@@ -12,7 +12,7 @@ isHome: false
 <div class="sortableLayout" id="sortableLayoutDragDrop" valign="top">
 	<div class="tool_text" id="dr4r3_text_1297101228959" style="padding-bottom: 2px; padding-left: 2px; padding-right: 2px; padding-top: 2px">
 		<div style="text-align: justify;">
-			<span style="font-size: 14px"><strong><a href="/test/210785/%D7%AA%D7%9B%D7%95%D7%A0%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C"></a><a href="/test/210785/%D7%AA%D7%9B%D7%95%D7%A0%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C"></a>צופים יקרים!</strong></span></div>
+			<span style="font-size: 14px"><strong>צופים יקרים!</strong></span></div>
 		<div style="text-align: justify;">
 			<strong><span style="font-size: 14px;"><span style="color: rgb(105, 105, 105);"><span face="">לאחר שלמדנו מהי המחמושת, מהו מפתח מוזיקלי, מהם תכונותיו של הצליל המוזיקלי, נעבור כעת ונלמד על שמות הצלילים :&nbsp;</span></span></span></strong></div>
 		<div style="text-align: justify;">
@@ -82,9 +82,7 @@ isHome: false
 			<p style="text-align: justify;">
 				<span style="font-size: 14px"><strong>המשך צפייה מהנה!</strong></span><br>
 				&nbsp;</p>
-			<p style="text-align: justify;">
-				<span style="font-size:14px;">&nbsp;<a href="/test/210785/%D7%AA%D7%9B%D7%95%D7%A0%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C"></a><a href="/test/210785/%D7%AA%D7%9B%D7%95%D7%A0%D7%95%D7%AA%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C"></a><strong><span style="font-family:arial,helvetica,sans-serif;"><a href="/test/%D7%AA%D7%9B%D7%95%D7%A0%D7%AA%2D%D7%94%D7%92%D7%95%D7%95%D7%9F.html"><span style="color:#0000ff;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></a></span></strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="color: rgb(173,216,230)">&nbsp;</span><span style="font-size:14px;"><strong><span style="font-family:arial,helvetica,sans-serif;"><a href="/test/%D7%92%D7%91%D7%94%D7%99%2D%D7%94%D7%A6%D7%9C%D7%99%D7%9C%D7%99%D7%9D.html"><span style="color:#0000ff;">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span></strong></span><br>
-				&nbsp;</p>
+
 		</div>
 	</div>
 </div>

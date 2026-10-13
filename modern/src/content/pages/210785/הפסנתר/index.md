@@ -19,7 +19,7 @@ isHome: false
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong></span></div>
 			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><a href="/test/image/users/210785/ftp/my_files/%D7%94%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8.docx?id=9871166"><u><span style="color: #008080">הפסנתר</span></u> </a>– <font color="#ff0000">הוא כלי נגינה ממשפחת כלי המקלדת שהומצא בעשור האחרון של המאה ה-17. מנעד הצלילים של&nbsp;</font></strong></span><strong style="font-size: 14px;"><font color="#ff0000">הפסנתר הוא הגדול ביותר מבין כל כלי הנגינה (מלבד הנבל), מנעד זה מכיל 9 אוקטבות.</font></strong></div>
+				<span style="font-size: 14px"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/%D7%94%D7%A4%D7%A1%D7%A0%D7%AA%D7%A8.docx?id=9871166"><u><span style="color: #008080">הפסנתר</span></u> </a>– <font color="#ff0000">הוא כלי נגינה ממשפחת כלי המקלדת שהומצא בעשור האחרון של המאה ה-17. מנעד הצלילים של&nbsp;</font></strong></span><strong style="font-size: 14px;"><font color="#ff0000">הפסנתר הוא הגדול ביותר מבין כל כלי הנגינה (מלבד הנבל), מנעד זה מכיל 9 אוקטבות.</font></strong></div>
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong>(רוב הפסנתרים בעלי&nbsp;88&nbsp;קלידים, ומתפרסים עד לה נמוך במפתח פה, אוקטבה מתחת לשישה קווי עזר נוספים&nbsp;</strong></span><strong style="font-size: 14px;">לחמשה, ועד דו גבוה במפתח סול- שתי אוקטבות מעל ל-9 קווי עזר נוספים לחמשה.</strong></div>
 			<div style="text-align: justify;">
@@ -138,9 +138,7 @@ isHome: false
 				&nbsp;</div>
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong>המשך צפייה מהנה!</strong></span></div>
-			<div style="text-align: justify;">
-				<br>
-				<span style="color:#0000cd;"><span style="font-size:14px;"><strong>&nbsp;</strong></span></span><span style="font-size:14px;"><strong><a href="/test/210785/%D7%94%D7%99%D7%A4%D7%95%D7%9A%2D%D7%95%D7%9E%D7%A8%D7%95%D7%95%D7%97%2D%D7%94%D7%A9%D7%9C%D7%9E%D7%94"><span style="color:#0000cd;"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span></a></strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="color: rgb(173, 216, 230);">&nbsp;</span><strong><span style="color:#0000cd;"><span style="font-size:14px;"><a href="/test/210785/%D7%A7%D7%95%D7%A0%D7%A1%D7%95%D7%A0%D7%A0%D7%A1%2D%D7%95%D7%93%D7%99%D7%A1%D7%95%D7%A0%D7%A0%D7%A1">המשך בעמוד הבא &gt;&gt;&gt;</a></span></span></strong><span style="font-size:14px;"><a href="/test/210785/%D7%A7%D7%95%D7%A0%D7%A1%D7%95%D7%A0%D7%A0%D7%A1%2D%D7%95%D7%93%D7%99%D7%A1%D7%95%D7%A0%D7%A0%D7%A1"></a></span></div>
+
 			<div>
 				&nbsp;</div>
 		</div>

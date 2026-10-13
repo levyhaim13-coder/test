@@ -19,7 +19,7 @@ isHome: false
 			<div style="text-align: justify;">
 				&nbsp;</div>
 			<div style="text-align: justify;">
-				<span style="font-size: 14px"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/1111/%D7%94%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94.doc?id=27549082"></a><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Musical theory/%D7%94%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94.doc?id=27673798"><span style="color:#006400;">אוקטבה</span></a><span style="color:#006400;">&nbsp;זכה</span>&nbsp;-&nbsp;<span style="color: #ff0000">המונח הנו לטיני אוקטט –שמינייה, כלומר, מנעד של 8 צלילים מצליל נתון לצליל הבא באוקטבה הבאה אם בעליה ואם בירידה ובסה"כ מרווח של 6 טון.&nbsp;</span><br>
+				<span style="font-size: 14px"><strong><a href="https://sfilev2.f-static.com/image/users/210785/ftp/my_files/Musical theory/%D7%94%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94.doc?id=27673798"><span style="color:#006400;">אוקטבה</span></a><span style="color:#006400;">&nbsp;זכה</span>&nbsp;-&nbsp;<span style="color: #ff0000">המונח הנו לטיני אוקטט –שמינייה, כלומר, מנעד של 8 צלילים מצליל נתון לצליל הבא באוקטבה הבאה אם בעליה ואם בירידה ובסה"כ מרווח של 6 טון.&nbsp;</span><br>
 				מבין כל המרווחים הקיימים במוזיקה המערבית, יש לאוקטבה עדיפות מוחלטת, שבאה לביטוי בקיום שם זהה לשני הצלילים המרכיבים אותה, ובכך שהיא קובעת מחזוריות במערכת&nbsp;הצלילים המסודרים לפי הגובה. </strong></span></div>
 			<div style="text-align: justify;">
 				<span style="font-size: 14px"><strong>האוקטבה כמרווח הרמוני נחשבה ונחשבת למרווח הקונסוננטי ביותר, האוקטבה כונתה ביוון העתיקה&nbsp;בשם&nbsp;</strong></span><strong style="font-size: 14px;">הרמוניה. במשך כל ההיסטוריה חזרו מידי פעם והדגישו את המקור הטבעי האקוסטי של האוקטבה.</strong></div>
@@ -93,11 +93,7 @@ isHome: false
 				<br>
 				<span style="font-size: 14px"><strong>המשך צפייה מהנה!&nbsp;</strong></span><br>
 				&nbsp;</div>
-			<p style="text-align: justify;">
-				<span style="font-size: 14px"><strong>&nbsp;</strong></span><a href="/test/210785/%D7%9E%D7%A8%D7%95%D7%95%D7%97%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"></a><a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%96%D7%9B%D7%94.html"></a><a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%96%D7%9B%D7%94.html"></a><span style="font-size:14px;"><a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%9B%D7%A4%D7%95%D7%9C%D7%94.html"><span style="color: rgb(0, 0, 255);">&nbsp;</span></a><a href="/test/210785/%D7%9E%D7%A8%D7%95%D7%95%D7%97%2D%D7%91%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%94"></a><a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%96%D7%9B%D7%94.html"></a><a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%9B%D7%A4%D7%95%D7%9C%D7%94.html"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></a><a href="/test/%D7%90%D7%95%D7%A7%D7%98%D7%91%D7%94%2D%D7%96%D7%9B%D7%94.html">&nbsp;</a></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:14px;"><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><span style="color: rgb(173, 216, 230);">&nbsp;</span></a><a href="/test/210785/%D7%9E%D7%9C%D7%95%D7%93%D7%99%D7%94"></a><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></a></span><a href="/test/210785/%D7%A1%D7%95%D7%9C%D7%9D%2D%D7%9E%D7%95%D7%96%D7%99%D7%A7%D7%9C%D7%99"></a><br>
-				<br>
-				<span style="font-size: 14px"><strong>&nbsp;<br>
-				&nbsp;</strong></span></p>
+
 		</div>
 	</div>
 </div>

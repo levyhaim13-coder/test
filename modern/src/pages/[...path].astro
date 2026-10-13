@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageNavigation from '../components/PageNavigation.astro';
 
 export async function getStaticPaths() {
 	const pages = await getCollection('pages', ({ data }) => !data.isHome);
@@ -24,4 +25,5 @@ const { Content } = await render(entry);
 		<tbody><tr><td><h1>{entry.data.title}</h1></td></tr></tbody>
 	</table>
 	<Content />
+	<PageNavigation route={entry.data.route} />
 </BaseLayout>

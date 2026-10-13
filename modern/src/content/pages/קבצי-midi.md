@@ -293,7 +293,7 @@ isHome: false
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Sopran</u></span></span></span></td>
 			<td style="width: 42px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Pdf</u></span></span></span></td>
 			<td style="width: 60px; text-align: center;"><span style="color:#0000FF;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:10px;"><u>Youtube</u></span></span></span></td>
-			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://my.enter-system.com/site/include/newfeel/website3/index.asp"><span style="color:#0000CD;"><span style="display: none;">&nbsp;</span><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></a></span></td>
+			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#0000CD;"><span style="display: none;">&nbsp;</span><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Enc</u></span></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">קישור</u></span></td>
 		</tr>
@@ -428,7 +428,7 @@ isHome: false
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Sopran</u></span></span></span></td>
 			<td style="width: 42px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Pdf</u></span></span></span></td>
 			<td style="width: 60px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.youtube.com/watch?v=5QfJC7bXeZw"><span style="color:#0000CD;"><span style="font-size:10px;"><u>Youtube</u></span></span></a></span></td>
-			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://my.enter-system.com/site/include/newfeel/website3/index.asp"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></a></span></td>
+			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Enc</u></span></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">קישור</u></span></td>
 		</tr>
@@ -443,7 +443,7 @@ isHome: false
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Sopran</u></span></span></span></td>
 			<td style="width: 42px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Pdf</u></span></span></span></td>
 			<td style="width: 60px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.youtube.com/watch?v=FjiMQbLheLE"><span style="color:#0000CD;"><span style="font-size:10px;"><u>Youtube</u></span></span></a></span></td>
-			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://my.enter-system.com/site/include/newfeel/website3/index.asp"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></a></span></td>
+			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Enc</u></span></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">קישור</u></span></td>
 		</tr>
@@ -473,7 +473,7 @@ isHome: false
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Sopran</u></span></span></span></td>
 			<td style="width: 42px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Pdf</u></span></span></span></td>
 			<td style="width: 60px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.youtube.com/watch?v=1_PVthK3Azo&amp;list=RD1_PVthK3Azo"><span style="color:#0000CD;"><span style="font-size:10px;"><u>Youtube</u></span></span></a></span></td>
-			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://my.enter-system.com/site/include/newfeel/website3/index.asp"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></a></span></td>
+			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Enc</u></span></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">קישור</u></span></td>
 		</tr>
@@ -488,7 +488,7 @@ isHome: false
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Sopran</u></span></span></span></td>
 			<td style="width: 42px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Pdf</u></span></span></span></td>
 			<td style="width: 60px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.youtube.com/watch?v=wYMYkKBg26U"><span style="color:#0000CD;"><span style="font-size:10px;"><u>Youtube</u></span></span></a></span></td>
-			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="https://my.enter-system.com/site/include/newfeel/website3/index.asp"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></a></span></td>
+			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">Cyber</u></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#000000;"><span style="font-size:10px;"><u>Enc</u></span></span></span></td>
 			<td style="width: 48px; text-align: center;"><span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.dycom-il.com/brahms-page.html"><span style="color:#0000CD;"><u style="font-size: 10px; text-align: center; background-color: rgb(242, 160, 53);">קישור</u></span></a></span></td>
 		</tr>
@@ -2663,8 +2663,8 @@ isHome: false
 <br>
 <span style="background-color: rgb(255, 255, 255); font-size: 14px;"><strong>המשך צפייה מהנה !&nbsp;</strong><br>
 &nbsp;<br>
-&nbsp;</span><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);">&nbsp;</span><strong><span style="background-color: rgb(255, 255, 255); font-size: 14px;"><span style="color: rgb(0, 0, 205);"><u>&lt;&lt;&lt; חזרה לדף קודם&nbsp;</u></span>&nbsp;</span></strong><span style="background-color: rgb(255, 255, 255);">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><a href="/test/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%9E%D7%97%D7%95%2D%D7%9C.html" style="text-align: left;"><span style="font-family: georgia, serif;"><strong><span style="font-family: arial, helvetica, sans-serif;"><span style="color: rgb(0, 0, 255);">המשך בעמוד הבא &gt;&gt;&gt;</span></span></strong></span></a><br>
+&nbsp;</span><span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);">&nbsp;</span><span style="background-color: rgb(255, 255, 255);">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br>
 <br>
-<a href="/test/%D7%9E%D7%9C%D7%97%D7%99%D7%A0%D7%99%D7%9D%2D%D7%9E%D7%97%D7%95%2D%D7%9C.html" style="text-align: left;"><span style="font-family:georgia,serif;"><strong><strong style="text-align: start; font-size: 14px;">&nbsp;</strong></strong></span></a></div>
+</div>
 </div></div></div>
 </div>
