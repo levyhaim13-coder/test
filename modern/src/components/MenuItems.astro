@@ -1,0 +1,23 @@
+---
+type MenuItem = { title: string; url: string; children: MenuItem[] };
+interface Props { items: MenuItem[]; root?: boolean }
+const { items, root = false } = Astro.props;
+const normalizeUrl = (value: string) => {
+	if (!value || value === '.') return '/test/';
+	if (/^(https?:|mailto:|tel:|javascript:)/i.test(value)) return value;
+	if (value.startsWith('/test/')) return value;
+	if (value.startsWith('/')) return `/test${value}`;
+	return `/test/${value.replace(/^\.\//, '')}`;
+};
+---
+
+<ul id={root ? 'MenuBar2' : undefined} class:list={[{ MenuBarHorizontal: root }]} aria-label={root ? 'ניווט ראשי' : undefined}>
+	{items.map((item) => (
+		<li>
+			<a class:list={[{ MenuBarItemSubmenu: item.children.length > 0 }]} href={normalizeUrl(item.url)}>
+				{root ? <div set:html={item.title} /> : <Fragment set:html={item.title} />}
+			</a>
+			{item.children.length > 0 && <Astro.self items={item.children} />}
+		</li>
+	))}
+</ul>

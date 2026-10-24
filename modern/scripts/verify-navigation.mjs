@@ -41,6 +41,12 @@ assert.equal(readingNeighbors('מוזיקת-הבלוז', '45').previous?.route, 
 assert.equal(readingNeighbors('מוזיקת-ג-אז', '37').next?.route, 'מוזיקת-הבלוז', 'Jazz in music types must continue to Blues');
 assert.equal(readingNeighbors('מוזיקת-ג-אז', '37').previous?.route, 'מוזיקת-פופ');
 assert.equal(readingNeighbors('מוזיקת-הבלוז', '37').previous?.route, 'מוזיקת-ג-אז');
+assert.equal(readingNeighbors('הופעה-מול-קהל-1').next?.route, '210785/תולדות-המוזיקה');
+assert.equal(readingNeighbors('210785/תולדות-המוזיקה').previous?.route, 'הופעה-מול-קהל');
+assert.equal(readingNeighbors('210785/המחמושת').next?.route, 'מחמושת-הגדרה');
+assert.equal(readingNeighbors('מחמושת-הגדרה').next?.route, 'צורת-המחמושת');
+assert.equal(readingNeighbors('210785/צלילי-המוזיקה').next?.route, 'צלילי-המוזיקה-הגדרה');
+assert.equal(readingNeighbors('צלילי-המוזיקה-הגדרה').next?.route, '210785/תכונות-הצליל');
 assert.deepEqual(readingNeighbors('210785/מונחים-מוזיקליים-1-1', '28'), readingNeighbors('210785/מונחים-מוזיקליים-1-1', '16'));
 assert.deepEqual(readingNeighbors('מוזיקת-הבלוז', 'invalid'), readingNeighbors('מוזיקת-הבלוז'));
 assert.deepEqual(readingNeighbors('מוזיקת-הבלוז', '1'), readingNeighbors('מוזיקת-הבלוז'));
@@ -49,12 +55,23 @@ for (const [alias, route] of Object.entries(aliases)) {
 	assert.deepEqual(readingNeighbors(`/${alias}/`), readingNeighbors(route), `Alias does not preserve neighbors: ${alias}`);
 }
 
+const originalMenu = JSON.parse(fs.readFileSync(path.join(root, '../menu.json'), 'utf8'));
+const expectedMenu = (items) => items.map((item) => ({
+ title: JSDOM.fragment(item.title).textContent.replace(/\s+/g, ' ').trim(),
+ url: new URL(item.url, 'https://levyhaim13-coder.github.io/test/').href,
+ children: expectedMenu(item.children),
+}));
+const renderedMenu = (list) => [...list.children].map((item) => {
+ const anchor = item.querySelector(':scope > a');
+ const children = item.querySelector(':scope > ul');
+ return {
+  title: anchor.textContent.replace(/\s+/g, ' ').trim(),
+  url: new URL(anchor.getAttribute('href'), 'https://levyhaim13-coder.github.io/test/').href,
+  children: children ? renderedMenu(children) : [],
+ };
+});
 const indexDocument = new JSDOM(fs.readFileSync(path.join(output, 'topics.html'), 'utf8')).window.document;
-for (const section of sections) {
-	for (const page of section.pages) {
-		assert([...indexDocument.querySelectorAll('a')].some((anchor) => anchor.getAttribute('href') === pageUrl(page.route, section.documentSections[0])), `Topic index loses section: ${page.title}`);
-	}
-}
+assert.deepEqual(renderedMenu(indexDocument.querySelector('#centerWebsiteDiv > table > tbody > tr > td > ul')), expectedMenu(originalMenu), 'Topic index changed the original category hierarchy');
 
 let checked = 0;
 for (const entry of fs.readdirSync(path.join(root, 'src/content/pages'), { recursive: true, withFileTypes: true })) {
@@ -65,10 +82,7 @@ for (const entry of fs.readdirSync(path.join(root, 'src/content/pages'), { recur
 	const dom = new JSDOM(fs.readFileSync(filename, 'utf8'), { url: `https://levyhaim13-coder.github.io${url(route)}` });
 	const document = dom.window.document;
 	if (checked === 0) {
-		const menuUrls = new Set([...document.querySelectorAll('#MenuBar2 a')].map((anchor) => anchor.getAttribute('href')));
-		for (const section of sections) for (const page of section.pages) {
-			assert(menuUrls.has(pageUrl(page.route, section.documentSections[0])), `Menu loses section: ${page.title}`);
-		}
+		assert.deepEqual(renderedMenu(document.querySelector('#MenuBar2')), expectedMenu(originalMenu), 'Menu titles, order, links or category hierarchy changed');
 	}
 	const navigation = document.querySelectorAll('.page-navigation');
 	assert.equal(navigation.length, 1, `Expected one shared navigation: ${route}`);
@@ -80,7 +94,7 @@ for (const entry of fs.readdirSync(path.join(root, 'src/content/pages'), { recur
 	}
 	assert(![...document.querySelectorAll('#centerWebsiteDiv code')].some((node) => /<a\b/.test(node.textContent) && /הבא|קודם/.test(node.textContent)), `Escaped navigation: ${route}`);
 	assert(![...document.querySelectorAll('#centerWebsiteDiv a')].some((anchor) => !anchor.closest('.page-navigation') && /חזרה לדף קודם|חזור בעמוד קודם|המשך בעמוד הבא/.test(anchor.textContent)), `Embedded navigation remains: ${route}`);
-	for (const anchor of document.querySelectorAll('a[href]')) {
+	for (const anchor of document.querySelectorAll('#centerWebsiteDiv a[href]')) {
 		const destination = new URL(anchor.href);
 		assert(!/enter-system\.com|s90\.upress\.link/.test(destination.hostname), `Obsolete host: ${route}`);
 		if (destination.origin !== 'https://levyhaim13-coder.github.io' || anchor.getAttribute('href').startsWith('#')) continue;
@@ -102,4 +116,4 @@ for (const entry of fs.readdirSync(path.join(root, 'src/content/pages'), { recur
 for (const page of sequence) {
 	assert(fs.existsSync(path.join(output, page.route ? `${page.route}.html` : 'index.html')), `Missing reading page: ${page.route}`);
 }
-console.log(`Verified ${checked} content pages and all ${sequence.length} document positions: valid destinations, reciprocal section-aware neighbors, no obsolete-host or escaped navigation.`);
+console.log(`Verified ${checked} content pages and all ${sequence.length} document positions: valid content/navigation destinations, reciprocal section-aware neighbors, original menu hierarchy unchanged.`);
