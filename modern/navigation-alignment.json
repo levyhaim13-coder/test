@@ -1,7 +1,7 @@
 {
   "source": "רשימת הנושאים באתר.docx",
   "sourceDate": "2026-10-08",
-  "rules": "First section occurrence; merge repeated sections; one reading-sequence entry per route; subsection topics stay in existing articles.",
+  "rules": "First section occurrence; merge repeated sections; one reading-sequence entry per route within each section; shared pages retain their section context; subsection topics stay in existing articles.",
   "topics": [
     {
       "section": "דברי הקדמה",
@@ -78,8 +78,8 @@
     {
       "section": "מחמושת",
       "topic": "מחמושת -הגדרה",
-      "route": "210785/המחמושת",
-      "kind": "within article"
+      "route": "מחמושת-הגדרה",
+      "kind": "page"
     },
     {
       "section": "מחמושת",
@@ -168,8 +168,8 @@
     {
       "section": "צלילי המוזיקה",
       "topic": "צלילי המוזיקה- הגדרה",
-      "route": "210785/צלילי-המוזיקה",
-      "kind": "within article"
+      "route": "צלילי-המוזיקה-הגדרה",
+      "kind": "page"
     },
     {
       "section": "צלילי המוזיקה",
@@ -3065,7 +3065,7 @@
     {
       "section": "סוגי מוזיקה שונים",
       "topic": "מוזיקת ג'אז",
-      "route": "מוזיקת-הג-אז",
+      "route": "מוזיקת-ג-אז",
       "kind": "page"
     },
     {

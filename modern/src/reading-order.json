@@ -7,13 +7,11 @@
     "pages": [
       {
         "title": "דברי הקדמה",
-        "route": "",
-        "inSequence": true
+        "route": ""
       },
       {
         "title": "צור קשר",
-        "route": "צור-קשר",
-        "inSequence": true
+        "route": "צור-קשר"
       }
     ]
   },
@@ -25,38 +23,31 @@
     "pages": [
       {
         "title": "צורת הלימוד",
-        "route": "210785/צורת-הלימוד",
-        "inSequence": true
+        "route": "210785/צורת-הלימוד"
       },
       {
         "title": "תרגום האתר",
-        "route": "תרגום-האתר-מעברית-לכל-שפה-אחרת",
-        "inSequence": true
+        "route": "תרגום-האתר-מעברית-לכל-שפה-אחרת"
       },
       {
         "title": "לומדים מוזיקה",
-        "route": "210785/לומדים-מוזיקה",
-        "inSequence": true
+        "route": "210785/לומדים-מוזיקה"
       },
       {
         "title": "עולם המוזיקה",
-        "route": "210785/עולם-המוזיקה",
-        "inSequence": true
+        "route": "210785/עולם-המוזיקה"
       },
       {
         "title": "מהי מוזיקה",
-        "route": "210785/מהי-מוזיקה",
-        "inSequence": true
+        "route": "210785/מהי-מוזיקה"
       },
       {
         "title": "העוגה המוזיקלית",
-        "route": "210785/העוגה-המוזיקלית",
-        "inSequence": true
+        "route": "210785/העוגה-המוזיקלית"
       },
       {
         "title": "אוזן שומעת",
-        "route": "210785/אוזן-שןמעת",
-        "inSequence": true
+        "route": "210785/אוזן-שןמעת"
       }
     ]
   },
@@ -68,8 +59,7 @@
     "pages": [
       {
         "title": "תיאוריה מוזיקלית",
-        "route": "210785/תיאורייה-מוזיקלית",
-        "inSequence": true
+        "route": "210785/תיאורייה-מוזיקלית"
       }
     ]
   },
@@ -81,33 +71,31 @@
     "pages": [
       {
         "title": "מחמושת",
-        "route": "210785/המחמושת",
-        "inSequence": true
+        "route": "210785/המחמושת"
+      },
+      {
+        "title": "מחמושת - הגדרה",
+        "route": "מחמושת-הגדרה"
       },
       {
         "title": "צורת המחמושת",
-        "route": "צורת-המחמושת",
-        "inSequence": true
+        "route": "צורת-המחמושת"
       },
       {
         "title": "קווי עזר במחמושת",
-        "route": "קוי-עזר-במחמושת",
-        "inSequence": true
+        "route": "קוי-עזר-במחמושת"
       },
       {
         "title": "גובה הקו במחמושת",
-        "route": "גובה-הצליל-במחמושת",
-        "inSequence": true
+        "route": "גובה-הצליל-במחמושת"
       },
       {
         "title": "מי המציא את המחמושת",
-        "route": "מי-המציא-את-המחמושת",
-        "inSequence": true
+        "route": "מי-המציא-את-המחמושת"
       },
       {
         "title": "זהה את שם הצליל במחמושת",
-        "route": "זהה-את-שם-הצליל-1-1",
-        "inSequence": true
+        "route": "זהה-את-שם-הצליל-1-1"
       }
     ]
   },
@@ -119,38 +107,31 @@
     "pages": [
       {
         "title": "מפתח מוזיקלי",
-        "route": "210785/מפתח-מוזיקלי",
-        "inSequence": true
+        "route": "210785/מפתח-מוזיקלי"
       },
       {
         "title": "סוגי מפתחות",
-        "route": "סוגי-מפתחות",
-        "inSequence": true
+        "route": "סוגי-מפתחות"
       },
       {
         "title": "מפתח סול",
-        "route": "210785/מפתח-סול",
-        "inSequence": true
+        "route": "210785/מפתח-סול"
       },
       {
         "title": "מפתח פה",
-        "route": "210785/מפתח-פה",
-        "inSequence": true
+        "route": "210785/מפתח-פה"
       },
       {
         "title": "מפתח דו",
-        "route": "210785/מפתח-דו",
-        "inSequence": true
+        "route": "210785/מפתח-דו"
       },
       {
         "title": "מפתח הקשה",
-        "route": "מפתח-להקשה",
-        "inSequence": true
+        "route": "מפתח-להקשה"
       },
       {
         "title": "צורת המפתחות",
-        "route": "צורת-המפתחות",
-        "inSequence": true
+        "route": "צורת-המפתחות"
       }
     ]
   },
@@ -162,78 +143,67 @@
     "pages": [
       {
         "title": "צלילי המוזיקה",
-        "route": "210785/צלילי-המוזיקה",
-        "inSequence": true
+        "route": "210785/צלילי-המוזיקה"
+      },
+      {
+        "title": "צלילי המוזיקה-הגדרה",
+        "route": "צלילי-המוזיקה-הגדרה"
       },
       {
         "title": "תכונות הצליל",
-        "route": "210785/תכונות-הצליל",
-        "inSequence": true
+        "route": "210785/תכונות-הצליל"
       },
       {
         "title": "תכונות הגובה",
-        "route": "תכונת-הגובה",
-        "inSequence": true
+        "route": "תכונת-הגובה"
       },
       {
         "title": "תכונת העוצמה",
-        "route": "תכונת-העוצמה",
-        "inSequence": true
+        "route": "תכונת-העוצמה"
       },
       {
         "title": "תכונת המשך",
-        "route": "תכונת-המשך",
-        "inSequence": true
+        "route": "תכונת-המשך"
       },
       {
         "title": "תכונת הגוון",
-        "route": "תכונת-הגוון",
-        "inSequence": true
+        "route": "תכונת-הגוון"
       },
       {
         "title": "שמות הצלילים",
-        "route": "210785/שמות-הצלילים",
-        "inSequence": true
+        "route": "210785/שמות-הצלילים"
       },
       {
         "title": "7 גבהי הצלילים",
-        "route": "גבהי-הצלילים",
-        "inSequence": true
+        "route": "גבהי-הצלילים"
       },
       {
         "title": "12 הצלילים",
-        "route": "210785/12-הצלילים",
-        "inSequence": true
+        "route": "210785/12-הצלילים"
       },
       {
         "title": "7 צלילי יסוד",
-        "route": "7-צליל-יסוד",
-        "inSequence": true
+        "route": "7-צליל-יסוד"
       },
       {
         "title": "5 סימני היתק",
-        "route": "210785/סימני-היתק",
-        "inSequence": true
+        "route": "210785/סימני-היתק"
       },
       {
         "title": "שמות סימני ההיתק",
-        "route": "שמות-סימני-ההיתק",
-        "inSequence": true
+        "route": "שמות-סימני-ההיתק"
       },
       {
         "title": "סימני היתק - דיאזים",
-        "route": "סימני-היתק-בסולם-דיאזים",
-        "inSequence": true
+        "route": "סימני-היתק-בסולם-דיאזים"
       },
       {
         "title": "סימני היתק -במולים",
-        "route": "סימני-היתק-בסולם-במולים",
-        "inSequence": true
+        "route": "סימני-היתק-בסולם-במולים"
       },
       {
         "title": "תנודות הצליל -אופן החישוב",
-        "route": "תנודות-הצליל",
-        "inSequence": true
+        "route": "תנודות-הצליל"
       }
     ]
   },
@@ -245,53 +215,43 @@
     "pages": [
       {
         "title": "משקל במוזיקה",
-        "route": "משקל-במוזיקה-1-1-1-1-1",
-        "inSequence": true
+        "route": "משקל-במוזיקה-1-1-1-1-1"
       },
       {
         "title": "משקל זוגי",
-        "route": "משקל-במוזיקה-1",
-        "inSequence": true
+        "route": "משקל-במוזיקה-1"
       },
       {
         "title": "משקל משולש",
-        "route": "משקל-משולש",
-        "inSequence": true
+        "route": "משקל-משולש"
       },
       {
         "title": "משקל מעורב",
-        "route": "משקל",
-        "inSequence": true
+        "route": "משקל"
       },
       {
         "title": "משקל זוגי-שינוי במכנה",
-        "route": "משקל-זוגי-שינוי-במכנה-1-1",
-        "inSequence": true
+        "route": "משקל-זוגי-שינוי-במכנה-1-1"
       },
       {
         "title": "משקל משולש- שינוי במכנה",
-        "route": "משקל-משולש-שינוי-במכנה",
-        "inSequence": true
+        "route": "משקל-משולש-שינוי-במכנה"
       },
       {
         "title": "משקל מעורב- שינוי במכנה",
-        "route": "משקל-מעורב-שינוי-במכנה",
-        "inSequence": true
+        "route": "משקל-מעורב-שינוי-במכנה"
       },
       {
         "title": "משקל מתחלף",
-        "route": "משקל-מתחלף",
-        "inSequence": true
+        "route": "משקל-מתחלף"
       },
       {
         "title": "משקלות בעלי אותו ערך מתמטי",
-        "route": "משקלות-בעלי-אותו-ערך-מתמטי",
-        "inSequence": true
+        "route": "משקלות-בעלי-אותו-ערך-מתמטי"
       },
       {
         "title": "טבלה – סוגי משקלות",
-        "route": "טבלה-סוגי-משקלות",
-        "inSequence": true
+        "route": "טבלה-סוגי-משקלות"
       }
     ]
   },
@@ -303,98 +263,79 @@
     "pages": [
       {
         "title": "סולם במוזיקה",
-        "route": "210785/סולם-מוזיקלי",
-        "inSequence": true
+        "route": "210785/סולם-מוזיקלי"
       },
       {
         "title": "סוגי הסולמות",
-        "route": "210785/סוגי-סולמות",
-        "inSequence": true
+        "route": "210785/סוגי-סולמות"
       },
       {
         "title": "סימני הסולמות",
-        "route": "210785/סימני-הסולמות",
-        "inSequence": true
+        "route": "210785/סימני-הסולמות"
       },
       {
         "title": "תבנית הסולם",
-        "route": "210785/תבנית-הסולם",
-        "inSequence": true
+        "route": "210785/תבנית-הסולם"
       },
       {
         "title": "סימני היתק בסולם",
-        "route": "210785/סימני-ההיתק-בסולם",
-        "inSequence": true
+        "route": "210785/סימני-ההיתק-בסולם"
       },
       {
         "title": "סולם מז'ור",
-        "route": "210785/סולם-מז-ור",
-        "inSequence": true
+        "route": "210785/סולם-מז-ור"
       },
       {
         "title": "סולם מינור טבעי",
-        "route": "210785/סולם-מינור-טבעי",
-        "inSequence": true
+        "route": "210785/סולם-מינור-טבעי"
       },
       {
         "title": "סולם מינור הרמוני",
-        "route": "210785/סולם-מינור-הרמוני",
-        "inSequence": true
+        "route": "210785/סולם-מינור-הרמוני"
       },
       {
         "title": "סולם מינור מלודי",
-        "route": "210785/סולם-מינור-מלודי",
-        "inSequence": true
+        "route": "210785/סולם-מינור-מלודי"
       },
       {
         "title": "סולם כרומטי",
-        "route": "210785/סולם-כרומטי",
-        "inSequence": true
+        "route": "210785/סולם-כרומטי"
       },
       {
         "title": "סולם פנטטוני",
-        "route": "210785/סולם-פנטטוני",
-        "inSequence": true
+        "route": "210785/סולם-פנטטוני"
       },
       {
         "title": "סולם טונלי",
-        "route": "210785/סולם-טונלי-ומיקרוטונלי",
-        "inSequence": true
+        "route": "210785/סולם-טונלי-ומיקרוטונלי"
       },
       {
         "title": "סולמות מקבילים",
-        "route": "210785/סולמות-מקבילים",
-        "inSequence": true
+        "route": "210785/סולמות-מקבילים"
       },
       {
         "title": "דרגות הסולם",
-        "route": "210785/דרגות-הסולם",
-        "inSequence": true
+        "route": "210785/דרגות-הסולם"
       },
       {
         "title": "מנעד מוזיקלי",
-        "route": "210785/מנעד-מוזיקלי",
-        "inSequence": true
+        "route": "210785/מנעד-מוזיקלי"
       },
       {
         "title": "החלפת סולמות",
-        "route": "החלפת-סולמות",
-        "inSequence": true
+        "route": "החלפת-סולמות"
       },
       {
         "title": "צירופי סולמות",
-        "route": "210785/צירופי-סולמות",
-        "inSequence": true
+        "route": "210785/צירופי-סולמות"
       },
       {
         "title": "טרנספוזיציה - השאה",
-        "route": "210785/טרנספוזיציה",
-        "inSequence": true
+        "route": "210785/טרנספוזיציה"
       },
       {
         "title": "סולם המקאם הערבי",
-        "route": "סולמות-המקאם-הערבי",
-        "inSequence": true
+        "route": "סולמות-המקאם-הערבי"
       }
     ]
   },
@@ -406,43 +347,35 @@
     "pages": [
       {
         "title": "מודוסים",
-        "route": "מודוסים-1",
-        "inSequence": true
+        "route": "מודוסים-1"
       },
       {
         "title": "מודוס יוני",
-        "route": "מודוס-יוני",
-        "inSequence": true
+        "route": "מודוס-יוני"
       },
       {
         "title": "מודוס דורי",
-        "route": "מודוס-דורי",
-        "inSequence": true
+        "route": "מודוס-דורי"
       },
       {
         "title": "מודוס פריגי",
-        "route": "מודוס-פריגי",
-        "inSequence": true
+        "route": "מודוס-פריגי"
       },
       {
         "title": "מודוס איאולי",
-        "route": "מודוס-איאולי-1",
-        "inSequence": true
+        "route": "מודוס-איאולי-1"
       },
       {
         "title": "מודוס לידי",
-        "route": "מודוס-לידי",
-        "inSequence": true
+        "route": "מודוס-לידי"
       },
       {
         "title": "מודוס מיקסולידי",
-        "route": "מודוס-מיקסולידי",
-        "inSequence": true
+        "route": "מודוס-מיקסולידי"
       },
       {
         "title": "מודוס לוקרי",
-        "route": "מודוס-לוקרי",
-        "inSequence": true
+        "route": "מודוס-לוקרי"
       }
     ]
   },
@@ -454,8 +387,7 @@
     "pages": [
       {
         "title": "מעגל הקוינטות",
-        "route": "מעגל-הקוינטות-1-1",
-        "inSequence": true
+        "route": "מעגל-הקוינטות-1-1"
       }
     ]
   },
@@ -467,113 +399,91 @@
     "pages": [
       {
         "title": "מרווח במוזיקה",
-        "route": "210785/מרווח-במוזיקה",
-        "inSequence": true
+        "route": "210785/מרווח-במוזיקה"
       },
       {
         "title": "פרימה זכה",
-        "route": "פרימה-זכה",
-        "inSequence": true
+        "route": "פרימה-זכה"
       },
       {
         "title": "סקונדה קטנה",
-        "route": "סקונדה-קטנה",
-        "inSequence": true
+        "route": "סקונדה-קטנה"
       },
       {
         "title": "סקונדה גדולה",
-        "route": "סקונדה-גדולה",
-        "inSequence": true
+        "route": "סקונדה-גדולה"
       },
       {
         "title": "טרצה קטנה",
-        "route": "טרצה-קטנה",
-        "inSequence": true
+        "route": "טרצה-קטנה"
       },
       {
         "title": "טרצה גדולה",
-        "route": "טרצה-גדולה",
-        "inSequence": true
+        "route": "טרצה-גדולה"
       },
       {
         "title": "קוורטה זכה",
-        "route": "קוורטה-זכה",
-        "inSequence": true
+        "route": "קוורטה-זכה"
       },
       {
         "title": "טריטון",
-        "route": "טריטון",
-        "inSequence": true
+        "route": "טריטון"
       },
       {
         "title": "קוינטה זכה",
-        "route": "קוינטה",
-        "inSequence": true
+        "route": "קוינטה"
       },
       {
         "title": "סקסטה קטנה",
-        "route": "סקסטה",
-        "inSequence": true
+        "route": "סקסטה"
       },
       {
         "title": "סקסטה גדולה",
-        "route": "סקסטה-גדולה",
-        "inSequence": true
+        "route": "סקסטה-גדולה"
       },
       {
         "title": "ספטימה קטנה",
-        "route": "ספטימה-קטנה",
-        "inSequence": true
+        "route": "ספטימה-קטנה"
       },
       {
         "title": "ספטימה גדולה",
-        "route": "ספטימה-גדולה",
-        "inSequence": true
+        "route": "ספטימה-גדולה"
       },
       {
         "title": "אוקטבה זכה",
-        "route": "אוקטבה-זכה",
-        "inSequence": true
+        "route": "אוקטבה-זכה"
       },
       {
         "title": "אוקטבה",
-        "route": "210785/האוקטבה",
-        "inSequence": true
+        "route": "210785/האוקטבה"
       },
       {
         "title": "האוקטבה הכפולה",
-        "route": "אוקטבה-כפולה",
-        "inSequence": true
+        "route": "אוקטבה-כפולה"
       },
       {
         "title": "נונה",
-        "route": "נונה-1-1",
-        "inSequence": true
+        "route": "נונה-1-1"
       },
       {
         "title": "דצימה",
-        "route": "דצימה",
-        "inSequence": true
+        "route": "דצימה"
       },
       {
         "title": "און דצימה",
-        "route": "און-דצימה-1",
-        "inSequence": true
+        "route": "און-דצימה-1"
       },
       {
         "title": "דו דצימה",
-        "route": "דו-דצימה",
-        "inSequence": true
+        "route": "דו-דצימה"
       },
       {
         "title": "טר דצימה מוקטנת",
-        "route": "טר-דצימה",
-        "inSequence": true
+        "route": "טר-דצימה"
       },
       {
         "title": "טר דצימה מוגדלת",
-        "route": "טר-דצימה-מוגדלת",
-        "inSequence": true
+        "route": "טר-דצימה-מוגדלת"
       }
     ]
   },
@@ -585,73 +495,59 @@
     "pages": [
       {
         "title": "תדר מוזיקלי",
-        "route": "210785/תדר-מוזיקלי",
-        "inSequence": true
+        "route": "210785/תדר-מוזיקלי"
       },
       {
         "title": "טון מוזיקלי",
-        "route": "210785/טון-מוזיקלי",
-        "inSequence": true
+        "route": "210785/טון-מוזיקלי"
       },
       {
         "title": "אופן החישוב",
-        "route": "210785/אופן-החישוב-שך-תדר-מוזיקלי",
-        "inSequence": true
+        "route": "210785/אופן-החישוב-שך-תדר-מוזיקלי"
       },
       {
         "title": "גבהי הצלילים",
-        "route": "גבהי-הצלילים",
-        "inSequence": false
+        "route": "גבהי-הצלילים"
       },
       {
         "title": "טרספוזיציה",
-        "route": "210785/טרנספוזיציה",
-        "inSequence": false
+        "route": "210785/טרנספוזיציה"
       },
       {
         "title": "מודולציה",
-        "route": "210785/מודולציה",
-        "inSequence": true
+        "route": "210785/מודולציה"
       },
       {
         "title": "מלודיה",
-        "route": "210785/מלודיה",
-        "inSequence": true
+        "route": "210785/מלודיה"
       },
       {
         "title": "הרמוניה",
-        "route": "210785/הרמוניה",
-        "inSequence": true
+        "route": "210785/הרמוניה"
       },
       {
         "title": "סקוונצה",
-        "route": "210785/סקוונצה",
-        "inSequence": true
+        "route": "210785/סקוונצה"
       },
       {
         "title": "סיומות מוזיקליים",
-        "route": "210785/סיומות-מוזיקליים",
-        "inSequence": true
+        "route": "210785/סיומות-מוזיקליים"
       },
       {
         "title": "היפוך ומרווח השלמה",
-        "route": "210785/היפוך-ומרווח-השלמה",
-        "inSequence": true
+        "route": "210785/היפוך-ומרווח-השלמה"
       },
       {
         "title": "קונסוננט ודיסוננט",
-        "route": "210785/קונסוננס-ודיסוננס",
-        "inSequence": true
+        "route": "210785/קונסוננס-ודיסוננס"
       },
       {
         "title": "הכוונון המושווה",
-        "route": "הכיוונון-המושווה-1",
-        "inSequence": true
+        "route": "הכיוונון-המושווה-1"
       },
       {
         "title": "הפסנתר",
-        "route": "210785/הפסנתר",
-        "inSequence": true
+        "route": "210785/הפסנתר"
       }
     ]
   },
@@ -663,58 +559,47 @@
     "pages": [
       {
         "title": "אקורד במוזיקה",
-        "route": "210785/אקורד",
-        "inSequence": true
+        "route": "210785/אקורד"
       },
       {
         "title": "אקורד משולש",
-        "route": "אקורד-משולש",
-        "inSequence": true
+        "route": "אקורד-משולש"
       },
       {
         "title": "סקסט אקורד",
-        "route": "210785/סקסט-אקורד",
-        "inSequence": true
+        "route": "210785/סקסט-אקורד"
       },
       {
         "title": "קוורט סקסט אקורד",
-        "route": "210785/קוורט-סקסט-אקורד",
-        "inSequence": true
+        "route": "210785/קוורט-סקסט-אקורד"
       },
       {
         "title": "ספט אקורד",
-        "route": "210785/ספט-אקורד",
-        "inSequence": true
+        "route": "210785/ספט-אקורד"
       },
       {
         "title": "דומיננט - ספט אקורד",
-        "route": "210785/דומיננט-ספט-אקורד",
-        "inSequence": true
+        "route": "210785/דומיננט-ספט-אקורד"
       },
       {
         "title": "טרצ קוורט ס- פט אקורד",
-        "route": "210785/טרצ-קוורט-אקורד",
-        "inSequence": true
+        "route": "210785/טרצ-קוורט-אקורד"
       },
       {
         "title": "סקנד קוורט - ספט אקורד",
-        "route": "210785/סקנד-קוורט-אקורד",
-        "inSequence": true
+        "route": "210785/סקנד-קוורט-אקורד"
       },
       {
         "title": "תוכנה לחיפוש מבנה אקורדים",
-        "route": "תוכנה-לחיפוש-מבנה-אקורדים",
-        "inSequence": true
+        "route": "תוכנה-לחיפוש-מבנה-אקורדים"
       },
       {
         "title": "טבלאות- כל סוגי האקורדים",
-        "route": "טבלאות-כל-סוגי-האקורדים-המשולשים",
-        "inSequence": true
+        "route": "טבלאות-כל-סוגי-האקורדים-המשולשים"
       },
       {
         "title": "סימני האקורדים",
-        "route": "סימני-האקורדים",
-        "inSequence": true
+        "route": "סימני-האקורדים"
       }
     ]
   },
@@ -726,143 +611,115 @@
     "pages": [
       {
         "title": "תווים במוזיקה",
-        "route": "תוים-במוזיקה-1-1-1-1",
-        "inSequence": true
+        "route": "תוים-במוזיקה-1-1-1-1"
       },
       {
         "title": "תיבה במוזיקה",
-        "route": "210785/תיבה-במוזיקה",
-        "inSequence": true
+        "route": "210785/תיבה-במוזיקה"
       },
       {
         "title": "קורית",
-        "route": "קורית",
-        "inSequence": true
+        "route": "קורית"
       },
       {
         "title": "קשתות",
-        "route": "קשתות",
-        "inSequence": true
+        "route": "קשתות"
       },
       {
         "title": "סימני התיווי",
-        "route": "210785/תוים-במוזיקה",
-        "inSequence": true
+        "route": "210785/תוים-במוזיקה"
       },
       {
         "title": "תיווי יצירה מוזיקלית",
-        "route": "תיווי",
-        "inSequence": true
+        "route": "תיווי"
       },
       {
         "title": "מספור וסימני התיבות",
-        "route": "מספור-וסימני-תיבות",
-        "inSequence": true
+        "route": "מספור-וסימני-תיבות"
       },
       {
         "title": "המשקל בתיבה",
-        "route": "המשקל-בתיבה",
-        "inSequence": true
+        "route": "המשקל-בתיבה"
       },
       {
         "title": "החלפת משקל בתיבה",
-        "route": "החלפת-משקל-בתיבה-תיבות-1",
-        "inSequence": true
+        "route": "החלפת-משקל-בתיבה-תיבות-1"
       },
       {
         "title": "החלפת סולם בתיבה",
-        "route": "החלפת-סולם-בתיבה-תיבות-פרק-ביצירה",
-        "inSequence": true
+        "route": "החלפת-סולם-בתיבה-תיבות-פרק-ביצירה"
       },
       {
         "title": "צורת כתיבת המלל בתיבה.",
-        "route": "צורת-כתיבת-המלל-בתוים-בעברית",
-        "inSequence": true
+        "route": "צורת-כתיבת-המלל-בתוים-בעברית"
       },
       {
         "title": "שמות התווים",
-        "route": "שמות-התוים",
-        "inSequence": true
+        "route": "שמות-התוים"
       },
       {
         "title": "קו תיבה וירטואלי",
-        "route": "קו-תיבה-וירטואלי",
-        "inSequence": true
+        "route": "קו-תיבה-וירטואלי"
       },
       {
         "title": "משך הצליל",
-        "route": "משך-הצליל",
-        "inSequence": true
+        "route": "משך-הצליל"
       },
       {
         "title": "תיבת הקדמה",
-        "route": "תיבת-הקדמה",
-        "inSequence": true
+        "route": "תיבת-הקדמה"
       },
       {
         "title": "הביט בתיבה",
-        "route": "הביט-בתיבה",
-        "inSequence": true
+        "route": "הביט-בתיבה"
       },
       {
         "title": "מספור התיבות",
-        "route": "מספור-התיבות",
-        "inSequence": true
+        "route": "מספור-התיבות"
       },
       {
         "title": "סימני נשימה בתיבות",
-        "route": "סימני-נשימה-בתיווי",
-        "inSequence": true
+        "route": "סימני-נשימה-בתיווי"
       },
       {
         "title": "סימני התווים והדמימות",
-        "route": "סימני-התוים-והדמימות",
-        "inSequence": true
+        "route": "סימני-התוים-והדמימות"
       },
       {
         "title": "קו תיבה עם סימן נקודותיים חזרה ימני",
-        "route": "סימון-תיבה-בשתי-נקודות-בצד-ימין",
-        "inSequence": true
+        "route": "סימון-תיבה-בשתי-נקודות-בצד-ימין"
       },
       {
         "title": "קו תיבה עם סימן נקודותיים חזרה שמאלי",
-        "route": "סימון-תיבה-בשתי-נקודות-צד-שמאל",
-        "inSequence": true
+        "route": "סימון-תיבה-בשתי-נקודות-צד-שמאל"
       },
       {
         "title": "קו תיבה עם סימן כפול",
-        "route": "קו-תיבה-עם-סימן-כפול",
-        "inSequence": true
+        "route": "קו-תיבה-עם-סימן-כפול"
       },
       {
         "title": "קו תיבה עם סימן סיום",
-        "route": "קו-תיבה-עם-סימן-סיום",
-        "inSequence": true
+        "route": "קו-תיבה-עם-סימן-סיום"
       },
       {
         "title": "ססטמה",
-        "route": "210785/ססטמה",
-        "inSequence": true
+        "route": "210785/ססטמה"
       },
       {
         "title": "ססטמה סולו בליווי פסנתר",
-        "route": "ססטמה-סולו-בליווי-פסנתר",
-        "inSequence": true
+        "route": "ססטמה-סולו-בליווי-פסנתר"
       },
       {
         "title": "ססטמה רב קולית",
-        "route": "ססטמה-רב-קולית",
-        "inSequence": true
+        "route": "ססטמה-רב-קולית"
       },
       {
         "title": "הטמפו",
-        "route": "210785/טמפו",
-        "inSequence": true
+        "route": "210785/טמפו"
       },
       {
         "title": "אופן חישוב הטמפו",
-        "route": "אופן-חישוב-הטמפו",
-        "inSequence": true
+        "route": "אופן-חישוב-הטמפו"
       }
     ]
   },
@@ -874,68 +731,55 @@
     "pages": [
       {
         "title": "סימנים במוזיקה",
-        "route": "210785/סימני-הבעה",
-        "inSequence": true
+        "route": "210785/סימני-הבעה"
       },
       {
         "title": "סימני הדינמיקה",
-        "route": "סימני-הדינמיקה-1",
-        "inSequence": true
+        "route": "סימני-הדינמיקה-1"
       },
       {
         "title": "סימני הטמפו",
-        "route": "210785/טמפו",
-        "inSequence": false
+        "route": "210785/טמפו"
       },
       {
         "title": "אופן חישוב הטמפו",
-        "route": "אופן-חישוב-הטמפו",
-        "inSequence": false
+        "route": "אופן-חישוב-הטמפו"
       },
       {
         "title": "סימני האוירה",
-        "route": "סימני-האוירה",
-        "inSequence": true
+        "route": "סימני-האוירה"
       },
       {
         "title": "סימני הארטיקולציה",
-        "route": "סימני-הארטיקולציה",
-        "inSequence": true
+        "route": "סימני-הארטיקולציה"
       },
       {
         "title": "סימני הקצב",
-        "route": "210785/קצב",
-        "inSequence": true
+        "route": "210785/קצב"
       },
       {
         "title": "סימני הגברה החלשה",
-        "route": "סימני-הגברה-החלשה",
-        "inSequence": true
+        "route": "סימני-הגברה-החלשה"
       },
       {
         "title": "וולטה ראשונה/שניה",
-        "route": "וולטה-ראשונה-שניה",
-        "inSequence": true
+        "route": "וולטה-ראשונה-שניה"
       },
       {
         "title": "סימני האטה/האצה",
-        "route": "סימני-המשך",
-        "inSequence": true
+        "route": "סימני-המשך"
       },
       {
         "title": "סימני החזרה",
-        "route": "סימני-החזרה",
-        "inSequence": true
+        "route": "סימני-החזרה"
       },
       {
         "title": "סימני התווים",
-        "route": "210785/תוים-במוזיקה",
-        "inSequence": false
+        "route": "210785/תוים-במוזיקה"
       },
       {
         "title": "תו מוזיקלי",
-        "route": "תוים",
-        "inSequence": true
+        "route": "תוים"
       }
     ]
   },
@@ -948,73 +792,59 @@
     "pages": [
       {
         "title": "מונחים מוזיקליים",
-        "route": "210785/מונחים-מוזיקליים-1-1",
-        "inSequence": true
+        "route": "210785/מונחים-מוזיקליים-1-1"
       },
       {
         "title": "תיאוריה",
-        "route": "210785/מונחים-מוזיקליים-תיאוריה",
-        "inSequence": true
+        "route": "210785/מונחים-מוזיקליים-תיאוריה"
       },
       {
         "title": "רפרטואר",
-        "route": "210785/מונחים-מוזיקליים-1",
-        "inSequence": true
+        "route": "210785/מונחים-מוזיקליים-1"
       },
       {
         "title": "סולפג'",
-        "route": "210785/סולפג",
-        "inSequence": true
+        "route": "210785/סולפג"
       },
       {
         "title": "אנסמבל",
-        "route": "210785/אנסמבל",
-        "inSequence": true
+        "route": "210785/אנסמבל"
       },
       {
         "title": "פיתוח קול",
-        "route": "210785/פיתוח-קול",
-        "inSequence": true
+        "route": "210785/פיתוח-קול"
       },
       {
         "title": "תוכנת ENC",
-        "route": "210785/תוכנת-Encore",
-        "inSequence": true
+        "route": "210785/תוכנת-Encore"
       },
       {
         "title": "סוגי מקהלות",
-        "route": "210785/סוגי-מקהלות",
-        "inSequence": true
+        "route": "210785/סוגי-מקהלות"
       },
       {
         "title": "שירה",
-        "route": "210785/שירה",
-        "inSequence": true
+        "route": "210785/שירה"
       },
       {
         "title": "שירה במסגרת מקהלה",
-        "route": "210785/שירת-מקהלה",
-        "inSequence": true
+        "route": "210785/שירת-מקהלה"
       },
       {
         "title": "שבתות שירה",
-        "route": "210785/שבתות-שירה",
-        "inSequence": true
+        "route": "210785/שבתות-שירה"
       },
       {
         "title": "ניצוח",
-        "route": "210785/ניצוח",
-        "inSequence": true
+        "route": "210785/ניצוח"
       },
       {
         "title": "מערכת ההפקה הקולית",
-        "route": "מערכת-ההפקה-הקולית-של-האדם",
-        "inSequence": true
+        "route": "מערכת-ההפקה-הקולית-של-האדם"
       },
       {
         "title": "קול האדם",
-        "route": "קול-האדם",
-        "inSequence": true
+        "route": "קול-האדם"
       }
     ]
   },
@@ -1027,33 +857,27 @@
     "pages": [
       {
         "title": "לחן ועיבוד מוזיקלי",
-        "route": "לחן-ועיבוד-מוזיקלי-1",
-        "inSequence": true
+        "route": "לחן-ועיבוד-מוזיקלי-1"
       },
       {
         "title": "לחן",
-        "route": "לחן",
-        "inSequence": true
+        "route": "לחן"
       },
       {
         "title": "תמליל",
-        "route": "תמליל",
-        "inSequence": true
+        "route": "תמליל"
       },
       {
         "title": "עיבוד",
-        "route": "עיבוד-מוזיקלי",
-        "inSequence": true
+        "route": "עיבוד-מוזיקלי"
       },
       {
         "title": "לכתוב מוזיקה",
-        "route": "מבצע",
-        "inSequence": true
+        "route": "מבצע"
       },
       {
         "title": "תווי מוזיקלי",
-        "route": "תיווי",
-        "inSequence": false
+        "route": "תיווי"
       }
     ]
   },
@@ -1065,28 +889,23 @@
     "pages": [
       {
         "title": "המקאם הערבי",
-        "route": "המקאם-הערבי",
-        "inSequence": true
+        "route": "המקאם-הערבי"
       },
       {
         "title": "המקאם הערבי- מונחים",
-        "route": "מנחים-בנושא-המקאם-הערבי",
-        "inSequence": true
+        "route": "מנחים-בנושא-המקאם-הערבי"
       },
       {
         "title": "מקאמים נפוצים",
-        "route": "מקאמים-נפוצים",
-        "inSequence": true
+        "route": "מקאמים-נפוצים"
       },
       {
         "title": "שמות המקאמים",
-        "route": "המקאם-הערבי-סולמות",
-        "inSequence": true
+        "route": "המקאם-הערבי-סולמות"
       },
       {
         "title": "חוברת המקאם הערבי",
-        "route": "חוברת-המקאם-הערבי",
-        "inSequence": true
+        "route": "חוברת-המקאם-הערבי"
       }
     ]
   },
@@ -1098,93 +917,75 @@
     "pages": [
       {
         "title": "רסיטל - חיים לוי",
-        "route": "רסיטל",
-        "inSequence": true
+        "route": "רסיטל"
       },
       {
         "title": "זמר נוגה",
-        "route": "זמר-נוגה",
-        "inSequence": true
+        "route": "זמר-נוגה"
       },
       {
         "title": "סרנדה- שוברט",
-        "route": "Schubert-Ständchen",
-        "inSequence": true
+        "route": "Schubert-Ständchen"
       },
       {
         "title": "ציפור שניה",
-        "route": "ציפר-שניה",
-        "inSequence": true
+        "route": "ציפר-שניה"
       },
       {
         "title": "As Time Goes By",
-        "route": "As-Time-Goes-By",
-        "inSequence": true
+        "route": "As-Time-Goes-By"
       },
       {
         "title": "ניגונים",
-        "route": "ניגונים",
-        "inSequence": true
+        "route": "ניגונים"
       },
       {
         "title": "הללויה",
-        "route": "Hallelujah",
-        "inSequence": true
+        "route": "Hallelujah"
       },
       {
         "title": "And I love you so",
-        "route": "And-I-love-you-so",
-        "inSequence": true
+        "route": "And-I-love-you-so"
       },
       {
         "title": "Pie yesu",
-        "route": "Pie-Yesu",
-        "inSequence": true
+        "route": "Pie-Yesu"
       },
       {
         "title": "צרות טובות",
-        "route": "צרות-טובות",
-        "inSequence": true
+        "route": "צרות-טובות"
       },
       {
         "title": "נחמה",
-        "route": "נחמה",
-        "inSequence": true
+        "route": "נחמה"
       },
       {
         "title": "Bring him home",
-        "route": "Bring-him-home",
-        "inSequence": true
+        "route": "Bring-him-home"
       },
       {
         "title": "שאני במחול",
-        "route": "שאני-במחול",
-        "inSequence": true
+        "route": "שאני-במחול"
       },
       {
         "title": "שיר ערש",
-        "route": "שיר-ערש",
-        "inSequence": true
+        "route": "שיר-ערש"
       },
       {
         "title": "Yesterday",
-        "route": "Yesterday",
-        "inSequence": true
+        "route": "Yesterday"
       },
       {
         "title": "The first time",
-        "route": "The-first-time-ever-i-so-your-faice",
-        "inSequence": true
+        "route": "The-first-time-ever-i-so-your-faice"
       },
       {
         "title": "The sound of Silence",
-        "route": "The-sound-of-silence",
-        "inSequence": true
+        "route": "The-sound-of-silence"
       },
       {
         "title": "שירים נוספים",
-        "route": "שירים-נוספים",
-        "inSequence": true
+        "route": "שירים-נוספים"
       }
     ]
   },
@@ -1196,23 +997,19 @@
     "pages": [
       {
         "title": "מוזיקה לסרטים",
-        "route": "מוזיקה-לסרטים",
-        "inSequence": true
+        "route": "מוזיקה-לסרטים"
       },
       {
         "title": "הסרט – רשימת שינדלר",
-        "route": "רשימת-שינדלר",
-        "inSequence": true
+        "route": "רשימת-שינדלר"
       },
       {
         "title": "הסרט- מוצרט",
-        "route": "הסרט-מוצרט",
-        "inSequence": true
+        "route": "הסרט-מוצרט"
       },
       {
         "title": "הסרט- צלילי המוזיקה",
-        "route": "צלילי-המוזיקה-1-1",
-        "inSequence": true
+        "route": "צלילי-המוזיקה-1-1"
       }
     ]
   },
@@ -1224,98 +1021,79 @@
     "pages": [
       {
         "title": "הפקה מוזיקלית",
-        "route": "הפקה-מוזיקלית-1",
-        "inSequence": true
+        "route": "הפקה-מוזיקלית-1"
       },
       {
         "title": "מפיק מוזיקלי",
-        "route": "מפיק-מוזיקלי",
-        "inSequence": true
+        "route": "מפיק-מוזיקלי"
       },
       {
         "title": "מעבד מוזיקלי",
-        "route": "מעבד-מוזיקלי",
-        "inSequence": true
+        "route": "מעבד-מוזיקלי"
       },
       {
         "title": "הקונספט",
-        "route": "הקונספט",
-        "inSequence": true
+        "route": "הקונספט"
       },
       {
         "title": "הפקת אלבום",
-        "route": "הפקת-אלבום",
-        "inSequence": true
+        "route": "הפקת-אלבום"
       },
       {
         "title": "תהליך ההפקה",
-        "route": "תהליך-ההפקה",
-        "inSequence": true
+        "route": "תהליך-ההפקה"
       },
       {
         "title": "תהליך הכרות ראשוני",
-        "route": "תהליך-הכרות-ראשוני",
-        "inSequence": true
+        "route": "תהליך-הכרות-ראשוני"
       },
       {
         "title": "פגישת הכרות כוללת",
-        "route": "פגישת-הכרות-כוללת",
-        "inSequence": true
+        "route": "פגישת-הכרות-כוללת"
       },
       {
         "title": "Pre production I",
-        "route": "Pre-Production-I",
-        "inSequence": true
+        "route": "Pre-Production-I"
       },
       {
         "title": "סקיצה- DEMO",
-        "route": "סקיצה-Demo",
-        "inSequence": true
+        "route": "סקיצה-Demo"
       },
       {
         "title": "Pre production I I",
-        "route": "Pre-Production-II",
-        "inSequence": true
+        "route": "Pre-Production-II"
       },
       {
         "title": "Pre production השלב הסופי",
-        "route": "Pre-Production-השלב-הסופי",
-        "inSequence": true
+        "route": "Pre-Production-השלב-הסופי"
       },
       {
         "title": "מכשירים וירטואלים",
-        "route": "מכשירים-וירטואלים",
-        "inSequence": true
+        "route": "מכשירים-וירטואלים"
       },
       {
         "title": "המצגת",
-        "route": "המצגת",
-        "inSequence": true
+        "route": "המצגת"
       },
       {
         "title": "אולפן הקלטות",
-        "route": "אולפן-הקלטות-1",
-        "inSequence": true
+        "route": "אולפן-הקלטות-1"
       },
       {
         "title": "הסיגנל",
-        "route": "הסיגנל",
-        "inSequence": true
+        "route": "הסיגנל"
       },
       {
         "title": "סדר השירים",
-        "route": "סדר-השירים",
-        "inSequence": true
+        "route": "סדר-השירים"
       },
       {
         "title": "הופעה חיה",
-        "route": "הופעה-חיה",
-        "inSequence": true
+        "route": "הופעה-חיה"
       },
       {
         "title": "ניהול כספים",
-        "route": "ניהול-כספים",
-        "inSequence": true
+        "route": "ניהול-כספים"
       }
     ]
   },
@@ -1327,78 +1105,63 @@
     "pages": [
       {
         "title": "לנגן על הגיטרה",
-        "route": "ניגון-על-גיטרה",
-        "inSequence": true
+        "route": "ניגון-על-גיטרה"
       },
       {
         "title": "סוגי גיטרות",
-        "route": "סוגי-גיטרות",
-        "inSequence": true
+        "route": "סוגי-גיטרות"
       },
       {
         "title": "מבנה הגיטרה",
-        "route": "מבנה-הגיטרה",
-        "inSequence": true
+        "route": "מבנה-הגיטרה"
       },
       {
         "title": "מונחי יסוד בגיטרה",
-        "route": "מונחי-יסוד-בגיטרה",
-        "inSequence": true
+        "route": "מונחי-יסוד-בגיטרה"
       },
       {
         "title": "נא להכיר גיטרה",
-        "route": "נא-להכיר-גיטרה",
-        "inSequence": true
+        "route": "נא-להכיר-גיטרה"
       },
       {
         "title": "הצליל המוגדר בכל מיתר",
-        "route": "הצליל-הבוקע-מכל-מיתר",
-        "inSequence": true
+        "route": "הצליל-הבוקע-מכל-מיתר"
       },
       {
         "title": "כיצד מכוונים את מיתרי הגיטרה",
-        "route": "כיצד-מכוונים-את-מיתרי-הגיטרה",
-        "inSequence": true
+        "route": "כיצד-מכוונים-את-מיתרי-הגיטרה"
       },
       {
         "title": "אקורד בגיטרה",
-        "route": "אקורד-בגיטרה",
-        "inSequence": true
+        "route": "אקורד-בגיטרה"
       },
       {
         "title": "אופן הפריטה על הגיטרה",
-        "route": "אופן-הפריטה-על-הגיטרה",
-        "inSequence": true
+        "route": "אופן-הפריטה-על-הגיטרה"
       },
       {
         "title": "צורות ואופן נגינה",
-        "route": "צורות-נגינה",
-        "inSequence": true
+        "route": "צורות-נגינה"
       },
       {
         "title": "כמות הצלילים המופקים מהגיטרה",
-        "route": "כמות-הצלילים-בגיטרה",
-        "inSequence": true
+        "route": "כמות-הצלילים-בגיטרה"
       },
       {
         "title": "הפסנתר לעומת הגיטרה",
-        "route": "פסנתר-לעומת-הגיטרה",
-        "inSequence": true
+        "route": "פסנתר-לעומת-הגיטרה"
       },
       {
         "title": "כיצד לנגן על הגיטרה",
-        "route": "כיצד-לנגן-על-הגיטרה-1",
-        "inSequence": true
+        "route": "כיצד-לנגן-על-הגיטרה-1"
       },
       {
         "title": "טבלה- 114 הסריגים",
-        "route": "טבלה-114-השריגים",
-        "inSequence": true
+        "route": "טבלה-114-השריגים"
       },
       {
         "title": "תווים לנגינה על גיטרה",
-        "route": "תוים-לנגינה-על-גיטרה",
-        "inSequence": true
+        "route": "תוים-לנגינה-על-גיטרה"
       }
     ]
   },
@@ -1410,18 +1173,15 @@
     "pages": [
       {
         "title": "מאגר יצירות",
-        "route": "קבצי-midi",
-        "inSequence": true
+        "route": "קבצי-midi"
       },
       {
         "title": "מלחינים מחו\"ל",
-        "route": "מלחינים-מחו-ל",
-        "inSequence": true
+        "route": "מלחינים-מחו-ל"
       },
       {
         "title": "מלחינים מהארץ",
-        "route": "מלחינים-מהארץ",
-        "inSequence": true
+        "route": "מלחינים-מהארץ"
       }
     ]
   },
@@ -1433,8 +1193,7 @@
     "pages": [
       {
         "title": "קבצי ENC/ MID",
-        "route": "קבצי-Midi-1-1",
-        "inSequence": true
+        "route": "קבצי-Midi-1-1"
       }
     ]
   },
@@ -1446,23 +1205,19 @@
     "pages": [
       {
         "title": "דיקציה",
-        "route": "210785/דיקציה-1",
-        "inSequence": true
+        "route": "210785/דיקציה-1"
       },
       {
         "title": "בשפה הלטינית",
-        "route": "210785/דיקציה-בשפה-הלטינית",
-        "inSequence": true
+        "route": "210785/דיקציה-בשפה-הלטינית"
       },
       {
         "title": "בשפה האיטלקית",
-        "route": "210785/דיקציה-בשפה-האיטלקית",
-        "inSequence": true
+        "route": "210785/דיקציה-בשפה-האיטלקית"
       },
       {
         "title": "בשפה הגרמנית",
-        "route": "210785/דיקציה-בשפה-הגרמנית",
-        "inSequence": true
+        "route": "210785/דיקציה-בשפה-הגרמנית"
       }
     ]
   },
@@ -1475,93 +1230,75 @@
     "pages": [
       {
         "title": "מלחינים בולטים",
-        "route": "210785/מלחינים-אשר-השפיעו-על-המוזיקה",
-        "inSequence": true
+        "route": "210785/מלחינים-אשר-השפיעו-על-המוזיקה"
       },
       {
         "title": "מוצרט",
-        "route": "210785/מוצרט",
-        "inSequence": true
+        "route": "210785/מוצרט"
       },
       {
         "title": "בטהובן",
-        "route": "210785/בטהובן",
-        "inSequence": true
+        "route": "210785/בטהובן"
       },
       {
         "title": "ברהמס",
-        "route": "210785/ברהמס",
-        "inSequence": true
+        "route": "210785/ברהמס"
       },
       {
         "title": "גבריאל פורה",
-        "route": "G-U-Faure",
-        "inSequence": true
+        "route": "G-U-Faure"
       },
       {
         "title": "באך",
-        "route": "210785/יוהן-סבסטיאן-באך",
-        "inSequence": true
+        "route": "210785/יוהן-סבסטיאן-באך"
       },
       {
         "title": "היידן",
-        "route": "210785/ג-וסף-היידן",
-        "inSequence": true
+        "route": "210785/ג-וסף-היידן"
       },
       {
         "title": "מנדלסון",
-        "route": "210785/מנדלסון",
-        "inSequence": true
+        "route": "210785/מנדלסון"
       },
       {
         "title": "פרסל",
-        "route": "210785/הנרי-פרסל",
-        "inSequence": true
+        "route": "210785/הנרי-פרסל"
       },
       {
         "title": "פוצ'יני",
-        "route": "210785/גיאקומו-פוצ-יני",
-        "inSequence": true
+        "route": "210785/גיאקומו-פוצ-יני"
       },
       {
         "title": "שוברט",
-        "route": "210785/שוברט",
-        "inSequence": true
+        "route": "210785/שוברט"
       },
       {
         "title": "ורדי",
-        "route": "210785/ג-וזפה-ורדי",
-        "inSequence": true
+        "route": "210785/ג-וזפה-ורדי"
       },
       {
         "title": "ויואלדי",
-        "route": "210785/ויואלדי",
-        "inSequence": true
+        "route": "210785/ויואלדי"
       },
       {
         "title": "ביזט",
-        "route": "210785/ז-ורז-ביזה",
-        "inSequence": true
+        "route": "210785/ז-ורז-ביזה"
       },
       {
         "title": "לאונרד ברנשטיין",
-        "route": "210785/ליאונרד-ברנשטיין",
-        "inSequence": true
+        "route": "210785/ליאונרד-ברנשטיין"
       },
       {
         "title": "יחזקאל בראון",
-        "route": "יחזקאל-בראון",
-        "inSequence": true
+        "route": "יחזקאל-בראון"
       },
       {
         "title": "הנדל",
-        "route": "הנדל",
-        "inSequence": true
+        "route": "הנדל"
       },
       {
         "title": "אהרון חרל\"פ",
-        "route": "אהרון-חרל-פ",
-        "inSequence": true
+        "route": "אהרון-חרל-פ"
       }
     ]
   },
@@ -1573,63 +1310,51 @@
     "pages": [
       {
         "title": "רפרטואר",
-        "route": "210785/רפרטואר",
-        "inSequence": true
+        "route": "210785/רפרטואר"
       },
       {
         "title": "סולפג'",
-        "route": "210785/סולפג",
-        "inSequence": false
+        "route": "210785/סולפג"
       },
       {
         "title": "אנסמבל",
-        "route": "210785/אנסמבל",
-        "inSequence": false
+        "route": "210785/אנסמבל"
       },
       {
         "title": "פיתוח קול",
-        "route": "210785/פיתוח-קול",
-        "inSequence": false
+        "route": "210785/פיתוח-קול"
       },
       {
         "title": "תוכנה Encore",
-        "route": "210785/תוכנת-Encore",
-        "inSequence": false
+        "route": "210785/תוכנת-Encore"
       },
       {
         "title": "סוגי מקהלות",
-        "route": "210785/סוגי-מקהלות",
-        "inSequence": false
+        "route": "210785/סוגי-מקהלות"
       },
       {
         "title": "שירת סולו",
-        "route": "210785/שירה",
-        "inSequence": false
+        "route": "210785/שירה"
       },
       {
         "title": "שירה במסגרת מקהלתית",
-        "route": "210785/שירת-מקהלה",
-        "inSequence": false
+        "route": "210785/שירת-מקהלה"
       },
       {
         "title": "שבתות שירה",
-        "route": "210785/שבתות-שירה",
-        "inSequence": false
+        "route": "210785/שבתות-שירה"
       },
       {
         "title": "ניצוח",
-        "route": "210785/ניצוח",
-        "inSequence": false
+        "route": "210785/ניצוח"
       },
       {
         "title": "מערכת ההפקה הקולית",
-        "route": "מערכת-ההפקה-הקולית-של-האדם",
-        "inSequence": false
+        "route": "מערכת-ההפקה-הקולית-של-האדם"
       },
       {
         "title": "קול האדם",
-        "route": "קול-האדם",
-        "inSequence": false
+        "route": "קול-האדם"
       }
     ]
   },
@@ -1641,48 +1366,39 @@
     "pages": [
       {
         "title": "חוברות לימוד אקדמי",
-        "route": "חוברות-מוכנות",
-        "inSequence": true
+        "route": "חוברות-מוכנות"
       },
       {
         "title": "חוברת - תיאוריה מוזיקלית",
-        "route": "חוברת-תיאוריה-מוזיקלית-מלאה",
-        "inSequence": true
+        "route": "חוברת-תיאוריה-מוזיקלית-מלאה"
       },
       {
         "title": "חוברת - מוזיקת הג'אז",
-        "route": "מוזיקת-הג-אז",
-        "inSequence": true
+        "route": "מוזיקת-הג-אז"
       },
       {
         "title": "חוברת – מוזיקה קלאסית",
-        "route": "מוזיקה-קלאסית",
-        "inSequence": true
+        "route": "מוזיקה-קלאסית"
       },
       {
         "title": "חוברת – שירה מתווים",
-        "route": "pages/1783934000078_שירה מתווים",
-        "inSequence": true
+        "route": "pages/1783934000078_שירה מתווים"
       },
       {
         "title": "חוברת – הכנה לקראת הופעה ברסיטל",
-        "route": "הופעה-מול-קהל",
-        "inSequence": true
+        "route": "הופעה-מול-קהל"
       },
       {
         "title": "חוברת – מוזיקת המקאם הערבי",
-        "route": "חוברת-המקאם-הערבי",
-        "inSequence": false
+        "route": "חוברת-המקאם-הערבי"
       },
       {
         "title": "חוברת – שירה במסגרת מקהלה",
-        "route": "210785/שירת-מקהלה",
-        "inSequence": false
+        "route": "210785/שירת-מקהלה"
       },
       {
         "title": "חוברת – פיתוח קול ופיתוח שמיעה",
-        "route": "פיתוח-שמיעה",
-        "inSequence": true
+        "route": "פיתוח-שמיעה"
       }
     ]
   },
@@ -1695,13 +1411,11 @@
     "pages": [
       {
         "title": "התרופה המוזיקלית",
-        "route": "210785/התרופה-המוזיקלית",
-        "inSequence": true
+        "route": "210785/התרופה-המוזיקלית"
       },
       {
         "title": "העוגה המוזיקלית",
-        "route": "210785/העוגה-המוזיקלית",
-        "inSequence": false
+        "route": "210785/העוגה-המוזיקלית"
       }
     ]
   },
@@ -1713,8 +1427,7 @@
     "pages": [
       {
         "title": "הפסנתר",
-        "route": "210785/הפסנתר",
-        "inSequence": false
+        "route": "210785/הפסנתר"
       }
     ]
   },
@@ -1727,8 +1440,7 @@
     "pages": [
       {
         "title": "מצגת ב- Power Point",
-        "route": "power-point",
-        "inSequence": true
+        "route": "power-point"
       }
     ]
   },
@@ -1741,23 +1453,19 @@
     "pages": [
       {
         "title": "כתיבה הרמונית",
-        "route": "כתיבה-הרמונית",
-        "inSequence": true
+        "route": "כתיבה-הרמונית"
       },
       {
         "title": "כתיבת הלחן",
-        "route": "pages/1791309995578_כתיבת המלל",
-        "inSequence": true
+        "route": "pages/1791309995578_כתיבת המלל"
       },
       {
         "title": "כתיבת העיבוד",
-        "route": "pages/1791389192891_העיבוד המוזיקלי",
-        "inSequence": true
+        "route": "pages/1791389192891_העיבוד המוזיקלי"
       },
       {
         "title": "סולם מינור הרמוני",
-        "route": "210785/סולם-מינור-הרמוני",
-        "inSequence": false
+        "route": "210785/סולם-מינור-הרמוני"
       }
     ]
   },
@@ -1769,8 +1477,7 @@
     "pages": [
       {
         "title": "שירים שכתבתי",
-        "route": "שירים-שכתבתי",
-        "inSequence": true
+        "route": "שירים-שכתבתי"
       }
     ]
   },
@@ -1783,13 +1490,11 @@
     "pages": [
       {
         "title": "הגייה עיצורים ותנועה",
-        "route": "הגייה-עיצורים-ותנועה",
-        "inSequence": true
+        "route": "הגייה-עיצורים-ותנועה"
       },
       {
         "title": "סולפג'",
-        "route": "210785/סולפג",
-        "inSequence": false
+        "route": "210785/סולפג"
       }
     ]
   },
@@ -1801,28 +1506,23 @@
     "pages": [
       {
         "title": "סוגי מוזיקה שונים",
-        "route": "סוגי-מוזיקה-שונים",
-        "inSequence": true
+        "route": "סוגי-מוזיקה-שונים"
       },
       {
         "title": "מוזיקה קלאסית",
-        "route": "מוזיקה-קלאסית",
-        "inSequence": false
+        "route": "מוזיקה-קלאסית"
       },
       {
         "title": "מוזיקת פופ",
-        "route": "מוזיקת-פופ",
-        "inSequence": true
+        "route": "מוזיקת-פופ"
       },
       {
         "title": "מוזיקת ג'אז",
-        "route": "מוזיקת-הג-אז",
-        "inSequence": false
+        "route": "מוזיקת-ג-אז"
       },
       {
         "title": "מוזיקת הבלוז",
-        "route": "מוזיקת-הבלוז",
-        "inSequence": true
+        "route": "מוזיקת-הבלוז"
       }
     ]
   },
@@ -1834,8 +1534,7 @@
     "pages": [
       {
         "title": "הופעה מול קהל",
-        "route": "הופעה-מול-קהל",
-        "inSequence": false
+        "route": "הופעה-מול-קהל"
       }
     ]
   },
@@ -1847,58 +1546,47 @@
     "pages": [
       {
         "title": "תולדות המוזיקה",
-        "route": "210785/תולדות-המוזיקה",
-        "inSequence": true
+        "route": "210785/תולדות-המוזיקה"
       },
       {
         "title": "תקופות במוזיקה",
-        "route": "210785/תקופות-במוזיקה",
-        "inSequence": true
+        "route": "210785/תקופות-במוזיקה"
       },
       {
         "title": "תקופת ימי הביניים",
-        "route": "210785/תקופת-ימי-הביניים",
-        "inSequence": true
+        "route": "210785/תקופת-ימי-הביניים"
       },
       {
         "title": "תקופת הרנסאנס",
-        "route": "210785/תקופת-הרנסנס",
-        "inSequence": true
+        "route": "210785/תקופת-הרנסנס"
       },
       {
         "title": "תקופת הבארוק",
-        "route": "210785/תקופת-הבארוק",
-        "inSequence": true
+        "route": "210785/תקופת-הבארוק"
       },
       {
         "title": "תקופת האופרה",
-        "route": "210785/תקופת-האופרה",
-        "inSequence": true
+        "route": "210785/תקופת-האופרה"
       },
       {
         "title": "תקופת האורטוריה",
-        "route": "210785/תקופת-האורטוריה",
-        "inSequence": true
+        "route": "210785/תקופת-האורטוריה"
       },
       {
         "title": "תקופת הרוקוקו",
-        "route": "210785/תקופת-הרוקוקו",
-        "inSequence": true
+        "route": "210785/תקופת-הרוקוקו"
       },
       {
         "title": "התקופה הקלאסית",
-        "route": "210785/התקופה-הקלאסית",
-        "inSequence": true
+        "route": "210785/התקופה-הקלאסית"
       },
       {
         "title": "התקופה הרומנטית",
-        "route": "210785/התקופה-הרומנטית-1",
-        "inSequence": true
+        "route": "210785/התקופה-הרומנטית-1"
       },
       {
         "title": "תקופת המאה ה-20",
-        "route": "210785/תקופת-המאה-ה-20",
-        "inSequence": true
+        "route": "210785/תקופת-המאה-ה-20"
       }
     ]
   },
@@ -1910,8 +1598,7 @@
     "pages": [
       {
         "title": "תרגום יצירות",
-        "route": "210785/תרגום-יצירות",
-        "inSequence": true
+        "route": "210785/תרגום-יצירות"
       }
     ]
   },
@@ -1923,8 +1610,7 @@
     "pages": [
       {
         "title": "כתיבת שירים",
-        "route": "כתיבת-שירים-1-1-1-1-1-1-1-1-1",
-        "inSequence": true
+        "route": "כתיבת-שירים-1-1-1-1-1-1-1-1-1"
       }
     ]
   },
@@ -1936,13 +1622,11 @@
     "pages": [
       {
         "title": "מוזיקת הג'אז",
-        "route": "מוזיקת-ג-אז",
-        "inSequence": true
+        "route": "מוזיקת-ג-אז"
       },
       {
         "title": "מוזיקת הבלוז",
-        "route": "מוזיקת-הבלוז",
-        "inSequence": false
+        "route": "מוזיקת-הבלוז"
       }
     ]
   },
@@ -1954,13 +1638,11 @@
     "pages": [
       {
         "title": "חיפוש אקורדים",
-        "route": "אקורדים-1",
-        "inSequence": true
+        "route": "אקורדים-1"
       },
       {
         "title": "תוכנה ממוחשבת לחיפוש אקורדים",
-        "route": "תוכנה-לחיפוש-מבנה-אקורדים",
-        "inSequence": false
+        "route": "תוכנה-לחיפוש-מבנה-אקורדים"
       }
     ]
   },
@@ -1972,8 +1654,7 @@
     "pages": [
       {
         "title": "נספחים",
-        "route": "210785/נספחים",
-        "inSequence": true
+        "route": "210785/נספחים"
       }
     ]
   }

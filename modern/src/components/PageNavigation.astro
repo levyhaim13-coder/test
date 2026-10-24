@@ -5,11 +5,29 @@ interface Props { route: string }
 const { previous, next } = readingNeighbors(Astro.props.route);
 ---
 
-<nav class="page-navigation" aria-label="ניווט בין עמודים" dir="rtl">
-	{previous ? <a rel="prev" href={pageUrl(previous.route)}>חזרה לדף קודם: {previous.title}</a> : <span></span>}
+<nav class="page-navigation" data-route={Astro.props.route} aria-label="ניווט בין עמודים" dir="rtl">
+	<a rel="prev" hidden={!previous} href={previous && pageUrl(previous.route, previous.section)}>חזרה לדף קודם: {previous?.title}</a>
 	<a href="/test/topics.html">רשימת הנושאים</a>
-	{next ? <a rel="next" href={pageUrl(next.route)}>המשך בעמוד הבא: {next.title}</a> : <span></span>}
+	<a rel="next" hidden={!next} href={next && pageUrl(next.route, next.section)}>המשך בעמוד הבא: {next?.title}</a>
 </nav>
+
+<script>
+	import { pageUrl, readingNeighbors } from '../lib/reading-order';
+	const navigation = document.querySelector<HTMLElement>('.page-navigation');
+	if (navigation) {
+		const { previous, next } = readingNeighbors(navigation.dataset.route ?? '', new URLSearchParams(location.search).get('section'));
+		for (const [relation, page, label] of [['prev', previous, 'חזרה לדף קודם'], ['next', next, 'המשך בעמוד הבא']] as const) {
+			const anchor = navigation.querySelector<HTMLAnchorElement>(`[rel="${relation}"]`)!;
+			anchor.hidden = !page;
+			if (page) {
+				anchor.href = pageUrl(page.route, page.section);
+				anchor.textContent = `${label}: ${page.title}`;
+			} else {
+				anchor.removeAttribute('href');
+			}
+		}
+	}
+</script>
 
 <style>
 	.page-navigation { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: start; gap: 1rem; margin-top: 1.5rem; padding-block: 1rem; border-top: 1px solid #ddd; }

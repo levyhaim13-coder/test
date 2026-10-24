@@ -1,21 +1,10 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { pageUrl, readingSections } from '../lib/reading-order';
-import { getCollection } from 'astro:content';
-import { navigationMenu } from '../lib/navigation-menu';
-const { additional } = navigationMenu(await getCollection('pages'));
+import menu from '../../../menu.json';
+import MenuItems from '../components/MenuItems.astro';
 ---
 
 <BaseLayout title="רשימת הנושאים" canonicalPath="/test/topics.html">
 	<h1>רשימת הנושאים</h1>
-	{readingSections.map((section) => (
-		<section>
-			<h2>{section.title}</h2>
-			<ul>{section.pages.map((page) => <li><a href={pageUrl(page.route)}>{page.title}</a></li>)}</ul>
-		</section>
-	))}
-	<section id="additional">
-		<h2>נושאים נוספים</h2>
-		<ul>{additional.map((page) => <li><a href={pageUrl(page.route)}>{page.title}</a></li>)}</ul>
-	</section>
+	<MenuItems items={menu} />
 </BaseLayout>
