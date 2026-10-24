@@ -9,8 +9,8 @@ export function navigationMenu(pages: Page[]) {
 	const included = new Set(readingSections.flatMap((section) => section.pages.map((page) => page.route)));
 	const items: MenuItem[] = readingSections.map((section) => ({
 		title: section.title,
-		url: pageUrl(section.pages[0].route),
-		children: section.pages.slice(1).map((page) => ({ title: page.title, url: pageUrl(page.route), children: [] })),
+		url: pageUrl(section.pages[0].route, section.documentSections[0]),
+		children: section.pages.slice(1).map((page) => ({ title: page.title, url: pageUrl(page.route, section.documentSections[0]), children: [] })),
 	}));
 	const additional: { title: string; route: string }[] = [];
 	const visit = (entries: MenuItem[]) => {

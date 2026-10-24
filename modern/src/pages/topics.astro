@@ -11,7 +11,7 @@ const { additional } = navigationMenu(await getCollection('pages'));
 	{readingSections.map((section) => (
 		<section>
 			<h2>{section.title}</h2>
-			<ul>{section.pages.map((page) => <li><a href={pageUrl(page.route)}>{page.title}</a></li>)}</ul>
+			<ul>{section.pages.map((page) => <li><a href={pageUrl(page.route, section.documentSections[0])}>{page.title}</a></li>)}</ul>
 		</section>
 	))}
 	<section id="additional">
