@@ -27,7 +27,7 @@ for (let index = 0; index < sequence.length; index++) {
 	for (const [direction, step] of [['previous', -1], ['next', 1]]) {
 		let position = index + step;
 		while (sequence[position]?.route === page.route) position += step;
-		const expected = sequence[position];
+		const expected = (step > 0 && page.end) || (step < 0 && sequence[position]?.end) ? undefined : sequence[position];
 		assert.deepEqual(neighbors[direction], expected, `Skipped document topic: ${page.route} in section ${page.section}`);
 		if (expected) {
 			const reverse = readingNeighbors(expected.route, String(expected.section));
@@ -47,6 +47,10 @@ assert.equal(readingNeighbors('210785/המחמושת').next?.route, 'מחמוש�
 assert.equal(readingNeighbors('מחמושת-הגדרה').next?.route, 'צורת-המחמושת');
 assert.equal(readingNeighbors('210785/צלילי-המוזיקה').next?.route, 'צלילי-המוזיקה-הגדרה');
 assert.equal(readingNeighbors('צלילי-המוזיקה-הגדרה').next?.route, '210785/תכונות-הצליל');
+const arrangement = 'pages/1791389192891_העיבוד המוזיקלי';
+assert.equal(readingNeighbors(arrangement).next, undefined, 'The musical arrangement page is the last page');
+assert.equal(readingNeighbors(arrangement, '34').next, undefined, 'A section parameter must not add a next link to the last page');
+assert.equal(readingNeighbors(arrangement).previous?.route, 'pages/1791309995578_כתיבת המלל', 'The last page must retain its back link');
 assert.deepEqual(readingNeighbors('210785/מונחים-מוזיקליים-1-1', '28'), readingNeighbors('210785/מונחים-מוזיקליים-1-1', '16'));
 assert.deepEqual(readingNeighbors('מוזיקת-הבלוז', 'invalid'), readingNeighbors('מוזיקת-הבלוז'));
 assert.deepEqual(readingNeighbors('מוזיקת-הבלוז', '1'), readingNeighbors('מוזיקת-הבלוז'));

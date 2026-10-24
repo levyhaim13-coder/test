@@ -1,11 +1,13 @@
 import sections from '../reading-order.json' with { type: 'json' };
 import aliases from '../reading-aliases.json' with { type: 'json' };
 
+type ReadingPage = { title: string; route: string; section: number; end?: boolean };
+
 export const normalizeRoute = (route: string) => route.replace(/^\/+|\/+$/g, '');
 export const pageUrl = (route: string, section?: number) =>
 	(route ? `/test/${normalizeRoute(route)}.html` : '/test/') + (section === undefined ? '' : `?section=${section}`);
 export const readingSections = sections;
-export const readingPages = sections.flatMap((section) => section.pages.map((page) => ({ ...page, section: section.documentSections[0] })));
+export const readingPages: ReadingPage[] = sections.flatMap((section) => section.pages.map((page) => ({ ...page, section: section.documentSections[0] })));
 
 export function readingNeighbors(route: string, section?: string | null) {
 	const normalized = normalizeRoute(route);
@@ -18,8 +20,10 @@ export function readingNeighbors(route: string, section?: string | null) {
 	}
 	const neighbor = (step: number) => {
 		if (index < 0) return undefined;
+		if (step > 0 && readingPages[index].end) return undefined;
 		let position = index + step;
 		while (readingPages[position]?.route === canonical) position += step;
+		if (step < 0 && readingPages[position]?.end) return undefined;
 		return readingPages[position];
 	};
 	return {
