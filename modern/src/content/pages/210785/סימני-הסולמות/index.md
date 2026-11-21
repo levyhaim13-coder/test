@@ -263,5 +263,5 @@ isHome: false
 </table>
 <div style="clear: both; text-align: justify;">&nbsp;</div>
 <div style="clear: both; text-align: justify;">&nbsp;</div>
-<div style="clear: both; text-align: justify;">המשך בעמוד הבא!</div>
+<div style="clear: both; text-align: justify;"><strong>המשך צפייה מהנה!</strong></div>
 </div>
